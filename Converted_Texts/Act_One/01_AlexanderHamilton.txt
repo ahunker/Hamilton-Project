@@ -1,0 +1,173 @@
+<root><title>Alexander Hamilton</title>
+
+<stageDirection>Lights up on Aaron Burr &amp; the company.</stageDirection>
+
+<sp><speaker>AARON BURR</speaker>
+How does a bastard, orphan, son of a whore and a<lb/>
+Scotsman, dropped in the middle of a forgotten<lb/>
+Spot in the Caribbean by providence, impoverished, in squalor<lb/>
+Grow up to be a hero and a scholar?<lb/></sp>
+
+<sp><speaker>JOHN LAURENS</speaker>
+The ten-dollar Founding Father without a father<lb/>
+Got a lot farther by working a lot harder<lb/>
+By being a lot smarter<lb/>
+By being a self-starter<lb/>
+By fourteen, they placed him in charge of a trading charter<lb/></sp>
+
+<sp><speaker>THOMAS JEFFERSON</speaker>
+And every day while slaves were being slaughtered and carted<lb/>
+Away across the waves, he struggled and kept his guard up<lb/>
+Inside, he was longing for something to be a part of<lb/>
+The brother was ready to beg, steal, borrow, or barter<lb/></sp>
+
+<sp><speaker>JAMES MADISON</speaker>
+Then a hurricane came, and devastation reigned<lb/>
+Our man saw his future drip, dripping down the drain<lb/>
+Put a pencil to his temple, connected it to his brain<lb/>
+And he wrote his first refrain, a testament to his pain<lb/></sp>
+
+<sp><speaker>BURR</speaker>
+Well, the word got around, they said, “This kid is insane, man”<lb/>
+Took up a collection just to send him to the mainland<lb/>
+“Get your education, don’t forget from whence you came, and<lb/>
+The world's gonna know your name. What’s your name, man?”<lb/></sp>
+
+<sp><speaker>ALEXANDER HAMILTON</speaker>
+Alexander Hamilton<lb/>
+My name is Alexander Hamilton<lb/>
+And there’s a million things I haven’t done<lb/>
+But just you wait, just you wait...<lb/></sp>
+
+<sp><speaker>ELIZA HAMILTON</speaker>
+When he was ten his father split, full of it, debt-ridden<lb/>
+Two years later, see Alex and his mother bed-ridden<lb/>
+Half-dead sittin' in their own sick, the scent thick<lb/></sp>
+
+<sp><speaker>FULL COMPANY EXCEPT HAMILTON <stageDirection>whispering</stageDirection></speaker>
+And Alex got better but his mother went quick<lb/></sp>
+
+<sp><speaker>GEORGE WASHINGTON</speaker>
+Moved in with a cousin, the cousin committed suicide<lb/>
+Left him with nothin’ but ruined pride, something new inside<lb/>
+A voice saying<lb/></sp>
+
+<sp><speaker>WASHINGTON</speaker>
+“You gotta fend for yourself.”<lb/>	</sp>
+
+<sp><speaker>COMPANY</speaker>
+“Alex, you gotta fend for yourself.”<lb/></sp>
+
+<sp><speaker>WASHINGTON</speaker>
+He started retreatin’ and readin’ every treatise on the shelf<lb/></sp>
+
+<sp><speaker>BURR</speaker>
+There would have been nothin’ left to do<lb/>
+For someone less astute<lb/>
+He woulda been dead or destitute<lb/>
+Without a cent of restitution<lb/>
+Started workin’, clerkin’ for his late mother’s landlord<lb/>
+Tradin’ sugar cane and rum and all the things he can’t afford<lb/>
+Scammin’ for every book he can get his hands on<lb/>
+Plannin’ for the future see him now as he stands on<lb/>
+The bow of a ship headed for a new land<lb/>
+In New York you can be a new man <lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+Scammin’<lb/>
+
+Plannin’<lb/>
+Oooh...<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+In New York you can<lb/>
+Be a new man—<lb/>
+In New York you can<lb/>
+Be a new man—<lb/>	</sp>
+
+<sp><speaker>HAMILTON</speaker>
+Just you wait!<lb/>
+
+Just you wait!<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+In New York you can be a new man—<lb/></sp>
+
+<sp><speaker>WOMEN</speaker>
+In New York—	 <lb/></sp>
+
+<sp><speaker>MEN</speaker>
+New York—<lb/></sp>
+
+<sp><speaker>HAMILTON</speaker>
+Just you wait!<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+Alexander Hamilton<lb/>
+
+We are waiting in the wings for you<lb/>
+
+You could never back down<lb/>
+You never learned to take your time!<lb/>
+
+Oh, Alexander Hamilton<lb/>
+
+When America sings for you<lb/>
+Will they know what you overcame?<lb/>
+Will they know you rewrote the game?<lb/>
+The world will never be the same, oh<lb/></sp>
+
+<sp><speaker>BURR</speaker>
+The ship is in the harbor now<lb/>
+See if you can spot him<lb/>
+
+Another immigrant<lb/>
+Comin’ up from the bottom<lb/>
+
+His enemies destroyed his rep<lb/>
+America forgot him	 <lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+Alexander Hamilton<lb/>
+
+Waiting in the wings for you<lb/>
+
+You never learned to take your time!<lb/>
+
+Oh, Alexander Hamilton<lb/>
+Alexander Hamilton…<lb/>
+America sings for you<lb/>
+Will they know what you overcame?<lb/>
+Will they know you rewrote the game?<lb/>
+The world will never be the same, oh<lb/></sp>
+
+<sp><speaker>MEN</speaker>
+Just you wait<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+Just you wait<lb/></sp>
+
+<sp><speaker>MULLIGAN/MADISON &amp; LAFAYETTE/JEFFERSON</speaker>
+We fought with him<lb/></sp>
+
+<sp><speaker>LAURENS/PHILIP</speaker>
+Me? I died for him<lb/></sp>
+
+<sp><speaker>WASHINGTON</speaker>
+Me? I trusted him<lb/></sp>
+
+<sp><speaker>ELIZA &amp; ANGELICA &amp; PEGGY/MARIA</speaker>
+Me? I loved him<lb/></sp>
+
+<sp><speaker>BURR</speaker>
+And me? I’m the damn fool that shot him<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+There’s a million things I haven’t done<lb/>
+But just you wait!<lb/></sp>
+
+<sp><speaker>BURR</speaker>
+What’s your name, man?<lb/></sp>
+
+<sp><speaker>COMPANY</speaker>
+Alexander Hamilton!<lb/></sp></root>
