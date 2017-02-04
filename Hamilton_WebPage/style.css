@@ -1,0 +1,14 @@
+html{
+   margin: 0px;
+    padding: 0px;
+    }
+body{
+    background-color: brown;
+    font-family: arial, serif;
+}
+h1{
+    font-size: 20px;
+}
+p{
+    font-size: 14px;
+}
