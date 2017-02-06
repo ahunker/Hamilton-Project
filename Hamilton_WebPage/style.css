@@ -3,12 +3,78 @@ html{
     padding: 0px;
     }
 body{
-    background-color: brown;
-    font-family: arial, serif;
+    background-color: #996633;
+    font-family: georgia, serif;
+    color: white;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
 }
 h1{
-    font-size: 20px;
+    font-size: 70px;
+    text-align: center;
+    font-family: "Courier New";
 }
+
+h2{
+    font-size: 25px;
+    text-align: left;
+}
+
 p{
-    font-size: 14px;
+    font-size: 16px;
+}
+
+hr {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+div.main {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+p.menu{
+    font-size: 20px;
+    font-family: "Courier New";
+    text-align: center;
+    color: white;
+}
+
+a{
+    color:white;
+}
+
+/* visited link */
+a:visited {
+    color: #d2a679;
+}
+
+/* mouse over link */
+a:hover {
+    color: #d2a679;
+}
+
+/* selected link */
+a:active {
+    color: #d2a679;
+}
+
+div.img{
+    padding-bottom: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+}
+
+img{
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
 }
