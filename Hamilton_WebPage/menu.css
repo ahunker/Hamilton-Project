@@ -11,7 +11,6 @@ body{
     padding: 0px;
 }
 
-
 /*Menu at top of every page*/
 h1{
     font-size: 70px;
@@ -46,34 +45,4 @@ a:hover {
 /* selected link */
 a:active {
     color: #d2a679;
-    }
-
-
-
-h2{
-    font-size: 25px;
-    text-align: left;
-}
-
-p{
-    font-size: 16px;
-}
-div.main {
-    text-align: left;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-div.img{
-    padding-bottom: 2%;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 2%;
-}
-img{
-    width: 100%;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black;
     }

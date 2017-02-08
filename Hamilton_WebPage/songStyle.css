@@ -1,0 +1,49 @@
+html{
+   margin: 0px;
+    padding: 0px;
+    }
+body{
+    background-color: #dfbf9f;
+    font-family: georgia, serif;
+    color: black;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*LINKS*/
+a{
+    color:white;
+}
+/* visited link */
+a:visited {
+    color: #d2a679;
+}
+/* mouse over link */
+a:hover {
+    color: #d2a679;
+}
+/* selected link */
+a:active {
+    color: #d2a679;
+    }
+
+
+
+h2{
+    font-size: 25px;
+    text-align: left;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+div.lyrics{
+    font-size: 16px;
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
