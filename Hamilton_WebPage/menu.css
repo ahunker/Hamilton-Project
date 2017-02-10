@@ -2,10 +2,7 @@ html{
    margin: 0px;
     padding: 0px;
     }
-body{
-    background-color: #996633;
-    font-family: georgia, serif;
-    color: white;
+body.menu{
     width:100%;
     margin: 0px;
     padding: 0px;
@@ -46,3 +43,4 @@ a:hover {
 a:active {
     color: #d2a679;
     }
+    

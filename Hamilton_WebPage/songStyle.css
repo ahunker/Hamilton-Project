@@ -3,9 +3,6 @@ html{
     padding: 0px;
     }
 body{
-    background-color: #dfbf9f;
-    font-family: georgia, serif;
-    color: black;
     width:100%;
     margin: 0px;
     padding: 0px;
@@ -35,7 +32,7 @@ h2{
     font-size: 25px;
     text-align: left;
     padding-left: 5%;
-    padding-top: 1%;
+    padding-top: 3%;
     padding-bottom: 1%;
 }
 
@@ -47,3 +44,15 @@ div.lyrics{
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
+div.song{
+    background-color: #dfbf9f;
+    font-family: georgia, serif;
+    color: black;
+    padding: 1%;
+}
+
+div.menu{
+    background-color: #996633;
+    font-family: georgia, serif;
+    color: white;}
