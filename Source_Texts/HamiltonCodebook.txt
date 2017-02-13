@@ -1,0 +1,104 @@
+The Hamilton Project Codebook
+
+ We will be following TEI standards when converting the text documents into xml. Here is the link to the TEI homepage: 
+    http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html
+I'll provide the list of elements and attributes from TEI that we'll be using specifically. Don't worry about the content of the TEI header for now, focus more on the content of text.
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>
+                <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <head>
+                <title> Title of song</title>
+            </head>
+            <spGrp>
+                <sp who="assignedNickname">
+                    <speaker>Name of who is singing</speaker>
+                    <l>Lyrics</l>
+                    <l><date>1776</date><l/>
+                    <l>Pardon me. Are you <**refer below>Aaron Burr, sir?<**></l>
+                </sp>
+                <stage type="*refer below for values">Any type of stage directions</stage>
+                <sp who="assignedNickname">
+                    <speaker>Name of who is singing</speaker>
+                    <l>Lyrics<l>
+                    <l>My name is <persName type="assignedNickname">Alexander Hamilton</persname></l>
+                </sp>
+            </spGrp>
+        </body>
+    </text>
+</TEI>
+
+*setting: describes a setting, entrance: describes an entrance, exit: describes an exit, business: describes stage business, novelistic: is a narrative, motivating stage direction, delivery: describes how a character speaks, modifier: gives some detail about a character, location: describes a location, mixed: more than one of the above
+
+**<s> contains a sentence-like division of a text, <cl> represents a grammatical clause, <phr> represents a grammatical phrase, <w> represents a grammatical (not necessarily orthographic) word.
+
+Assigned Nicknames:
+    SPEAKERS AND PERSNAMES:
+    Alexander Hamilton - hamilton
+    Aaron Burr - burr
+    George Washington - washington
+    John Laurens - laurens
+    Hercules Mulligan - mulligan
+    Marquis de Lafayette - lafayette
+    Eliza Schuyler/Hamilton - eliza
+    Angelica Shuyler - angelica
+    Peggy Schuyler - peggy
+    Thomas Jefferson - jefferson
+    James Madison - madison
+    Philip Hamilton - philipH
+    King George - kingGeorge
+    Samuel Seabury - seabury
+    Charles Lee - lee
+    Maria Reynolds - maria
+    James Reynolds - reynolds
+    George Eacker - eacker
+    Doctor - doctor
+    Martha - martha
+    Dolly - dolly
+    Ensemble - ensemble
+    Company - company
+    Men - men
+    Women - women
+    PERSNAMES ONLY:
+    William P. Van Ness - ness
+    Nathaniel Pendleton - pendleton
+    General Mercer - generalMercer
+    King Louis - kingLouis
+    Betsy Ross - betsy
+    Rochambeau - rochambeau
+    Levi Weeks - weeks
+    John Jay - jay
+    Sally - sally
+    Thomas Conway - conway
+    Theodosia - theodosiaDaughter
+    Theodosia - theodosiaMother
+    Philip Schuyler - philipS
+    Thomas Paine - paine
+    Sam Adams - sAdams
+    John Adams - jAdams
+    Admiral Howe - howe
+    General Montgomery - generalMontgomery
+    Nathaniel Green - green
+    Henry Knox - knox
+    Martha Washington - marthaWashington
+    
+    
