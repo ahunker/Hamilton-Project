@@ -69,8 +69,8 @@
 
                 <sp who="hamilton">
                     <speaker>ALEXANDER HAMILTON</speaker>
-                    <l><persName>Alexander Hamilton</persName></l>
-                    <l>My name is <persName>Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l>My name is <persName type="hamilton">Alexander Hamilton</persName></l>
                     <l>And there’s a million things I haven’t done</l>
                     <l>But just you wait, just you wait...</l>
                 </sp>
@@ -78,14 +78,14 @@
                 <sp who="eliza">
                     <speaker>ELIZA HAMILTON</speaker>
                     <l>When he was ten his father split, full of it, debt-ridden</l>
-                    <l>Two years later, see <persName>Alex</persName> and his mother bed-ridden</l>
+                    <l>Two years later, see <persName type="hamilton">Alex</persName> and his mother bed-ridden</l>
                     <l>Half-dead sittin' in their own sick, the scent thick</l>
                 </sp>
 
                 <sp who="company">
                     <speaker>FULL COMPANY EXCEPT HAMILTON</speaker>
                     <stage type="delivery">whispering</stage>
-                    <l>And <persName>Alex</persName> got better but his mother went quick</l>
+                    <l>And <persName type="hamilton">Alex</persName> got better but his mother went quick</l>
                 </sp>
 
                 <sp who="washington">
@@ -97,7 +97,7 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l>“<persName>Alex</persName>, you gotta fend for yourself.”</l>
+                    <l>“<persName type="hamilton">Alex</persName>, you gotta fend for yourself.”</l>
                 </sp>
 
                 <sp who="washington">
@@ -190,14 +190,14 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l><persName>Alexander Hamilton</persName></l>
-                    <l><persName>Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
                     <l>We are waiting in the wings for you</l>
                     <l>Waiting in the wings for you</l>
                     <l>You could never back down</l>
                     <l>You never learned to take your time!</l>
-                    <l>Oh, <persName>Alexander Hamilton</persName></l>
-                    <l><persName>Alexander Hamilton</persName>…</l>
+                    <l>Oh, <persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName>…</l>
                     <l>When America sings for you</l>
                     <l>America sings for you</l>
                     <l>Will they know what you overcame?</l>
@@ -271,7 +271,7 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l><persName>Alexander Hamilton</persName>!</l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName>!</l>
                 </sp>
             </spGrp>
         </body>

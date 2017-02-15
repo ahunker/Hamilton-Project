@@ -95,7 +95,7 @@ Assigned Nicknames:
     Thomas Paine - paine
     Sam Adams - sAdams
     John Adams - jAdams
-    Admiral Howe - howe
+    Admiral Howe - admiralHowe
     General Montgomery - generalMontgomery
     Nathaniel Green - green
     Henry Knox - knox
