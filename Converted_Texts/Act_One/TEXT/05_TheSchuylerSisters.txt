@@ -28,7 +28,7 @@ The Schuyler Sisters
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l>Work, work!</l>
-<l>The Schuyler sisters!</l></sp>
+<l>The <persName type="schuylerSis">Schuyler sisters</persName>!</l></sp>
 
 <sp who="angelica"><speaker>ANGELICA</speaker>
 <l><persName type="angelica">Angelica</persName>!</l></sp>
@@ -56,10 +56,10 @@ The Schuyler Sisters
 
 <sp who="angelica"><speaker>ANGELICA</speaker>
 <l>But—look around, look around, the</l>
-<l>Revolution’s happening in New York</l></sp>
+<l>Revolution’s happening in <placeName>New York</placeName></l></sp>
 
 <sp who="eliza peggy"><speaker>ELIZA/PEGGY</speaker>
-<l>New York</l></sp>
+<l><placeName>New York</placeName></l></sp>
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l><persName type="angelica">Angelica</persName></l></sp>
@@ -151,7 +151,7 @@ The Schuyler Sisters
 <l>Lucky we are to be alive right now!</l></sp>
 
 <sp who="angelica eliza peggy"><speaker>ELIZA/ANGELICA/PEGGY</speaker>
-<l>History is happening in Manhattan and we just happen to be</l>
+<l>History is happening in <placeName>Manhattan</placeName> and we just happen to be</l>
 <l>In the greatest city in the world!</l></sp>
 
 <sp who="angelica eliza peggy company"><speaker>SCHUYLER SISTERS AND COMPANY</speaker>
@@ -171,8 +171,8 @@ The Schuyler Sisters
 <sp who="eliza peggy"><speaker>ELIZA/PEGGY</speaker>
 <l>Look around, look around</l>
 <l>The revolution’s happening in—</l>
-<l>New York!</l>
-<l>In New York!</l></sp>
+<l><placeName>New York</placeName>!</l>
+<l>In <placeName>New York</placeName>!</l></sp>
 
 <sp who="women"><speaker>FEMALE ENSEMBLE</speaker>
 <l>Look around</l>
@@ -193,7 +193,7 @@ The Schuyler Sisters
 
 <sp who="company"><speaker>FULL COMPANY</speaker>
 <l>Look around, look around at how lucky we are to be alive right now!</l>
-<l>History is happening in Manhattan and we just happen to be</l></sp>
+<l>History is happening in <placeName>Manhattan</placeName> and we just happen to be</l></sp>
 
 <sp who="women"><speaker>ALL WOMEN</speaker>
 <l>In the greatest city in the world</l></sp>
@@ -228,7 +228,7 @@ The Schuyler Sisters
 <l>And <persName type="peggy">Peggy</persName>!</l></sp>
 
 <sp who="angelica eliza peggy"><speaker>ANGELICA/ELIZA/PEGGY</speaker>
-<l>The Schuyler sisters!</l>
+<l>The <persName type="schuylerSis">Schuyler sisters</persName>!</l>
 <l>We’re looking for a mind at work!</l>
 <l>Hey!</l>
 <l>Hey!</l></sp>

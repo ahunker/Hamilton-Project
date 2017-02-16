@@ -26,7 +26,7 @@
             <spGrp>
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l><date>1776</date>. New York City</l>
+                    <l><date>1776</date>. <placeName>New York City</placeName></l>
                 </sp>
 
                 <sp who="hamilton">
@@ -55,7 +55,7 @@
                 <sp who="hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Sir…</l>
-                    <l>I heard your name at Princeton. I was seeking an accelerated course of study
+                    <l>I heard your name at <placeName>Princeton</placeName>. I was seeking an accelerated course of study
                         when I got sort of out of sorts with a buddy of yours. I may have punched
                         him. It’s a blur, sir. He handles the financials?</l>
                 </sp>
@@ -214,7 +214,7 @@
 
                 <sp who="laurens">
                     <speaker>LAURENS</speaker>
-                    <l>Well, if it ain’t the prodigy of Princeton college!</l>
+                    <l>Well, if it ain’t the prodigy of <placeName>Princeton college</placeName>!</l>
                 </sp>
 
                 <sp who="mulligan">

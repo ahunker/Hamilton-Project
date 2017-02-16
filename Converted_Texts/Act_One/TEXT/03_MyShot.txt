@@ -30,7 +30,7 @@
 <l>Hey yo, I’m just like my country</l>
 <l>I’m young, scrappy and hungry</l>
 <l>And I’m not throwing away my shot!</l>
-<l>I’m ‘a get a scholarship to King’s College</l>
+<l>I’m ‘a get a scholarship to <placeName>King’s College</placeName></l>
 <l>I prob’ly shouldn’t brag, but dag, I amaze and astonish</l>
 <l>The problem is I got a lot of brains but no polish</l>
 <l>I gotta holler just to be heard</l>
@@ -38,7 +38,7 @@
 <l>I’m a diamond in the rough, a shiny piece of coal</l>
 <l>Tryin’ to reach my goal. My power of speech: unimpeachable</l>
 <l>Only nineteen but my mind is older</l>
-<l>These New York City streets get colder, I shoulder</l>
+<l>These <placeName>New York City</placeName> streets get colder, I shoulder</l>
 <l>Ev’ry burden, ev’ry disadvantage</l>
 <l>I have learned to manage, I don’t have a gun to brandish</l>
 <l>I walk these streets famished</l>
@@ -52,7 +52,7 @@
 
 <sp who="hamilton"><speaker>HAMILTON</speaker>
 <l>A colony that runs independently</l>
-<l>Meanwhile, Britain keeps shittin’ on us endlessly</l>
+<l>Meanwhile, <placeName>Britain</placeName> keeps shittin’ on us endlessly</l>
 <l>Essentially, they tax us relentlessly</l>
 <l>Then <persName type="kingGeorge">King George</persName> turns around, runs a spending spree</l>
 <l>He ain’t ever gonna set his descendants free</l>
@@ -96,7 +96,7 @@
 
 <sp who="lafayette"><speaker>LAFAYETTE</speaker>
 <l>I dream of life without a monarchy</l>
-<l>The unrest in France will lead to ‘onarchy?</l>
+<l>The unrest in <placeName>France</placeName> will lead to ‘onarchy?</l>
 <l>‘Onarchy? How you say, how you say, ‘anarchy?’</l>
 <l>When I fight, I make the other side panicky</l>
 <l>With my—</l></sp>
@@ -162,30 +162,52 @@
 <l>And I’m not throwing away my shot</l></sp>
 
 <sp who="laurens"><speaker>LAURENS</speaker>
-<l>Ev’rybody sing:</l>
-<l>Whoa, whoa, whoa</l>
-<l>Hey!</l>
-<l>Whoa!</l>
-<l>Wooh!!</l>
-<l>Whoa!</l>
-<l>Ay, let ‘em hear ya!</l>
-<l>Let’s go!</l>
-<l>I said shout it to the rooftops!</l>
-<l>Said, to the rooftops!</l>
-<l>Come on!</l>
-<l>Come on, let’s go!</l></sp>
+<l>Ev’rybody sing:</l></sp>
 
-<sp who=""><speaker>HAMILTON/LAFAYETTE/MULLIGAN</speaker>
-<l>Whoa! Whoa! Whoa!</l>
-<l>Whoa!</l>
-<l>Whoa!</l>
+<sp who="hamilton laurens lafayette mulligan"><speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+<l>Whoa, whoa, whoa</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Hey!</l></sp>
+
+<sp who="hamilton laurens lafayette mulligan"><speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+<l>Whoa!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Wooh!!</l></sp>
+
+<sp who="hamilton laurens lafayette mulligan"><speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+<l>Whoa!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Say, let ‘em hear ya!</l></sp>
+
+<sp who="hamilton laurens lafayette mulligan"><speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
 <l>Yea!</l></sp>
 
-<sp who=""><speaker>COMPANY</speaker>
-<l>Whoa! Whoa! Whoa!</l>
-<l>Whoa!</l>
-<l>Whoa!</l>
-<l>Yea!</l></sp></sp>
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Let’s go!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Whoa! Whoa! Whoa!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>I said shout it to the rooftops!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Whoa!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Said, to the rooftops!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Whoa!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Come on!</l></sp>
+
+<sp who="laurens"><speaker>LAURENS</speaker>
+<l>Come on, let’s go!</l></sp>
 
 <sp who="laurens"><speaker>LAURENS</speaker>
 <l>Rise up!</l>
@@ -193,18 +215,19 @@
 <l>Tell your brother that he’s gotta rise up</l>
 <l>Tell your sister that she's gotta rise up</l></sp>
 
-<sp who=""><speaker>LAURENS AND ENSEMBLE</speaker>
+<sp who="laurens ensemble"><speaker>LAURENS/ENSEMBLE</speaker>
 <l>When are these colonies gonna rise up?</l>
 <l>When are these colonies gonna rise up?</l>
 <l>When are these colonies gonna rise up?</l>
-<l>When are these colonies gonna rise up?</l>
-<l>Rise up!	 </l></sp>
+<l>When are these colonies gonna rise up?</l></sp>
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l>Whoa! Whoa!</l>
 <l>Whoa!</l>
 <l>Whoa!</l>
-<l>Whoa!</l>
+<l>Whoa!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
 <l>Rise up!</l></sp>
 
 <sp who="hamilton"><speaker>HAMILTON</speaker>

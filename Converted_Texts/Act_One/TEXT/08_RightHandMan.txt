@@ -29,21 +29,21 @@
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l>British <persName type="admiralHowe">Admiral Howe’s</persName> got troops on the water</l>
-<l>Thirty-two thousand troops in New York harbor</l></sp>
+<l>Thirty-two thousand troops in <placeName>New York harbor</placeName></l></sp>
 
 <sp who="ensemble"><speaker>ENSEMBLE 1</speaker>
-<l>Thirty-two thousand troops in New York harbor</l>
+<l>Thirty-two thousand troops in <placeName>New York harbor</placeName></l>
 <l>When they surround our troops!</l>
 <l>They surround our troops!</l>
 <l>When they surround our troops!	 </l></sp>
 
 <sp who="ensemble"><speaker>ENSEMBLE 2</speaker>
-<l>Thirty-two thousand troops in New York harbor</l>
+<l>Thirty-two thousand troops in <placeName>New York harbor</placeName></l>
 <l>They surround our troops!</l>
 <l>They surround our troops!</l></sp>
 
 <sp who="hamilton"><speaker>HAMILTON</speaker>
-<l>As a kid in the Caribbean I wished for a war</l>
+<l>As a kid in the <placeName>Caribbean</placeName> I wished for a war</l>
 <l>I knew that I was poor</l>
 <l>I knew it was the only way to—</l></sp>
 
@@ -92,7 +92,7 @@
 <l>Here comes the <persName type="washington">General</persName>!</l></sp>
 
 <sp who="burr"><speaker>BURR</speaker>
-<l>The pride of Mount Vernon!</l></sp>
+<l>The pride of <placeName>Mount Vernon</placeName>!</l></sp>
 
 <sp who="ensemble"><speaker>ENSEMBLE</speaker>
 <l>Here comes the <persName type="washington">General</persName>!</l></sp>
@@ -134,7 +134,7 @@
 <l>Any hope of success is fleeting</l>
 <l>How can I keep leading when the people I’m</l>
 <l>Leading keep retreating?</l>
-<l>We put a stop to the bleeding as the British take Brooklyn</l>
+<l>We put a stop to the bleeding as the British take <placeName>Brooklyn</placeName></l>
 <l>Knight takes rook, but look</l></sp>
 
 <sp who="washington"><speaker>WASHINGTON</speaker>
@@ -182,7 +182,7 @@
 <l>Boom!</l></sp>
 
 <sp who="washington"><speaker>WASHINGTON</speaker>
-<l>Goes the cannon, we’re abandonin’ Kips Bay and…</l></sp>
+<l>Goes the cannon, we’re abandonin’ <placeName>Kips Bay</placeName> and…</l></sp>
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l>Boom!</l></sp>
@@ -200,14 +200,14 @@
 <l>Boom!</l></sp>
 
 <sp who="washington"><speaker>WASHINGTON</speaker>
-<l>We gotta run to Harlem quick, we can’t afford another slip</l>
+<l>We gotta run to <placeName>Harlem</placeName> quick, we can’t afford another slip</l>
 <l>Guns and horses giddyup</l>
 <l>I decide to divvy up</l>
 <l>My forces, they’re skittish as the British cut the city up</l>
 <l>This close to giving up, facing mad scrutiny</l>
 <l>I scream in the face of this mass mutiny:</l>
-<l>Are these the men with which I am to defend America?</l>
-<l>We ride at midnight, Manhattan in the distance</l>
+<l>Are these the men with which I am to defend <placeName>America</placeName>?</l>
+<l>We ride at midnight, <placeName>Manhattan</placeName> in the distance</l>
 <l>I cannot be everywhere at once, people</l>
 <l>I’m in dire need of assistance…</l></sp>
 
@@ -229,7 +229,7 @@
 <sp who="burr"><speaker>BURR</speaker>
 <l>Sir</l>
 <l>I was a captain under <persName type="generalMontgomery">General Montgomery<persName></l>
-<l>Until he caught a bullet in the neck in Quebec</l>
+<l>Until he caught a bullet in the neck in <placeName>Quebec</placeName></l>
 <l>And well, in summary</l>
 <l>I think that I could be of some assistance</l>
 <l>I admire how you keep firing on the British</l>

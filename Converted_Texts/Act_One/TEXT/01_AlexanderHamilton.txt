@@ -24,13 +24,14 @@
                 <title>Alexander Hamilton</title>
             </head>
             <spGrp>
-                <stage type="business">Lights up on Aaron Burr &amp; the company.</stage>
+                <stage type="business">Lights up on Aaron Burr and the Company.</stage>
 
                 <sp who="burr">
                     <speaker>AARON BURR</speaker>
                     <l>How does a bastard, orphan, son of a whore and a</l>
                     <l>Scotsman, dropped in the middle of a forgotten</l>
-                    <l>Spot in the Caribbean by providence, impoverished, in squalor</l>
+                    <l>Spot in the <placeName>Caribbean</placeName> by providence, impoverished, in
+                        squalor</l>
                     <l>Grow up to be a hero and a scholar?</l>
                 </sp>
 
@@ -69,8 +70,8 @@
 
                 <sp who="hamilton">
                     <speaker>ALEXANDER HAMILTON</speaker>
-                    <l><persName>Alexander Hamilton</persName></l>
-                    <l>My name is <persName>Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l>My name is <persName type="hamilton">Alexander Hamilton</persName></l>
                     <l>And there’s a million things I haven’t done</l>
                     <l>But just you wait, just you wait...</l>
                 </sp>
@@ -78,14 +79,17 @@
                 <sp who="eliza">
                     <speaker>ELIZA HAMILTON</speaker>
                     <l>When he was ten his father split, full of it, debt-ridden</l>
-                    <l>Two years later, see <persName>Alex</persName> and his mother bed-ridden</l>
+                    <l>Two years later, see <persName type="hamilton">Alex</persName> and his mother
+                        bed-ridden</l>
                     <l>Half-dead sittin' in their own sick, the scent thick</l>
                 </sp>
 
                 <sp who="company">
-                    <speaker>FULL COMPANY EXCEPT HAMILTON</speaker>
+                    <speaker>FULL COMPANY</speaker>
+                    <stage type="delivery">Except Hamilton</stage>
                     <stage type="delivery">whispering</stage>
-                    <l>And <persName>Alex</persName> got better but his mother went quick</l>
+                    <l>And <persName type="hamilton">Alex</persName> got better but his mother went
+                        quick</l>
                 </sp>
 
                 <sp who="washington">
@@ -97,7 +101,7 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l>“<persName>Alex</persName>, you gotta fend for yourself.”</l>
+                    <l>“<persName type="hamilton">Alex</persName>, you gotta fend for yourself.”</l>
                 </sp>
 
                 <sp who="washington">
@@ -143,12 +147,12 @@
                 <sp who="burr">
                     <speaker>BURR</speaker>
                     <l>The bow of a ship headed for a new land</l>
-                    <l>In New York you can be a new man </l>
+                    <l>In <placeName>New York</placeName> you can be a new man </l>
                 </sp>
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l>In New York you can</l>
+                    <l>In <placeName>New York</placeName> you can</l>
                     <l>Be a new man—</l>
                 </sp>
 
@@ -159,7 +163,7 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l>In New York you can</l>
+                    <l>In <placeName>New York</placeName> you can</l>
                     <l>Be a new man—</l>
                 </sp>
 
@@ -170,17 +174,17 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l>In New York you can be a new man—</l>
+                    <l>In <placeName>New York</placeName> you can be a new man—</l>
                 </sp>
 
                 <sp who="women">
                     <speaker>WOMEN</speaker>
-                    <l>In New York— </l>
+                    <l>In <placeName>New York</placeName>— </l>
                 </sp>
 
                 <sp who="men">
                     <speaker>MEN</speaker>
-                    <l>New York—</l>
+                    <l><placeName>New York</placeName>—</l>
                 </sp>
 
                 <sp who="hamilton">
@@ -190,16 +194,16 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l><persName>Alexander Hamilton</persName></l>
-                    <l><persName>Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName></l>
                     <l>We are waiting in the wings for you</l>
                     <l>Waiting in the wings for you</l>
                     <l>You could never back down</l>
                     <l>You never learned to take your time!</l>
-                    <l>Oh, <persName>Alexander Hamilton</persName></l>
-                    <l><persName>Alexander Hamilton</persName>…</l>
-                    <l>When America sings for you</l>
-                    <l>America sings for you</l>
+                    <l>Oh, <persName type="hamilton">Alexander Hamilton</persName></l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName>…</l>
+                    <l>When <placeName>America</placeName> sings for you</l>
+                    <l><placeName>America</placeName> sings for you</l>
                     <l>Will they know what you overcame?</l>
                     <l>Will they know you rewrote the game?</l>
                     <l>The world will never be the same, oh</l>
@@ -230,11 +234,11 @@
                 <sp who="burr">
                     <speaker>BURR</speaker>
                     <l>His enemies destroyed his rep</l>
-                    <l>America forgot him</l>
+                    <l><placeName>America</placeName> forgot him</l>
                 </sp>
 
                 <sp who="mulligan lafayette">
-                    <speaker>MULLIGAN &amp; LAFAYETTE</speaker>
+                    <speaker>MULLIGAN/LAFAYETTE</speaker>
                     <l>We fought with him</l>
                 </sp>
 
@@ -249,7 +253,7 @@
                 </sp>
 
                 <sp who="eliza angelica maria">
-                    <speaker>ELIZA &amp; ANGELICA &amp; MARIA</speaker>
+                    <speaker>ELIZA/ANGELICA/MARIA</speaker>
                     <l>Me? I loved him</l>
                 </sp>
 
@@ -271,7 +275,7 @@
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
-                    <l><persName>Alexander Hamilton</persName>!</l>
+                    <l><persName type="hamilton">Alexander Hamilton</persName>!</l>
                 </sp>
             </spGrp>
         </body>

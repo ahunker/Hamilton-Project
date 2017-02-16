@@ -78,6 +78,7 @@ Assigned Nicknames:
     Company - company
     Men - men
     Women - women
+    Recording
     PERSNAMES ONLY:
     William P. Van Ness - ness
     Nathaniel Pendleton - pendleton
@@ -100,5 +101,6 @@ Assigned Nicknames:
     Nathaniel Green - green
     Henry Knox - knox
     Martha Washington - marthaWashington
+    Schuyler Sister - schuylerSis
     
     
