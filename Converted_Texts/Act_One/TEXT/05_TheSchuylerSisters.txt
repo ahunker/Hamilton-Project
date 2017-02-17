@@ -89,19 +89,30 @@ The Schuyler Sisters
 <l>She’s lookin’ for me!</l></sp>
 
 <sp who="angelica"><speaker>ANGELICA</speaker>
-<l><persName type="eliza">Eliza</persName>, I’m lookin’ for a mind at work</l>
-<l>I’m lookin’ for a mind at work!</l>
-<l>I’m lookin’ for a mind at work!</l>
+<l><persName type="eliza">Eliza</persName>, I’m lookin’ for a mind at work</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Work, work!</l></sp>
+
+<sp who="angelica"><speaker>ANGELICA</speaker>
+<l>I’m lookin’ for a mind at work!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Work, work!</l></sp>
+
+<sp who="angelica"><speaker>ANGELICA</speaker>
+<l>I’m lookin’ for a mind at work!</l></sp>
+
+<sp who="company"><speaker>COMPANY</speaker>
+<l>Work, work!</l></sp>
+
+<sp who="angelica"><speaker>ANGELICA</speaker>
 <l>Whooaaaaa!</l></sp>
 
 <sp who="angelica eliza peggy"><speaker>ELIZA/ANGELICA/PEGGY</speaker>
-<l>Whooaaaaa!</l>
-<l>Work!</l></sp>
+<l>Whooaaaaa!</l></sp>
 
-<sp who="company"><speaker>COMPANY</speaker>
-<l>Work, work!</l>
-<l>Work, work!</l>
-<l>Work, work!</l>
+<sp who="company eliza angelica peggy"><speaker>SCHUYLER SISTERS AND COMPANY</speaker>
 <l>Work!</l>
 </sp>
 
