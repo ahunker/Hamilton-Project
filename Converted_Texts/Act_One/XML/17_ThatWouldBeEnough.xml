@@ -23,7 +23,7 @@
             <head>
                 <title>That Would Be Enough</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="eliza">
                     <speaker>ELIZA</speaker>
@@ -124,7 +124,7 @@
                     <l>And we could be enough</l>
                     <l>That would be enough</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

@@ -23,7 +23,7 @@
             <head>
                 <title>Aaron Burr, Sir</title>
             </head>
-            <spGrp>
+            <div type="song">
                 <sp who="company">
                     <speaker>COMPANY</speaker>
                     <l><date>1776</date>. <placeName>New York City</placeName></l>
@@ -258,7 +258,7 @@
                     <l>Who are you?</l>
                     <l>Ooh, who is this kid? What’s he gonna do?</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

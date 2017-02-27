@@ -23,7 +23,7 @@
             <head>
                 <title>Alexander Hamilton</title>
             </head>
-            <spGrp>
+            <div type="song">
                 <stage type="business">Lights up on Aaron Burr and the Company.</stage>
 
                 <sp who="burr">
@@ -277,7 +277,7 @@
                     <speaker>COMPANY</speaker>
                     <l><persName type="hamilton">Alexander Hamilton</persName>!</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

@@ -23,7 +23,7 @@
             <head>
                 <title>Yorktown (The World Turned Upside Down)</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="company">
                     <speaker>COMPANY</speaker>
@@ -319,7 +319,7 @@
                     <speaker>COMPANY</speaker>
                     <l>The world turned upside down!</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

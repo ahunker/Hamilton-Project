@@ -23,7 +23,7 @@
             <head>
                 <title>The Story of Tonight</title>
             </head>
-            <spGrp>
+            <div type="song">
                 <sp who="hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I may not live to see our glory!</l>
@@ -167,7 +167,7 @@
                     <speaker>FULL ENSEMBLE</speaker>
                     <l>Tonight</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

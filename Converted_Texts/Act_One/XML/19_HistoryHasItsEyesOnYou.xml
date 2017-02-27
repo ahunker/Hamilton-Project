@@ -23,7 +23,7 @@
             <head>
                 <title>History has its Eyes on You</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="washington">
                     <speaker>WASHINGTON</speaker>
@@ -102,7 +102,7 @@
                     <speaker>FULL COMPANY</speaker>
                     <l>History has its eyes on you</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

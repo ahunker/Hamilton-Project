@@ -23,7 +23,7 @@
             <head>
                 <title>You'll Be Back</title>
             </head>
-            <spGrp>
+            <div type="song">
                 <sp who="kingGeorge">
                     <speaker>KING GEORGE</speaker>
                     <l>You say</l>
@@ -75,7 +75,7 @@
                     <l>Da da da dat da dat da da da da ya da da da da</l>
                     <l>Dat dat da ya da!</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

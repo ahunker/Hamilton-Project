@@ -23,7 +23,7 @@
             <head>
                 <title>Stay Alive</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="eliza">
                     <speaker>ELIZA</speaker>
@@ -316,7 +316,7 @@
                     <speaker>HAMILTON</speaker>
                     <l><persName type="laurens">Laurens</persName>, do not throw away your shot</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

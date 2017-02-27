@@ -23,7 +23,7 @@
             <head>
                 <title>Farmer Refuted</title>
             </head>
-            <spGrp>
+            <div type="song">
 
 <sp who="seabury"><speaker>SEABURY</speaker>
 <l>Hear ye, hear ye! My name is <persName type="seabury">Samuel Seabury</persName></l>
@@ -48,7 +48,7 @@
 <l>I pray the <persName type="kingGeorge">king</persName> shows you his mercy</l>
 <l>For shame, for shame…</l></sp>
 
-<sp who="hamilton"><speaker>HAMILTON</speaker>
+<spGrp type="simultaneous"><sp who="hamilton"><speaker>HAMILTON</speaker>
 <l>Yo!</l>
 <l>He’d have you all unravel at the</l>
 <l>Sound of screams but the</l>
@@ -80,7 +80,7 @@
 <l>They’re playing a dangerous game</l>
 <l>I pray the <persName type="kingGeorge">king</persName> shows you his mercy</l>
 <l>For shame</l>
-<l>For shame!</l></sp>
+<l>For shame!</l></sp></spGrp>
 
 <sp who="company"><speaker>COMPANY</speaker>
 <l>For the revolution!</l></sp>
@@ -115,4 +115,4 @@
 <l>A message from the <persName type="kingGeorge">King</persName>!</l></sp>
 
 <sp who="company"><speaker>FULL COMPANY</speaker>
-<l>A message from the <persName type="kingGeorge">King</persName>!</l></sp></spGrp></body></text></TEI>
+<l>A message from the <persName type="kingGeorge">King</persName>!</l></sp></div></body></text></TEI>

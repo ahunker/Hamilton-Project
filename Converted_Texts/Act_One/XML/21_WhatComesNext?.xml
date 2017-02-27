@@ -23,7 +23,7 @@
             <head>
                 <title>What Comes Next?</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="kingGeorge">
                     <speaker>King George</speaker>
@@ -51,7 +51,7 @@
                     <l>Don’t come crawling back to me</l>
                     <l>You’re on your own…</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

@@ -23,7 +23,7 @@
             <head>
                 <title>The Story of Tonight (Reprise)</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="laurens">
                     <speaker>LAURENS</speaker>
@@ -284,7 +284,7 @@
                     <speaker>HAMILTON</speaker>
                     <l>I’ll see you on the other side of the war</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

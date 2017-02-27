@@ -23,7 +23,7 @@
             <head>
                 <title>Guns and Ships</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="burr">
                     <speaker>BURR</speaker>
@@ -235,7 +235,7 @@
                     <l>The world will never be the same, <persName type="hamilton"
                             >Alexander</persName>…</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

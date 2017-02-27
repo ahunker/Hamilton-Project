@@ -23,7 +23,7 @@
             <head>
                 <title>Meet Me Inside</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="hamilton">
                     <speaker>HAMILTON</speaker>
@@ -221,7 +221,7 @@
                     <speaker>WASHINGTON</speaker>
                     <l>Go home</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

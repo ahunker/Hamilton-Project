@@ -29,20 +29,26 @@ I'll provide the list of elements and attributes from TEI that we'll be using sp
             <head>
                 <title> Title of song</title>
             </head>
-            <spGrp>
-                <sp who="assignedNickname">
+            <div type="song">
+                <spGrp type="simultaneous"***>
+                    <sp who="assignedNickname">
+                        <speaker>Name of who is singing</speaker>
+                        <l>Lyrics</l>
+                        <l><date>1776</date><l/>
+                        <l>Pardon me. Are you <**refer below>Aaron Burr, sir?<**></l>
+                    </sp>
+                    <stage type="*refer below for values">Any type of stage directions</stage>
+                    <sp who="assignedNickname">
+                        <speaker>Name of who is singing</speaker>
+                        <l>Lyrics<l>
+                        <l>My name is <persName type="assignedNickname">Alexander Hamilton</persname></l>
+                    </sp>
+                </spGrp>
+                <sp who="assignedNickName">
                     <speaker>Name of who is singing</speaker>
-                    <l>Lyrics</l>
-                    <l><date>1776</date><l/>
-                    <l>Pardon me. Are you <**refer below>Aaron Burr, sir?<**></l>
+                    <l>In <placeName>New York</placeName></l>
                 </sp>
-                <stage type="*refer below for values">Any type of stage directions</stage>
-                <sp who="assignedNickname">
-                    <speaker>Name of who is singing</speaker>
-                    <l>Lyrics<l>
-                    <l>My name is <persName type="assignedNickname">Alexander Hamilton</persname></l>
-                </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>
@@ -50,6 +56,8 @@ I'll provide the list of elements and attributes from TEI that we'll be using sp
 *setting: describes a setting, entrance: describes an entrance, exit: describes an exit, business: describes stage business, novelistic: is a narrative, motivating stage direction, delivery: describes how a character speaks, modifier: gives some detail about a character, location: describes a location, mixed: more than one of the above
 
 **<s> contains a sentence-like division of a text, <cl> represents a grammatical clause, <phr> represents a grammatical phrase, <w> represents a grammatical (not necessarily orthographic) word.
+
+***<spGrp type="simultaneous"> is when multiple people are singing at the same time. Wrap all of those speeches inside the speech group element.
 
 Assigned Nicknames:
     SPEAKERS AND PERSNAMES:
@@ -102,5 +110,3 @@ Assigned Nicknames:
     Henry Knox - knox
     Martha Washington - marthaWashington
     Schuyler Sister - schuylerSis
-    
-    

@@ -23,7 +23,7 @@
             <head>
                 <title>Wait for It</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="burr">
                     <speaker>BURR</speaker>
@@ -337,7 +337,7 @@
                     <speaker>MEN</speaker>
                     <l>Wait...</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

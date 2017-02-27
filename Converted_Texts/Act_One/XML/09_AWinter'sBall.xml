@@ -23,7 +23,7 @@
             <head>
                 <title>A Winter's Ball</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="burr">
                     <speaker>BURR</speaker>
@@ -104,7 +104,7 @@
                     <l>Hey</l>
                     <l>Hey hey</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

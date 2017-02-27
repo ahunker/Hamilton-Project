@@ -23,7 +23,7 @@
             <head>
                 <title>Ten Duel Commandments</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="men">
                     <speaker>MEN</speaker>
@@ -232,7 +232,7 @@
                     <speaker>HAMILTON/BURR</speaker>
                     <l>Fire!</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>

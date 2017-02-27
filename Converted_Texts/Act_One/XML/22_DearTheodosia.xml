@@ -23,7 +23,7 @@
             <head>
                 <title>Dear Theodosia</title>
             </head>
-            <spGrp>
+            <div type="song">
 
                 <sp who="burr">
                     <speaker>BURR</speaker>
@@ -96,7 +96,7 @@
                     <l>Yeah, you’ll blow us all away</l>
                     <l>Someday, someday</l>
                 </sp>
-            </spGrp>
+            </div>
         </body>
     </text>
 </TEI>
