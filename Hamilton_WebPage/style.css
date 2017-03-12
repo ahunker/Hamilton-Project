@@ -2,9 +2,11 @@ html{
    margin: 0px;
     padding: 0px;
     }
+    
 body{
-    background-image: url("back2.jpg");
     font-family: georgia, serif;
+    
+    background-image: url("back2.jpg");
     color: white;
     width:100%;
     margin: 0px;
@@ -37,15 +39,15 @@ a{
 }
 /* visited link */
 a:visited {
-    color: #d2a679;
+    color: black;
 }
 /* mouse over link */
 a:hover {
-    color: #d2a679;
+    color: black;
 }
 /* selected link */
 a:active {
-    color: #d2a679;
+    color: white;
     }
 
 
