@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -24,57 +25,57 @@
                 <title>The Story of Tonight</title>
             </head>
             <div type="song">
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I may not live to see our glory!</l>
                 </sp>
 
-                <sp who="lafayette mulligan laurens">
-                    <speaker>LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#mulligan #lafayette #laurens">
+                    <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>I may not live to see our glory!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>But I will gladly join the fight!</l>
                 </sp>
 
-                <sp who="lafayette mulligan laurens">
-                    <speaker>LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#mulligan #lafayette #laurens">
+                    <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>But I will gladly join the fight!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>And when our children tell our story…</l>
                 </sp>
 
-                <sp who="lafayette mulligan laurens">
-                    <speaker>LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#mulligan #lafayette #laurens">
+                    <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>And when our children tell our story…</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>They’ll tell the story of tonight</l>
                 </sp>
 
-                <sp who="mulligan">
+                <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
                     <l>Let’s have another round tonight</l>
                 </sp>
 
-                <sp who="lafayette">
+                <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
                     <l>Let’s have another round tonight</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Let’s have another round tonight</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Raise a glass to freedom</l>
                     <l>Something they can never take away</l>
@@ -82,88 +83,88 @@
                     <l>Raise a glass to the four of us</l>
                 </sp>
 
-                <sp who="laurens mulligan">
-                    <speaker>LAURENS/MULLIGAN</speaker>
+                <sp who="#mulligan #laurens">
+                    <speaker>MULLIGAN/LAURENS</speaker>
                     <l>Tomorrow there’ll be more of us</l>
                 </sp>
 
-                <sp who="mulligan lafayette laurens">
+                <sp who="#mulligan #lafayette #laurens">
                     <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Telling the story of tonight</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>They’ll tell the story of tonight</l>
                 </sp>
 
-                <sp who="laurens mulligan lafayette">
-                    <speaker>LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#mulligan #lafayette #laurens ">
+                    <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Raise a glass to freedom</l>
                     <l>Something they can never take away</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>No matter what they tell you</l>
                 </sp>
 
-                <sp who="mulligan lafayette">
+                <sp who="#mulligan #lafayette">
                     <speaker>MULLIGAN/LAFAYETTE</speaker>
                     <l>Let’s have another round tonight</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Raise a glass to the four of us</l>
                 </sp>
 
-                <sp who="hamilton laurens mulligan lafayette">
-                    <speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Tomorrow there’ll be more of us</l>
                 </sp>
 
-                <sp who="hamilton laurens">
+                <sp who="#hamilton #laurens">
                     <speaker>HAMILTON/LAURENS</speaker>
                     <l>Telling the story of tonight</l>
                 </sp>
 
-                <sp who="mulligan lafayette">
+                <sp who="#mulligan #lafayette">
                     <speaker>MULLIGAN/LAFAYETTE</speaker>
                     <l>Let’s have another round tonight</l>
                 </sp>
 
-                <sp who="hamilton laurens ensemble">
+                <sp who="#hamilton #laurens #ensemble">
                     <speaker>HAMILTON/LAURENS/ENSEMBLE</speaker>
                     <l>They’ll tell the story of tonight</l>
                 </sp>
 
-                <sp who="mulligan lafayette ensemble">
+                <sp who="#mulligan #lafayette #ensemble">
                     <speaker>MULLIGAN/LAFAYETTE/ENSEMBLE</speaker>
                     <l>Raise a glass to freedom</l>
                 </sp>
 
-                <sp who="hamilton laurens ensemble">
+                <sp who="#hamilton #laurens #ensemble">
                     <speaker>HAMILTON/LAURENS/ENSEMBLE</speaker>
                     <l>They’ll tell the story of tonight</l>
                 </sp>
 
-                <sp who="mulligan lafayette ensemble">
+                <sp who="#mulligan #lafayette #ensemble">
                     <speaker>MULLIGAN/LAFAYETTE/ENSEMBLE</speaker>
                     <l>Raise a glass to freedom</l>
                 </sp>
 
-                <sp who="hamilton laurens ensemble">
+                <sp who="#hamilton #laurens #ensemble">
                     <speaker>HAMILTON/LAURENS/ENSEMBLE</speaker>
                     <l>They’ll tell the story of tonight</l>
                 </sp>
 
-                <sp who="mulligan lafayette ensemble">
+                <sp who="#mulligan #lafayette #ensemble">
                     <speaker>MULLIGAN/LAFAYETTE/ENSEMBLE</speaker>
                     <l>They’ll tell the story of—</l>
                 </sp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>FULL ENSEMBLE</speaker>
                     <l>Tonight</l>
                 </sp>

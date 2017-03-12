@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -25,7 +26,7 @@
             </head>
             <div type="song">
 
-                <sp who="kingGeorge">
+                <sp who="#kingGeorge">
                     <speaker>King George</speaker>
                     <l>They say</l>
                     <l>The price of my war’s not a price that they’re willing to pay</l>

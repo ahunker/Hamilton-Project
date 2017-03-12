@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -25,9 +26,9 @@
             </head>
             <div type="song">
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Dear <persName type="theodosiaDaughter">Theodosia</persName>, what to say to
+                    <l>Dear <persName ref="#theodosiaDaughter">Theodosia</persName>, what to say to
                         you?</l>
                     <l>You have my eyes. You have your mother’s name</l>
                     <l>When you came into the world, you cried and it broke my heart</l>
@@ -45,13 +46,13 @@
                     <l>Someday, someday</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Oh <persName type="philipH">Philip</persName>, when you smile I am undone</l>
+                    <l>Oh <persName ref="#philipH">Philip</persName>, when you smile I am undone</l>
                     <l>My son</l>
                     <l>Look at my son. Pride is not the word I’m looking for</l>
                     <l>There is so much more inside me now</l>
-                    <l>Oh <persName type="philipH">Philip</persName>, you outshine the morning
+                    <l>Oh <persName ref="#philipH">Philip</persName>, you outshine the morning
                         sun</l>
                     <l>My son</l>
                     <l>When you smile, I fall apart</l>
@@ -59,32 +60,32 @@
                     <l>My father wasn’t around</l>
                 </sp>
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>My father wasn’t around</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I swear that</l>
                 </sp>
 
-                <sp who="hamilton burr">
+                <sp who="#hamilton #burr">
                     <speaker>HAMILTON/BURR</speaker>
                     <l>I’ll be around for you.</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I’ll do whatever it takes</l>
                 </sp>
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>I’ll make a million mistakes</l>
                 </sp>
 
-                <sp who="hamilton burr">
+                <sp who="#hamilton #burr">
                     <speaker>BURR/HAMILTON</speaker>
                     <l>I’ll make the world safe and sound for you…</l>
                     <l>…will come of age with our young nation</l>

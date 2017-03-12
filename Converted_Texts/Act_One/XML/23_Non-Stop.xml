@@ -55,7 +55,7 @@
                 </sp>
 
                 <sp who="#burr #ensemble">
-                    <speaker>BURR &amp; ENSEMBLE</speaker>
+                    <speaker>BURR/ENSEMBLE</speaker>
                     <l>Non-stop!</l>
                 </sp>
 
@@ -107,7 +107,7 @@
                     <l>Awwww!</l>
                 </sp>
 
-                <sp who="#burr ensemble">
+                <sp who="#burr #ensemble">
                     <speaker>BURR/ENSEMBLE</speaker>
                     <l>Why do you write like you’re running out of time?</l>
                 </sp>
@@ -141,8 +141,8 @@
                     <l>Seems to be calling me</l>
                 </sp>
 
-                <sp who="#burr ensemble">
-                    <speaker>BURR &amp; ENSEMBLE</speaker>
+                <sp who="#burr #ensemble">
+                    <speaker>BURR/ENSEMBLE</speaker>
                     <l>He’s just</l>
                     <l>Non-stop!</l>
                 </sp>
@@ -243,8 +243,8 @@
                 </sp>
 
                 <spGrp type="simultaneous">
-                    <sp who="#burr men">
-                        <speaker>BURR &amp; MEN</speaker>
+                    <sp who="#burr #men">
+                        <speaker>BURR/MEN</speaker>
                         <l>Why do you write like it’s</l>
                         <l>Going out of style?</l>
                         <l>Write day and night like it’s</l>
@@ -258,8 +258,8 @@
                     </sp>
                 </spGrp>
 
-                <sp who="#burr company">
-                    <speaker>BURR &amp; COMPANY</speaker>
+                <sp who="#burr #company">
+                    <speaker>BURR/COMPANY</speaker>
                     <l>Ev’ry day you fight like it’s</l>
                     <l>Going out of style</l>
                     <l>Do what you do</l>
@@ -464,7 +464,7 @@
                     <l>I’ll wait here and see</l>
                 </sp>
 
-                <sp who="#burr ensemble">
+                <sp who="#burr #ensemble">
                     <speaker>BURR/ENSEMBLE</speaker>
                     <l>Which way the wind</l>
                     <l>Will blow</l>
@@ -509,7 +509,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l><persName ref="#hamilton">Alexander </persName>joins forces with <persName
-                            type="madison">James Madison</persName> and <persName ref="#jay">John
+                            ref="#madison">James Madison</persName> and <persName ref="#jay">John
                             Jay</persName> to write a series of essays defending the new
                             <placeName>United States</placeName> Constitution, entitled The
                         Federalist Papers. The plan was to write a total of twenty-five essays, the
@@ -536,13 +536,13 @@
                     <l>Running out of time?</l>
                 </sp>
 
-                <sp who="#burr men">
+                <sp who="#burr #men">
                     <speaker>BURR AND MEN</speaker>
                     <l>Ev’ry day you fight like you’re</l>
                 </sp>
 
-                <sp who="#burr men women">
-                    <speaker>BURR/MEN/WOMEN</speaker>
+                <sp who="#burr #ensemble">
+                    <speaker>BURR/ENSEMBLE</speaker>
                     <l>Running out of time like you’re</l>
                     <l>Running out of time</l>
                 </sp>
@@ -656,7 +656,7 @@
                     <l>Be satisfied</l>
                 </sp>
 
-                <sp who="#angelica eliza">
+                <sp who="#angelica #eliza">
                     <speaker>ANGELICA/ELIZA</speaker>
                     <l>Satisfied</l>
                     <l>Satisfied…</l>
@@ -680,8 +680,8 @@
                         <l>You!</l>
                     </sp>
 
-                    <sp who="#washingotn mulligan laurens lafayette">
-                        <speaker>WASHINGTON/MULLIGAN/LAURENS/LAFAYETTE</speaker>
+                    <sp who="#washington #mulligan #lafayette #laurens">
+                        <speaker>WASHINGTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                         <l>History has its eyes…</l>
                         <l>On…</l>
                         <l>You...</l>

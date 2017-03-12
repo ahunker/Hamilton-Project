@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -24,7 +25,7 @@
                 <title>You'll Be Back</title>
             </head>
             <div type="song">
-                <sp who="kingGeorge">
+                <sp who="#kingGeorge">
                     <speaker>KING GEORGE</speaker>
                     <l>You say</l>
                     <l>The price of my love’s not a price that you’re willing to pay</l>
@@ -68,8 +69,8 @@
                     <l>Everybody!</l>
                 </sp>
 
-                <sp who="ensemble">
-                    <speaker>FULL ENSEMBLE</speaker>
+                <sp who="#ensemble">
+                    <speaker>ENSEMBLE</speaker>
                     <l>Da da da dat da dat da da da da ya da</l>
                     <l>Da da dat dat da ya da!</l>
                     <l>Da da da dat da dat da da da da ya da da da da</l>

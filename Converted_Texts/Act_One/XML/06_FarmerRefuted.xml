@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -25,9 +26,9 @@
             </head>
             <div type="song">
 
-                <sp who="seabury">
+                <sp who="#seabury">
                     <speaker>SEABURY</speaker>
-                    <l>Hear ye, hear ye! My name is <persName type="seabury">Samuel
+                    <l>Hear ye, hear ye! My name is <persName ref="#seabury">Samuel
                             Seabury</persName></l>
                     <l>And I present “Free Thoughts on the</l>
                     <l>Proceedings of the Continental Congress!”</l>
@@ -35,33 +36,33 @@
                     <l>They have not your interests at heart</l>
                 </sp>
 
-                <sp who="mulligan">
+                <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
                     <l>Oh my God. Tear this dude apart</l>
                 </sp>
 
-                <sp who="seabury">
+                <sp who="#seabury">
                     <speaker>SEABURY</speaker>
                     <l>Chaos and bloodshed are not a solution</l>
                     <l>Don’t let them lead you astray</l>
                     <l>This Congress does not speak for me</l>
                 </sp>
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Let him be</l>
                 </sp>
 
-                <sp who="seabury">
+                <sp who="#seabury">
                     <speaker>SEABURY</speaker>
                     <l>They’re playing a dangerous game</l>
-                    <l>I pray the <persName type="kingGeorge">king</persName> shows you his
+                    <l>I pray the <persName ref="#kingGeorge">king</persName> shows you his
                         mercy</l>
                     <l>For shame, for shame…</l>
                 </sp>
 
                 <spGrp type="simultaneous">
-                    <sp who="hamilton">
+                    <sp who="#hamilton">
                         <speaker>HAMILTON</speaker>
                         <l>Yo!</l>
                         <l>He’d have you all unravel at the</l>
@@ -80,7 +81,7 @@
                         <l>For the revolution!</l>
                     </sp>
 
-                    <sp who="seabury">
+                    <sp who="#seabury">
                         <speaker>SEABURY</speaker>
                         <l>Heed not the rabble</l>
                         <l>Who scream</l>
@@ -96,69 +97,69 @@
                         <l>This Congress does not</l>
                         <l>Speak for me</l>
                         <l>They’re playing a dangerous game</l>
-                        <l>I pray the <persName type="kingGeorge">king</persName> shows you his
+                        <l>I pray the <persName ref="#kingGeorge">king</persName> shows you his
                             mercy</l>
                         <l>For shame</l>
                         <l>For shame!</l>
                     </sp>
                 </spGrp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>For the revolution!</l>
                 </sp>
 
-                <sp who="seabury">
+                <sp who="#seabury">
                     <speaker>SEABURY</speaker>
                     <l>Heed—</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>If you repeat yourself again I’m gonna—</l>
                 </sp>
 
-                <sp who="hamilton seabury">
+                <sp who="#hamilton #seabury">
                     <speaker>SEABURY/HAMILTON</speaker>
                     <l>Scream—</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Honestly, look at me, please don’t read!</l>
                 </sp>
 
-                <sp who="seabury">
+                <sp who="#seabury">
                     <speaker>SEABURY</speaker>
                     <l>Not your interests—</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Don’t modulate the key then not debate with me!</l>
                     <l>Why should a tiny island across the sea regulate the price of tea?</l>
                 </sp>
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><persName type="hamilton">Alexander</persName>, please!</l>
+                    <l><persName ref="#hamilton">Alexander</persName>, please!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName type="burr">Burr</persName>, I’d rather be divisive than
+                    <l><persName ref="#burr">Burr</persName>, I’d rather be divisive than
                         indecisive, drop the niceties</l>
                 </sp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Silence! A message from the <persName type="kingGeorge">King</persName>!</l>
-                    <l>A message from the <persName type="kingGeorge">King</persName>!</l>
+                    <l>Silence! A message from the <persName ref="#kingGeorge">King</persName>!</l>
+                    <l>A message from the <persName ref="#kingGeorge">King</persName>!</l>
                 </sp>
 
-                <sp who="company">
-                    <speaker>FULL COMPANY</speaker>
-                    <l>A message from the <persName type="kingGeorge">King</persName>!</l>
+                <sp who="#company">
+                    <speaker>COMPANY</speaker>
+                    <l>A message from the <persName ref="#kingGeorge">King</persName>!</l>
                 </sp>
             </div>
         </body>

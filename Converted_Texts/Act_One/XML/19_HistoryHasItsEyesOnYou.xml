@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -25,7 +26,7 @@
             </head>
             <div type="song">
 
-                <sp who="washington">
+                <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
                     <l>I was younger than you are now</l>
                     <l>When I was given my first command</l>
@@ -37,7 +38,7 @@
                     <l>Knowing history has its eyes on me</l>
                 </sp>
 
-                <sp who="laurens mulligan">
+                <sp who="#mulligan #laurens">
                     <speaker>LAURENS/MULLIGAN</speaker>
                     <l>Whoa…</l>
                     <l>Whoa…</l>
@@ -45,12 +46,12 @@
                     <l>Yeah</l>
                 </sp>
 
-                <sp who="hamilton washington">
+                <sp who="#hamilton #washington">
                     <speaker>HAMILTON/WASHINGTON</speaker>
                     <l>History has its eyes on me.</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Whoa…</l>
                     <l>Whoa…</l>
@@ -58,47 +59,47 @@
                     <l>Yeah</l>
                 </sp>
 
-                <sp who="washington">
+                <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
                     <l>Let me tell you what I wish I’d known</l>
                     <l>When I was young and dreamed of glory:</l>
                     <l>You have no control:</l>
                 </sp>
 
-                <sp who="washington company">
-                    <speaker>WASHINGTON AND COMPANY</speaker>
+                <sp who="#washington #company">
+                    <speaker>WASHINGTON/COMPANY</speaker>
                     <l>Who lives, who dies, who tells your story</l>
                 </sp>
 
-                <sp who="washington">
+                <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
                     <l>I know that we can win</l>
                     <l>I know that greatness lies in you</l>
                     <l>But remember from here on in</l>
                 </sp>
 
-                <sp who="washington hamilton men">
-                    <speaker>WASHINGTON/HAMILTON AND MEN</speaker>
+                <sp who="#hamilton #washington #men">
+                    <speaker>WASHINGTON/HAMILTON/MEN</speaker>
                     <l>History has its</l>
                 </sp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
                     <l>Whoa…</l>
                 </sp>
 
-                <sp who="washington hamilton men">
-                    <speaker>WASHINGTON/HAMILTON AND MEN</speaker>
+                <sp who="#hamilton #washington #men">
+                    <speaker>WASHINGTON/HAMILTON/MEN</speaker>
                     <l>Eyes on you.</l>
                 </sp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
                     <l>Whoa…</l>
                     <l>Whoa…</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>FULL COMPANY</speaker>
                     <l>History has its eyes on you</l>
                 </sp>

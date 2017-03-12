@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
@@ -24,7 +25,7 @@
                 <title>My Shot</title>
             </head>
             <div type="song">
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I am not throwing away my shot!</l>
                     <l>I am not throwing away my shot!</l>
@@ -48,30 +49,30 @@
                     <l>I am the—</l>
                 </sp>
 
-                <sp who="hamilton lafayette mulligan laurens">
-                    <speaker>HAMILTON/LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>A-L-E-X-A-N-D</l>
                     <l>E-R—we are—meant to be…</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>A colony that runs independently</l>
                     <l>Meanwhile, <placeName>Britain</placeName> keeps shittin’ on us endlessly</l>
                     <l>Essentially, they tax us relentlessly</l>
-                    <l>Then <persName type="kingGeorge">King George</persName> turns around, runs a
+                    <l>Then <persName ref="#kingGeorge">King George</persName> turns around, runs a
                         spending spree</l>
                     <l>He ain’t ever gonna set his descendants free</l>
                     <l>So there will be a revolution in this century</l>
                     <l>Enter me!</l>
                 </sp>
 
-                <sp who="lafayette mulligan laurens">
-                    <speaker>LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#mulligan #lafayette #laurens">
+                    <speaker>MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>(He says in parentheses)</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Don’t be shocked when your hist’ry book mentions me</l>
                     <l>I will lay down my life if it sets us free</l>
@@ -80,35 +81,35 @@
                     <l>My shot</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>My shot!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I am not throwing away</l>
                     <l>My shot</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>My shot!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
                 </sp>
 
-                <sp who="hamilton laurens">
+                <sp who="#hamilton #laurens">
                     <speaker>HAMILTON/LAURENS</speaker>
                     <l>And I’m not throwing away my shot</l>
                 </sp>
 
-                <sp who="hamilton mulligan laurens lafayette">
-                    <speaker>HAMILTON/MULLIGAN/LAURENS/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>I am not throwing away my shot</l>
                     <l>I am not throwing away my shot</l>
                     <l>Hey yo, I’m just like my country</l>
@@ -117,7 +118,7 @@
                     <l>It’s time to take a shot!</l>
                 </sp>
 
-                <sp who="lafayette">
+                <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
                     <l>I dream of life without a monarchy</l>
                     <l>The unrest in <placeName>France</placeName> will lead to ‘onarchy?</l>
@@ -126,12 +127,12 @@
                     <l>With my—</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/LAFAYETTE/MULLIGAN</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Shot!</l>
                 </sp>
 
-                <sp who="mulligan">
+                <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
                     <l>Yo, I’m a tailor’s apprentice</l>
                     <l>And I got y’all knuckleheads in loco parentis</l>
@@ -140,12 +141,12 @@
                     <l>I’m gonna take a—</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/LAFAYETTE/MULLIGAN</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Shot!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>But we’ll never be truly free</l>
                     <l>Until those in bondage have the same rights as you and me</l>
@@ -154,12 +155,12 @@
                     <l>Have another—</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/LAFAYETTE/MULLIGAN</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Shot!</l>
                 </sp>
 
-                <sp who="burr">
+                <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Geniuses, lower your voices</l>
                     <l>You keep out of trouble and you double your choices</l>
@@ -168,13 +169,13 @@
                     <l>If you talk, you’re gonna get shot!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName type="burr">Burr</persName>, check what we got</l>
-                    <l>Mister <persName type="lafayette">Lafayette</persName>, hard rock like
+                    <l><persName ref="#burr">Burr</persName>, check what we got</l>
+                    <l>Mister <persName ref="#lafayette">Lafayette</persName>, hard rock like
                         Lancelot</l>
                     <l>I think your pants look hot</l>
-                    <l><persName type="laurens">Laurens</persName>, I like you a lot</l>
+                    <l><persName ref="#laurens">Laurens</persName>, I like you a lot</l>
                     <l>Let’s hatch a plot blacker than the kettle callin’ the pot...</l>
                     <l>What are the odds the gods would put us all in one spot</l>
                     <l>Poppin’ a squat on conventional wisdom, like it or not</l>
@@ -186,13 +187,13 @@
                     <l>I promise that I’ll make y’all proud</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Let’s get this guy in front of a crowd</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan ensemble">
-                    <speaker>HAMILTON/LAURENS/LAFAYETTE/MULLIGAN/ENSEMBLE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens #ensemble">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS/ENSEMBLE</speaker>
                     <l>I am not throwing away my shot</l>
                     <l>I am not throwing away my shot</l>
                     <l>Hey yo, I’m just like my country</l>
@@ -205,87 +206,87 @@
                     <l>And I’m not throwing away my shot</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Ev’rybody sing:</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Whoa, whoa, whoa</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Hey!</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Whoa!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Wooh!!</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Whoa!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Say, let ‘em hear ya!</l>
                 </sp>
 
-                <sp who="hamilton laurens lafayette mulligan">
-                    <speaker>HAMILTON/LAURENS/MULLIGAN/LAFAYETTE</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Yea!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Let’s go!</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Whoa! Whoa! Whoa!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>I said shout it to the rooftops!</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Whoa!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Said, to the rooftops!</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Whoa!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Come on!</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Yea!</l>
                 </sp>
 
-                <sp who="laurens">
+                <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Come on, let’s go!</l>
                     <l>Rise up!</l>
@@ -295,7 +296,7 @@
                 </sp>
 
                 <spGrp type="simultaneous">
-                    <sp who="laurens ensemble">
+                    <sp who="#laurens #ensemble">
                         <speaker>LAURENS/ENSEMBLE</speaker>
                         <l>When are these colonies gonna rise up?</l>
                         <l>When are these colonies gonna rise up?</l>
@@ -303,7 +304,7 @@
                         <l>When are these colonies gonna rise up?</l>
                     </sp>
 
-                    <sp who="company">
+                    <sp who="#company">
                         <speaker>COMPANY</speaker>
                         <l>Whoa! Whoa!</l>
                         <l>Whoa!</l>
@@ -313,7 +314,7 @@
                     </sp>
                 </spGrp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I imagine death so much it feels more like a memory</l>
                     <l>When’s it gonna get me?</l>
@@ -346,8 +347,8 @@
                     <l>For the first time, I’m thinkin’ past tomorrow</l>
                 </sp>
 
-                <sp who="hamilton company">
-                    <speaker>HAMILTON AND COMPANY</speaker>
+                <sp who="#hamilton #company">
+                    <speaker>HAMILTON/COMPANY</speaker>
                     <l>And I am not throwing away my shot</l>
                     <l>I am not throwing away my shot</l>
                     <l>Hey yo, I’m just like my country</l>
@@ -356,14 +357,14 @@
                 </sp>
 
                 <spGrp type="simultaneous">
-                    <sp who="hamilton laurens lafayette mulligan">
-                        <speaker>HAMILTON/LAURENS/LAFAYETTE/MULLIGAN</speaker>
+                    <sp who="#hamilton #mulligan #lafayette #laurens">
+                        <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                         <l>We’re gonna rise up! Time to take a shot!</l>
                         <l>We’re gonna rise up! Time to take a shot!</l>
                         <l>We’re gonna</l>
                     </sp>
 
-                    <sp who="ensemble">
+                    <sp who="#ensemble">
                         <speaker>ENSEMBLE</speaker>
                         <l>Not throwing away my shot</l>
                         <l>Not throwing away my shot</l>
@@ -371,26 +372,26 @@
                     </sp>
                 </spGrp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
                     <l>Rise up!</l>
                     <l>Rise up!</l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Time to take a shot!</l>
                 </sp>
 
-                <sp who="ensemble">
+                <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
                     <l>Rise up!</l>
                     <l>Rise up!</l>
                 </sp>
 
                 <spGrp type="simultaneous">
-                    <sp who="hamilton lafayette laurens mulligan">
-                        <speaker>HAMILTON/LAFAYETTE/LAURENS/MULLIGAN</speaker>
+                    <sp who="#hamilton #mulligan #lafayette #laurens">
+                        <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                         <l>Time to take a shot!</l>
                         <l>Time to take a shot!</l>
                         <l>Take a shot!</l>
@@ -402,7 +403,7 @@
                         <l>And I am—</l>
                     </sp>
 
-                    <sp who="ensemble">
+                    <sp who="#ensemble">
                         <speaker>ENSEMBLE</speaker>
                         <l>Rise up!</l>
                         <l>Rise up!</l>
@@ -413,12 +414,12 @@
                     </sp>
                 </spGrp>
 
-                <sp who="hamilton lafayette mulligan laurens">
-                    <speaker>HAMILTON/LAFAYETTE/MULLIGAN/LAURENS</speaker>
+                <sp who="#hamilton #mulligan #lafayette #laurens">
+                    <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
                     <l>Not throwin’ away my—</l>
                 </sp>
 
-                <sp who="company">
+                <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>Not throwin’ away my shot!</l>
                 </sp>
