@@ -1,0 +1,247 @@
+<?xml-model href="../../Hamilton-Project/ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <head>
+<title>What'd I Miss</title>
+</head>
+<div type="song">
+
+<sp who="#company">
+<speaker>COMPANY</speaker>
+<l>Seventeen. Se- se- seventeen...</l>
+<l>Se- se- seventeen</l>
+</sp>
+
+<sp who="#burr">
+<speaker>BURR</speaker>
+<l>1789</l>
+<l>How does the bastard orphan</l>
+<l>Immigrant decorated war vet</l>
+<l>Unite the colonies through more debt?</l>
+<l>Fight the other founding fathers til he has to forfeit?</l>
+<l>Have it all, lose it all</l>
+<l>You ready for more yet?</l>
+<l>Treasury Secretary. Washington's the President</l>
+<l>Ev'ry American experiment sets a precedent</l>
+<l>Not so fast. Someone came along to resist him</l>
+<l>Pissed him off until we had a two-party system</l>
+<l>You haven't met him yet, you haven't had the chance</l>
+<l>'cause he's been kickin' ass as the ambassador to France</l>
+<l>But someone's gotta keep the American promise</l>
+<l>You simply must meet Thomas. Thomas!</l>
+</sp>
+
+<sp who="#company">
+<speaker>COMPANY</speaker>
+<l>Thomas Jefferson's coming home!</l>
+<l>Thomas Jefferson's coming home!</l>
+<l>Thomas Jefferson's coming home!</l>
+<l>Thomas Jefferson's coming home!</l>
+<l>Thomas Jefferson's coming home Lord he's</l>
+<l>Been off in Paris for so long!</l>
+<l>Aaa-ooo!</l>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>France is following us to revolution</l>
+<l>There is no more status quo</l>
+<l>But the sun comes up</l>
+<l>And the world still spins</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>I helped Lafayette draft a declaration</l>
+<l>Then I said, 'I gotta go</l>
+<l>I gotta be in Monticello.'</l>
+<l>Now the work at home begins</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>So what'd I miss?</l>
+<l>What'd I miss?</l>
+<l>Virginia, my home sweet home, I wanna give you a kiss</l>
+<l>I've been in Paris meeting lots of different ladies...</l>
+<l>I guess I basic'lly missed the late eighties...</l>
+<l>I traveled the wide, wide world and came back to this</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>There's a letter on my desk from the President</l>
+<l>Haven't even put my bags down yet</l>
+<l>Sally be a lamb, darlin', won'tcha open it?</l>
+<l>It says the President's assembling a cabinet</l>
+<l>And that I am to be the Secretary of State, great!</l>
+<l>And that I'm already Senate-approved...</l>
+<l>I just got home and now I'm headed up to New York</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Headin' to New York!</l>
+<l>Headin' to New York!</l>
+</sp>
+
+<spGrp type="simultaneous">
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>Lookin' at the rolling fields</l>
+<l>I can't believe that we are free</l>
+<l>Ready to face</l>
+<l>Whatever's awaiting</l>
+<l>Me in N.Y.C.	 </l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Believe that we are free</l>
+<l>Me in N.Y.C.</l>
+</sp>
+</spGrp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>But who's waitin' for me when I step in the place?</l>
+<l>My friend James Madison, red in the face</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>He grabs my arm and</l>
+<l>I respond</l>
+<l>What's goin' on?</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#madison">
+<speaker>MADISON</speaker>
+<l>Thomas, we are engaged in a battle for our nations very soul</l>
+<l>Can you get us out of the mess were in?</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#madison">
+<speaker>MADISON</speaker>
+<l>Hamilton's new financial plan is nothing less</l>
+<l>Than government control</l>
+<l>I've been fighting for the South alone</l>
+<l>Where have you been?</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>Uh...France.</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Aaa-ooo!</l>
+</sp>
+
+<sp who="#madison">
+<speaker>MADISON</speaker>
+<l>We have to win</l>
+</sp>
+
+<spGrp type="simultaneous">
+    
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>What'd I miss?</l>
+<l>What'd I miss?</l>
+<l>Headfirst into a political abyss!</l>
+<l>I have my first cabinet meeting today</l>
+<l>I guess I better think of something to say</l>
+<l>I'm already on my way</l>
+<l>Let's get to the bottom of this</l>
+</sp>
+
+<sp who="#ensemble">
+<speaker>ENSEMBLE</speaker>
+<l>Wha? Wha? What'd I miss?</l>
+<l>I've come home to this?</l>
+<l>Headfirst, into the abyss!</l>
+<l>Chik-a-pow!</l>
+<l>On my way</l>
+<l>What did I miss?</l>
+<l>Ahhh ah!</l>
+</sp>
+</spGrp>
+    
+<sp who="#washington">
+<speaker>WASHINGTON</speaker>
+<l>Mr. Jefferson, welcome home</l>
+</sp>
+
+<sp who="#hamilton">
+<speaker>HAMILTON</speaker>
+<l>Mr. Jefferson? Alexander Hamilton</l>
+</sp>
+
+<sp who="#washington #ensemble">
+<speaker>WASHINGTON AND ENSEMBLE</speaker>
+<l>Mr. Jefferson, welcome home</l>
+</sp>
+
+<sp who="#company">
+<speaker>COMPANY</speaker>
+<l>Mr. Jefferson, welcome home</l>
+<l>Sir, you've been off in Paris for so long!</l>
+</sp>
+
+<sp who="#jefferson">
+<speaker>JEFFERSON</speaker>
+<l>So what did I miss?</l>
+</sp>
+
+</div>
+        </body>
+    </text>
+</TEI>

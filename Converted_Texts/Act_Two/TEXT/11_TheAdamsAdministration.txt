@@ -1,0 +1,80 @@
+﻿<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="en">
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <!-- title of the resource -->
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <!-- Information about distribution of the resource -->
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!-- Information about source from which the resource derives -->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <head>
+<title>The Adams Administration</title>
+</head>
+<div type="song">
+
+
+<sp who="#burr"><speaker>BURR</speaker>
+<l>How does Hamilton the short-tempered</l>
+<l>Protean creator of the Coast Guard</l>
+<l>Founder of the New York Post</l>
+<l>Ardently abuse his cab’net post</l>
+<l>Destroy his reputation?</l>
+<l>Welcome, folks, to</l></sp>
+
+
+<sp who="#burr #company"><speaker>BURR/COMPANY</speaker>
+<l>The Adams administration!</l></sp>
+
+
+<sp who="#burr"><speaker>BURR</speaker>
+<l>Jefferson’s the runner-up, which makes him the Vice President</l></sp>
+
+
+<sp who="#jefferson"><speaker>JEFFERSON</speaker>
+<l>Washington can’t help you now, no more mister nice President</l></sp>
+
+
+<sp who="#burr"><speaker>BURR</speaker>
+<l>Adams fires Hamilton</l>
+<l>Privately calls him “creole bastard” in his taunts</l></sp>
+
+
+<sp who="#jefferson"><speaker>JEFFERSON</speaker>
+<l>Say what?!</l></sp>
+
+
+<sp who="#burr"><speaker>BURR</speaker>
+<l>Hamilton publishes his response</l></sp>
+
+
+<sp who="#hamilton"><speaker>HAMILTON</speaker>
+<l>Sit down, John, you fat mother—<stage type="delivery">BLEEP</stage></l></sp>
+
+
+<sp who="#burr"><speaker>BURR</speaker>
+<l>Hamilton is out of control</l></sp>
+
+
+<sp who="#madison"><speaker>MADISON</speaker>
+<l>This is great! He’s out of power. He holds no office. And he just destroyed President John Adams, the only other significant member of his party</l></sp>
+
+
+<sp who="#jefferson"><speaker>JEFFERSON</speaker>
+<l>Hamilton’s a host unto himself. As long as he can hold a pen, he’s a threat. Let’s let him know what we know</l></sp>
+</div>
+</body>
+</text>
+</TEI>
