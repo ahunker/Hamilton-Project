@@ -44,7 +44,9 @@
       <elementSpec ident="sp" module="core" mode="change">
          <attList>
             <attDef ident="who" mode="replace" usage="req">
-               <valList type="closed">
+               <datatype><rng:text/></datatype>
+               <valList type="semi">
+                  
                   <valItem ident="#hamilton"/>
                   <valItem ident="#burr"/>
                   <valItem ident="#washington"/>
@@ -70,60 +72,7 @@
                   <valItem ident="#company"/>
                   <valItem ident="#men"/>
                   <valItem ident="#women"/>
-                  <valItem ident="#women #men"/>
                   <valItem ident="#recording"/>
-                  
-                  <valItem ident="#hamilton #company"/>
-                  <valItem ident="#hamilton #ensemble"/>
-                  <valItem ident="#hamilton #men"/>
-                  <valItem ident="#hamilton #burr"/>
-                  <valItem ident="#hamilton #lafayette"/>
-                  <valItem ident="#hamilton #laurens"/>
-                  <valItem ident="#hamilton #seabury"/>
-                  <valItem ident="#hamilton #lee"/>
-                  <valItem ident="#hamilton #lafayette #laurens"/>
-                  <valItem ident="#hamilton #laurens #ensemble"/>
-                  <valItem ident="#hamilton #burr #laurens"/>
-                  <valItem ident="#hamilton #burr #laurens #lee"/>
-                  <valItem ident="#hamilton #burr #mulligan #lafayette #laurens"/>
-                  <valItem ident="#hamilton #mulligan #lafayette #laurens"/>
-                  <valItem ident="#hamilton #mulligan #lafayette #laurens #ensemble"/>
-                  <valItem ident="#hamilton #washington"/>
-                  <valItem ident="#hamilton #washington #men"/>
-                  <valItem ident="#hamilton #washington #mulligan #lafayette #laurens"/>
-                  
-                  <valItem ident="#laurens #ensemble"/>
-                  <valItem ident="#lafayette #ensemble"/>
-                  <valItem ident="#mulligan #lafayette #ensemble"/>
-                  <valItem ident="#lafayette #laurens"/>
-                  <valItem ident="#mulligan #lafayette"/>
-                  <valItem ident="#mulligan #laurens"/>
-                  <valItem ident="#mulligan #lafayette #laurens"/>
-                  <valItem ident="#washington #company"/>
-                  <valItem ident="#washington #mulligan #lafayette #laurens"/>
-                  
-                  <valItem ident="#burr #ensemble"/>
-                  <valItem ident="#burr #men"/>
-                  <valItem ident="#burr #company"/>
-                  <valItem ident="#burr #women"/>
-                  
-                  <valItem ident="#eliza #peggy"/>
-                  <valItem ident="#eliza #women"/>
-                  <valItem ident="#eliza #men #women"/>
-                  <valItem ident="#angelica #men"/>
-                  <valItem ident="#angelica #company"/>
-                  <valItem ident="#angelica #eliza"/>
-                  <valItem ident="#angelica #eliza #maria"/>
-                  <valItem ident="#angelica #eliza #women"/>
-                  <valItem ident="#angelica #eliza #peggy"/>
-                  <valItem ident="#angelica #eliza #peggy #company"/>
-                  <valItem ident="#angelica #eliza #peggy #women"/>
-                  <valItem ident="#hamilton #angelica #eliza #peggy"/>
-                  <valItem ident="#hamilton #angelica #eliza #peggy #women"/>
-                  <valItem ident="#hamilton #eliza #men #women"/>
-                  
-                  
-                 
                </valList>
             </attDef>
             
@@ -183,10 +132,6 @@
                         <valItem ident="#marthaWashington"/>
                         <valItem ident="#schuylerSis"/>
                         <valItem ident="#franklin"/>
-                        
-                        
-                        
-                        
                      </valList>
                   </attDef>
                   
