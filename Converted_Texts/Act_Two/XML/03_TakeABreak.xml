@@ -29,7 +29,7 @@
             <div type="song">
 
                 <spGrp type="simultaneous">
-                    <sp who="eliza">
+                    <sp who="#eliza">
                         <speaker>ELIZA</speaker>
                         <l>Un deux trois quatre</l>
                         <l>Cinq six sept huit neuf</l>
@@ -42,7 +42,7 @@
                         <l>Sept huit neuf</l>
                     </sp>
 
-                    <sp who="philipH">
+                    <sp who="#philipH">
                         <speaker>PHILIP</speaker>
                         <l>Un deux trois quatre</l>
                         <l>Cinq six sept huit neuf</l>
