@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>
+            <person xml:id="hamilton">
+               <persName>
+                  <surname>Hamilton</surname>
+                  <forename>Alexander</forename>
+               </persName>
+               <birth when="1757-01-11">
+                  <placeName>Charlestown, Nevis, British West Indies</placeName>
+               </birth>
+               <death when="1804-07-12">
+                  <placeName>New York City, New York, U.S.</placeName>
+               </death>
+               <occupation>Politician</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Author</occupation>
+               <occupation>Military Officer</occupation>
+               
+               <note>....</note>
+            </person>
+            <person xml:id="burr">
+               <persName>
+                  <surname>Burr</surname>
+                  <forename>Aaron</forename>
+               </persName>
+               <birth when="1756-02-06">
+                  <placeName>Newark, New Jersey, British America</placeName>
+               </birth>
+               <death when="1836-09-14">
+                  <placeName>New York City, New York, U.S.</placeName>
+               </death>
+               <occupation>Politician</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Military Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="washington">
+               <persName>
+                  <surname>Washington</surname>
+                  <forename>George</forename>
+               </persName>
+               <birth when="1732-02-22">
+                  <placeName>Bridges Creek, Colony of Virginia, British America</placeName>
+               </birth>
+               <death when="1799-12-14">
+                  <placeName>Mount Vernon, Virginia, U.S.</placeName>
+               </death>
+               <occupation>Politician</occupation>
+               <occupation>Plantation Owner</occupation>
+               <occupation>Military Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="mulligan">
+               <persName>
+                  <surname>Mulligan</surname>
+                  <forename>Hercules</forename>
+               </persName>
+               <birth when="1740-09-25">
+                  <placeName>Coleraine, County Londonderry, Ireland</placeName>
+               </birth>
+               <death when="1825-03-04">
+                  <placeName>Unknown</placeName>
+               </death>
+               <occupation>Tailor</occupation>
+               <occupation>Military Intelligence Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="lafayette">
+               <persName>
+                  <surname>de Lafayette</surname>
+                  <forename>Marie-Joseph Paul Yves Roch Gilbert du Motier</forename>
+                  <roleName>Marquis de Lafayette</roleName>
+               </persName>
+               <birth when="1757-09-06">
+                  <placeName>Chavaniac, France</placeName>
+               </birth>
+               <death when="1834-05-20">
+                  <placeName>Paris, France</placeName>
+               </death>
+               <occupation>Politician</occupation>
+               <occupation>Military Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="laurens">
+               <persName>
+                  <surname>Laurens</surname>
+                  <forename>John</forename>
+               </persName>
+               <birth when="1754-10-28">
+                  <placeName>Charleston, Province of South Carolina, British North America</placeName>
+               </birth>
+               <death when="1782-08-27">
+                  <placeName>Combahee River, South Carolina, U.S.</placeName>
+               </death>
+               <occupation>Military Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="kingGeorge">
+               <persName>
+                  <forename>George William Frederick III</forename>
+                  <roleName>King</roleName>
+               </persName>
+               <birth when="1738-06-04">
+                  <placeName>Norfolk House, St. James's Square, London</placeName>
+               </birth>
+               <death when="1820-01-29">
+                  <placeName>Windsor Castle, Windsor, Berkshire</placeName>
+               </death>
+               <occupation>King</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="seabury">
+               <persName>
+                  <surname>Seabury</surname>
+                  <forename>Samuel</forename>
+               </persName>
+               <birth when="1729-11-30">
+                  <placeName>Groton, Connecticut</placeName>
+               </birth>
+               <death when="1796-02-25">
+                  <placeName>New London, Connecticut</placeName>
+               </death>
+               <occupation>Clergy</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="lee">
+               <persName>
+                  <surname>Lee</surname>
+                  <forename>Charles</forename>
+               </persName>
+               <birth when="1731-01-26">
+                  <placeName>Darnhall, Cheshire, England</placeName>
+               </birth>
+               <death when="1782-10-02">
+                  <placeName>Christ Church, Philadelphia</placeName>
+               </death>
+               <occupation>Military Officer</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="eliza">
+               <persName>
+                  <surname>Schuyler Hamilton</surname>
+                  <forename>Elizabeth</forename>
+                  <addName>Eliza</addName>
+                  <addName>Betsey</addName>
+               </persName>
+               <birth when="1757-08-09">
+                  <placeName>Albany, Province of New York</placeName>
+               </birth>
+               <death when="1854-11-09">
+                  <placeName>Washington D.C., U.S.</placeName>
+               </death>
+               <occupation>Philangropist</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="angelica">
+               <persName>
+                  <surname>Schuyler Church</surname>
+                  <forename>Angelica</forename>
+               </persName>
+               <birth when="1756-02-20">
+                  <placeName>Albany, Province of New York</placeName>
+               </birth>
+               <death when="1814-03-13">
+                  <placeName>New York City, New York, U.S.</placeName>
+               </death>
+               <note>....</note>
+            </person>
+            <person xml:id="peggy">
+               <persName>
+                  <surname>Schuyler Can Rensselaer</surname>
+                  <forename>Margarita</forename>
+                  <addName>Peggy</addName>
+               </persName>
+               <birth when="1758-09-24">
+                  <placeName>Albany, Province of New York</placeName>
+               </birth>
+               <death when="1801-03-14">
+                  <placeName>Albany, New York, U.S.</placeName>
+               </death>
+               <note>....</note>
+            </person>
+            <person xml:id="jefferson">
+               <persName>
+                  <surname>Jefferson</surname>
+                  <forename>Thomas</forename>
+               </persName>
+               <birth when="1743-04-13">
+                  <placeName>Shadwell, Virginia, British America</placeName>
+               </birth>
+               <death when="1826-07-04">
+                  <placeName>Charlottesville, Virginia, U.S.</placeName>
+               </death>
+               <occupation>Politician</occupation>
+               <occupation>Author</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Teacher</occupation>
+               <occupation>Plantation Owner</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="madison">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="philipH">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="maria">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="reynolds">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="eacker">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="doctor">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="martha">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="dolly">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="ensemble">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="company">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="men">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="women">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="recording">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="ness">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="pendleton">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="generalMercer">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="kingLouis">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="betsy">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="rochambeau">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="weeks">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="jay">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="sally">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="conway">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="theodosiaDaughter">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="theodosiaMother">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="philipS">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="paine">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="sAdams">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="jAdams">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="admiralHowe">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="generalMontgomery">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="green">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="knox">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="marthaWashington">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="schuylerSis">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+            <person xml:id="franklin">
+               <persName>
+                  <surname/>
+                  <forename/>
+               </persName>
+               <birth when="1700">
+                  <placeName/>
+               </birth>
+               <death when="1800">
+                  <placeName/>
+               </death>
+               <occupation>....</occupation>
+               <note>....</note>
+            </person>
+         </listPerson>
+      </body>
+   </text>
+</TEI>
