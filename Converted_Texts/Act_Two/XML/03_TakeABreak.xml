@@ -201,7 +201,7 @@
                 </sp>
 
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I know</l>
                 </sp>
@@ -308,7 +308,7 @@
                     <l><persName ref="#hamilton">Alexander</persName></l>
                 </sp>
 
-                <sp who="hamilton">
+                <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Hi</l>
                 </sp>

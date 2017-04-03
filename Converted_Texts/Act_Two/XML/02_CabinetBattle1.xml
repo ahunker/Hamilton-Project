@@ -24,10 +24,10 @@
     <text xml:lang="en">
         <body>
             <head>
-                <title>CABINET BATTLE #1</title>
+                <title>Cabinet Battle #1</title>
             </head>
             <div type="song">
-                <sp who="washington">
+                <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
                     <l>Ladies and gentlemen, you coulda been anywhere in the world tonight, but
                         you're here with us in <placeName>New York City.</placeName> Are you ready
