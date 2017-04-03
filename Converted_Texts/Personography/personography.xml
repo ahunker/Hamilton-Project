@@ -31,7 +31,6 @@
                <occupation>Lawyer</occupation>
                <occupation>Author</occupation>
                <occupation>Military Officer</occupation>
-               
                <note>....</note>
             </person>
             <person xml:id="burr">
@@ -54,6 +53,8 @@
                <persName>
                   <surname>Washington</surname>
                   <forename>George</forename>
+                  <roleName>General</roleName>
+                  <roleName>Mr. President</roleName>
                </persName>
                <birth when="1732-02-22">
                   <placeName>Bridges Creek, Colony of Virginia, British America</placeName>
@@ -184,7 +185,7 @@
             </person>
             <person xml:id="peggy">
                <persName>
-                  <surname>Schuyler Can Rensselaer</surname>
+                  <surname>Schuyler Van Rensselaer</surname>
                   <forename>Margarita</forename>
                   <addName>Peggy</addName>
                </persName>
@@ -217,8 +218,8 @@
             </person>
             <person xml:id="madison">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Madison</surname>
+                  <forename>James</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -226,13 +227,13 @@
                <death when="1800">
                   <placeName/>
                </death>
-               <occupation>....</occupation>
+               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="philipH">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Hamilton</surname>
+                  <forename>Philip</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -245,8 +246,8 @@
             </person>
             <person xml:id="maria">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Reynolds</surname>
+                  <forename>Maria</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -259,8 +260,8 @@
             </person>
             <person xml:id="reynolds">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Reynolds</surname>
+                  <forename>James</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -273,8 +274,8 @@
             </person>
             <person xml:id="eacker">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Eacker</surname>
+                  <forename>George</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -287,8 +288,7 @@
             </person>
             <person xml:id="doctor">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Doctor</surname>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -301,8 +301,8 @@
             </person>
             <person xml:id="martha">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname></surname>
+                  <forename>Martha</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -316,7 +316,7 @@
             <person xml:id="dolly">
                <persName>
                   <surname/>
-                  <forename/>
+                  <forename>Dolly</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -329,77 +329,36 @@
             </person>
             <person xml:id="ensemble">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Ensemble</surname>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="company">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Company</surname>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="men">
                <persName>
-                  <surname/>
-                  <forename/>
-               </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
-               <note>....</note>
+                  <surname>Men</surname>
+               </persName><note>....</note>
             </person>
             <person xml:id="women">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Women</surname>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="recording">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Recording</surname>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="ness">
                <persName>
-                  <surname/>
+                  <surname>Ness</surname>
                   <forename/>
                </persName>
                <birth when="1700">
@@ -413,7 +372,7 @@
             </person>
             <person xml:id="pendleton">
                <persName>
-                  <surname/>
+                  <surname>Pendleton</surname>
                   <forename/>
                </persName>
                <birth when="1700">
@@ -427,8 +386,8 @@
             </person>
             <person xml:id="generalMercer">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Mercer</surname>
+                  <roleName>General</roleName>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -442,7 +401,8 @@
             <person xml:id="kingLouis">
                <persName>
                   <surname/>
-                  <forename/>
+                  <forename>Louis</forename>
+                  <roleName>King</roleName>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -455,8 +415,8 @@
             </person>
             <person xml:id="betsy">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Ross</surname>
+                  <forename>Betsy</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -470,7 +430,7 @@
             <person xml:id="rochambeau">
                <persName>
                   <surname/>
-                  <forename/>
+                  <forename>Rochambeau</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -483,8 +443,8 @@
             </person>
             <person xml:id="weeks">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Weeks</surname>
+                  <forename>Levi</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -497,8 +457,8 @@
             </person>
             <person xml:id="jay">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Jay</surname>
+                  <forename>John</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -512,7 +472,7 @@
             <person xml:id="sally">
                <persName>
                   <surname/>
-                  <forename/>
+                  <forename>Sally</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -525,7 +485,7 @@
             </person>
             <person xml:id="conway">
                <persName>
-                  <surname/>
+                  <surname>Conway</surname>
                   <forename/>
                </persName>
                <birth when="1700">
@@ -539,8 +499,8 @@
             </person>
             <person xml:id="theodosiaDaughter">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Burr</surname>
+                  <forename>Theodosia</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -554,7 +514,7 @@
             <person xml:id="theodosiaMother">
                <persName>
                   <surname/>
-                  <forename/>
+                  <forename>Theodosia</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -567,8 +527,8 @@
             </person>
             <person xml:id="philipS">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Schuyler</surname>
+                  <forename>Philip</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -581,8 +541,8 @@
             </person>
             <person xml:id="paine">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Paine</surname>
+                  <forename>Thomas</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -595,8 +555,8 @@
             </person>
             <person xml:id="sAdams">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Adams</surname>
+                  <forename>Sam</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -609,8 +569,8 @@
             </person>
             <person xml:id="jAdams">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Adams</surname>
+                  <forename>John</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -623,8 +583,9 @@
             </person>
             <person xml:id="admiralHowe">
                <persName>
-                  <surname/>
+                  <surname>Howe</surname>
                   <forename/>
+                  <roleName>Admiral</roleName>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -637,8 +598,9 @@
             </person>
             <person xml:id="generalMontgomery">
                <persName>
-                  <surname/>
+                  <surname>Montgomery</surname>
                   <forename/>
+                  <roleName>General</roleName>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -651,7 +613,7 @@
             </person>
             <person xml:id="green">
                <persName>
-                  <surname/>
+                  <surname>Green</surname>
                   <forename/>
                </persName>
                <birth when="1700">
@@ -665,7 +627,7 @@
             </person>
             <person xml:id="knox">
                <persName>
-                  <surname/>
+                  <surname>Knox</surname>
                   <forename/>
                </persName>
                <birth when="1700">
@@ -679,8 +641,8 @@
             </person>
             <person xml:id="marthaWashington">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Washington</surname>
+                  <forename>Martha</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -693,8 +655,8 @@
             </person>
             <person xml:id="schuylerSis">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Schuyler</surname>
+                  <forename>Angelica, Eliza and Peggy</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
@@ -707,8 +669,8 @@
             </person>
             <person xml:id="franklin">
                <persName>
-                  <surname/>
-                  <forename/>
+                  <surname>Franklin</surname>
+                  <forename>Benjamin</forename>
                </persName>
                <birth when="1700">
                   <placeName/>
