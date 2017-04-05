@@ -167,7 +167,7 @@
                <death when="1854-11-09">
                   <placeName>Washington D.C., U.S.</placeName>
                </death>
-               <occupation>Philangropist</occupation>
+               <occupation>Philanthropist</occupation>
                <note>....</note>
             </person>
             <person xml:id="angelica">
@@ -212,7 +212,6 @@
                <occupation>Author</occupation>
                <occupation>Diplomat</occupation>
                <occupation>Lawyer</occupation>
-               <occupation>Teacher</occupation>
                <occupation>Plantation Owner</occupation>
                <note>....</note>
             </person>
@@ -235,15 +234,12 @@
                   <surname>Hamilton</surname>
                   <forename>Philip</forename>
                </persName>
-               <birth when="1751-03-16">
-                  <placeName>Belle Grove, Port Conway</placeName>
+               <birth when="1782-01-22">
+                  <placeName>Albany, New York</placeName>
                </birth>
-               <death when="1836-06-28">
-                  <placeName>Orange, Virginia</placeName>
+               <death when="1801-11-24">
+                  <placeName>Weehawken, New Jersey</placeName>
                </death>
-               <occupation>Lawyer</occupation>
-               <occupation>Author</occupation>
-               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="maria">
@@ -618,7 +614,7 @@
             <person xml:id="knox">
                <persName>
                   <surname>Knox</surname>
-                  <forename/>
+                  <forename>Henry</forename>
                </persName>
                <birth when="1750-07-25">
                   <placeName>Boston, Massachusetts Bay, British America</placeName>

@@ -61,39 +61,16 @@ p{
     font-size: 16px;
 }
 
-div.img{
-    float:right;
-    width: 40%;
-    padding-left:5%;
-    padding-right:5%;
-    margin-top:2%;
-    margin-bottom: 2%;
-}
-img{
-    width: 100%;
-    border-width: 5px;
-    border-style: solid;
-    border-color: black;
-    }
-    
-div.main{font-family: georgia, serif;
+div.index{font-family: georgia, serif;
     color: black;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
     padding-top:1%;
     padding-bottom: 1%;
-    width:35%;
-    margin-left: 5%;
-    margin-top:2%;
-    margin-bottom:2%;
-    float:left;
-    background:goldenrod;
 }
 
-div.main2{
+div.index2{
    text-align: left;
-   letter-spacing: 2px;
-   line-height: 1.5;
     padding-left: 10%;
     padding-right: 10%;
     padding-top: 1%;
