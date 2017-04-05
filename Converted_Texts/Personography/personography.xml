@@ -235,27 +235,28 @@
                   <surname>Hamilton</surname>
                   <forename>Philip</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1751-03-16">
+                  <placeName>Belle Grove, Port Conway</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1836-06-28">
+                  <placeName>Orange, Virginia</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Author</occupation>
+               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="maria">
                <persName>
-                  <surname>Reynolds</surname>
+                  <surname>Lewis Reynolds</surname>
                   <forename>Maria</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1768-03-30">
+                  <placeName>New York City, New York</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1828-03-25">
+                  <placeName>Unknown</placeName>
                </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="reynolds">
@@ -263,13 +264,12 @@
                   <surname>Reynolds</surname>
                   <forename>James</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth>
+                  <placeName>Unknown</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death>
+                  <placeName>Unknown</placeName>
                </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="eacker">
@@ -277,26 +277,19 @@
                   <surname>Eacker</surname>
                   <forename>George</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1774">
+                  <placeName>Unknown</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1804-01-04">
+                  <placeName>Unknown</placeName>
                </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="doctor">
                <persName>
                   <surname>Doctor</surname>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
+               <occupation>Doctor</occupation>
                <note>....</note>
             </person>
             <person xml:id="martha">
@@ -304,13 +297,6 @@
                   <surname></surname>
                   <forename>Martha</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="dolly">
@@ -318,13 +304,6 @@
                   <surname/>
                   <forename>Dolly</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="ensemble">
@@ -358,87 +337,92 @@
             </person>
             <person xml:id="ness">
                <persName>
-                  <surname>Ness</surname>
-                  <forename/>
+                  <surname>Van Ness</surname>
+                  <forename>William P.</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1778-02-13">
+                  <placeName>Ghent, New York</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1826-09-06">
+                  <placeName>New York City, New York</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Lawyer</occupation>
                <note>....</note>
             </person>
             <person xml:id="pendleton">
                <persName>
                   <surname>Pendleton</surname>
-                  <forename/>
+                  <forename>Nathaniel</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1756-10-27">
+                  <placeName>New Kent County, Virginia</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1821-10-20">
+                  <placeName>Hyde Park, Dutchess County, New York</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Judge</occupation>
                <note>....</note>
             </person>
             <person xml:id="generalMercer">
                <persName>
-                  <surname>Mercer</surname>
+                  <surname>Mercer, Jr.</surname>
+                  <forename>Hugh</forename>
                   <roleName>General</roleName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1726-01-17">
+                  <placeName>Pitsligo Kirk, Rosehearty, Alberdeenshire, Scotdland</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1777-01-12">
+                  <placeName>Princeton, New Jersey</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
+               <occupation>Physician</occupation>
                <note>....</note>
             </person>
             <person xml:id="kingLouis">
                <persName>
                   <surname/>
-                  <forename>Louis</forename>
+                  <forename>Louis XVI</forename>
                   <roleName>King</roleName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1754-08-23">
+                  <placeName>Palace of Versailles, France</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1793-01-21">
+                  <placeName>Place de la Revolution, Paris, France</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>King of France and Navarre</occupation>
                <note>....</note>
             </person>
             <person xml:id="betsy">
                <persName>
-                  <surname>Ross</surname>
-                  <forename>Betsy</forename>
+                  <surname>Griscom Ross</surname>
+                  <forename>Elizabeth</forename>
+                  <addName>Betsy</addName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1752-01-01">
+                  <placeName>Philadelphia, Pennsylvania</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1836-01-30">
+                  <placeName>Philadelphia, Pennsylvania</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Upholsterer</occupation>
                <note>....</note>
             </person>
             <person xml:id="rochambeau">
                <persName>
-                  <surname/>
-                  <forename>Rochambeau</forename>
+                  <surname>de Vimeur, comte de Rochambeau</surname>
+                  <forename>Jean-Baptist Donatien</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1725-07-01">
+                  <placeName>Vendome, Orleanais, France</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1807-05-30">
+                  <placeName>Thore, Loir-et-Cher, France</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
+               <occupation>Nobleman</occupation>
                <note>....</note>
             </person>
             <person xml:id="weeks">
@@ -446,13 +430,13 @@
                   <surname>Weeks</surname>
                   <forename>Levi</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1776">
+                  <placeName>Greenwich, Massachusetts</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1819">
+                  <placeName>Natchez, Mississippi</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Architect</occupation>
                <note>....</note>
             </person>
             <person xml:id="jay">
@@ -460,83 +444,85 @@
                   <surname>Jay</surname>
                   <forename>John</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1745-12-23">
+                  <placeName>New York City, New York, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1829-05-17">
+                  <placeName>Bedford, New York, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="sally">
                <persName>
-                  <surname/>
-                  <forename>Sally</forename>
+                  <surname>Hemings</surname>
+                  <forename>Sarah</forename>
+                  <addName>Sally</addName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1773">
+                  <placeName>Charles City County, Virginia Colony</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1835">
+                  <placeName>Charlottesville, Virginia</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Slave</occupation>
                <note>....</note>
             </person>
             <person xml:id="conway">
                <persName>
                   <surname>Conway</surname>
-                  <forename/>
+                  <forename>Thomas</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1735-02-27">
+                  <placeName>Ireland</placeName>
                </birth>
                <death when="1800">
                   <placeName/>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
                <note>....</note>
             </person>
             <person xml:id="theodosiaDaughter">
                <persName>
-                  <surname>Burr</surname>
+                  <surname>Burr Alston</surname>
                   <forename>Theodosia</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1783-06-21">
+                  <placeName>Albany, New York, U.S.</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1813">
+                  <placeName>Off the coast of Georgetown, South Carolina</placeName>
                </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="theodosiaMother">
                <persName>
-                  <surname/>
+                  <surname>Bartow Prevost</surname>
                   <forename>Theodosia</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1746-11">
+                  <placeName>Shrewbury, New Jersey</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1794-05-28">
+                  <placeName>New York City, New York</placeName>
                </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="philipS">
                <persName>
                   <surname>Schuyler</surname>
-                  <forename>Philip</forename>
+                  <forename>Philip John</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1733-11-20">
+                  <placeName>Albanuy, New York</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1804-11-18">
+                  <placeName>Albany, New York</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
+               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="paine">
@@ -544,27 +530,30 @@
                   <surname>Paine</surname>
                   <forename>Thomas</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1737-02-09">
+                  <placeName>Thetford, Norfolk, England</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1809-06-08">
+                  <placeName>Greenwich Village, New York City, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Politician</occupation>
+               <occupation>Philosopher</occupation>
+               <occupation>Author</occupation>
                <note>....</note>
             </person>
             <person xml:id="sAdams">
                <persName>
                   <surname>Adams</surname>
-                  <forename>Sam</forename>
+                  <forename>Samuel</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1722-09-27">
+                  <placeName>Boston, Massachusetts Bay</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1803-10-02">
+                  <placeName>Cambridge, Massachusetts, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Politician</occupation>
+               <occupation>Tax Collector</occupation>
                <note>....</note>
             </person>
             <person xml:id="jAdams">
@@ -572,57 +561,58 @@
                   <surname>Adams</surname>
                   <forename>John</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1735-10-30">
+                  <placeName>Braintree, Province of Massachusetts Bay, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1826-07-04">
+                  <placeName>Quincy, Massachusetts, U.S></placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Lawyer</occupation>
+               <occupation>Politician</occupation>
                <note>....</note>
             </person>
             <person xml:id="admiralHowe">
                <persName>
                   <surname>Howe</surname>
-                  <forename/>
+                  <forename>Richard</forename>
                   <roleName>Admiral</roleName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1726-04-08">
+                  <placeName>London, England</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1799-08-05">
+                  <placeName>London England</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
                <note>....</note>
             </person>
             <person xml:id="generalMontgomery">
                <persName>
                   <surname>Montgomery</surname>
-                  <forename/>
+                  <forename>Richard</forename>
                   <roleName>General</roleName>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1738-12-02">
+                  <placeName>Swords, Dublin, Kingdom of Ireland</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1775-12-31">
+                  <placeName>Quebec City, Province of Quebec</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
                <note>....</note>
             </person>
             <person xml:id="green">
                <persName>
-                  <surname>Green</surname>
-                  <forename/>
+                  <surname>Greene</surname>
+                  <forename>Nathanael</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1743-08-07">
+                  <placeName>Potowomut, Warwick, Rhode Island, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1786-06-19">
+                  <placeName>Mulberry Grove Plantation, Chatham County, Gerogia, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
                <note>....</note>
             </person>
             <person xml:id="knox">
@@ -630,27 +620,27 @@
                   <surname>Knox</surname>
                   <forename/>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1750-07-25">
+                  <placeName>Boston, Massachusetts Bay, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1806-10-25">
+                  <placeName>Thomaston, Massachusetts, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Military Officer</occupation>
                <note>....</note>
             </person>
             <person xml:id="marthaWashington">
                <persName>
-                  <surname>Washington</surname>
+                  <surname>Dandridge Washington</surname>
                   <forename>Martha</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1731-06-02">
+                  <placeName>Chestnut Grove, Virginia, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1802-05-22">
+                  <placeName>Mount Vernon, Virginia, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>First Lady</occupation>
                <note>....</note>
             </person>
             <person xml:id="schuylerSis">
@@ -658,13 +648,6 @@
                   <surname>Schuyler</surname>
                   <forename>Angelica, Eliza and Peggy</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
-               </birth>
-               <death when="1800">
-                  <placeName/>
-               </death>
-               <occupation>....</occupation>
                <note>....</note>
             </person>
             <person xml:id="franklin">
@@ -672,13 +655,16 @@
                   <surname>Franklin</surname>
                   <forename>Benjamin</forename>
                </persName>
-               <birth when="1700">
-                  <placeName/>
+               <birth when="1706-01-17">
+                  <placeName>Boston, Massachusetts Bay, British America</placeName>
                </birth>
-               <death when="1800">
-                  <placeName/>
+               <death when="1790-04-17">
+                  <placeName>Philadelphia, Pennsylvania, U.S.</placeName>
                </death>
-               <occupation>....</occupation>
+               <occupation>Politician</occupation>
+               <occupation>Diplomat</occupation>
+               <occupation>Author</occupation>
+               <occupation>Inventor</occupation>
                <note>....</note>
             </person>
          </listPerson>
