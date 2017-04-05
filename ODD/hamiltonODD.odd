@@ -40,7 +40,18 @@
                         rs type="emotion must have its part of speech coded in @ana!</sch:report>
                   </sch:rule>
                </constraint>
-            </constraintSpec>	   
+            </constraintSpec>	
+        <!--ebb: 2017-04-05 This is currently not working, but we will keep debugging. -->    
+            <constraintSpec ident="checking-ref-resp-atts" scheme="isoschematron">
+               <constraint>  
+                  <sch:pattern>
+                     <sch:rule context="@ref | @who">
+                        <sch:let name="si" value="doc('../personography.xml')//@xml:id"/>
+                        <sch:let name="siFile" value="doc('../personography.xml')"/>
+                        <sch:let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i,'#')"/>
+                        <sch:assert test="every $token in $tokens satisfies $token = $si">The attribute (after the hashtag, #) must match a defined @xml:id in the Site Index file!</sch:assert>
+                     </sch:rule>
+                  </sch:pattern></constraint></constraintSpec>
       <elementSpec ident="sp" module="core" mode="change">
          <attList>
             <attDef ident="who" mode="replace" usage="req">
