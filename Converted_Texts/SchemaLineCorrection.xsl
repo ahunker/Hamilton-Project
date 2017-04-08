@@ -7,10 +7,10 @@
     version="3.0">
     <xsl:template match="processing-instruction()">
         <xsl:processing-instruction name="xml-model">
-    <xsl:text>"../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
+    <xsl:text>href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
   </xsl:processing-instruction>
         <xsl:processing-instruction name="xml-model">
-    <xsl:text>"../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
+    <xsl:text>href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
   </xsl:processing-instruction> 
     
     </xsl:template>

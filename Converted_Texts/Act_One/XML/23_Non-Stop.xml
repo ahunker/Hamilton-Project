@@ -1,5 +1,4 @@
-<?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
             <titleStmt>
@@ -508,16 +507,14 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><persName ref="#hamilton">Alexander </persName>joins forces with <persName
-                            ref="#madison">James Madison</persName> and <persName ref="#jay">John
+                    <l><persName ref="#hamilton">Alexander </persName>joins forces with <persName ref="#madison">James Madison</persName> and <persName ref="#jay">John
                             Jay</persName> to write a series of essays defending the new
                             <placeName>United States</placeName> Constitution, entitled The
                         Federalist Papers. The plan was to write a total of twenty-five essays, the
                         work divided evenly among the three men. In the end, they wrote eighty-five
                         essays, in the span of six months. <persName ref="#jay">John Jay</persName>
                         got sick after writing five. <persName ref="#madison">James
-                            Madison</persName> wrote twenty-nine. <persName ref="#hamilton"
-                            >Hamilton</persName> wrote the other fifty-one!</l>
+                            Madison</persName> wrote twenty-nine. <persName ref="#hamilton">Hamilton</persName> wrote the other fifty-one!</l>
                     <l>How do you write like you’re</l>
                 </sp>
 
