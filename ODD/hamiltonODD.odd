@@ -33,24 +33,30 @@
             <moduleRef key="header"/>         
             <moduleRef key="namesdates" include="persName placeName roleName geo place listPlace"/>
             <moduleRef key="textstructure" include="TEI back body div front floatingText text"/>
+            <!--ebb 2017-04-07: Neither of these schematron rules seems to be working. Is it the converter process? Hmmm.--> 
             <constraintSpec scheme="isoschematron" ident="emotion-in-rs_ana">
                <constraint>
-                  <sch:rule context="*[@type eq 'emotion']">
+                  <sch:pattern>
+                     <sch:rule context="*[@type eq 'emotion']">
                      <sch:report test="not(@ana)">
                         rs type="emotion must have its part of speech coded in @ana!</sch:report>
                   </sch:rule>
+                  </sch:pattern>
                </constraint>
             </constraintSpec>	
         <!--ebb: 2017-04-05 This is currently not working, but we will keep debugging. -->    
-            <constraintSpec ident="checking-ref-resp-atts" scheme="isoschematron">
+            <constraintSpec ident="checking-ref-who-atts" scheme="isoschematron">
                <constraint>  
                   <sch:pattern>
-                     <sch:rule context="@ref | @who">
-                        <sch:let name="si" value="doc('../personography.xml')//@xml:id"/>
-                        <sch:let name="siFile" value="doc('../personography.xml')"/>
-                        <sch:let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i,'#')"/>
-                        <sch:assert test="every $token in $tokens satisfies $token = $si">The attribute (after the hashtag, #) must match a defined @xml:id in the Site Index file!</sch:assert>
-                     </sch:rule>
+                     
+                        <!--2017-04-07 ebb: I tried defining the personography file's location in relation to the XML file. But this is not working. NOW I am trying to define it in relation to the output Relax-NG. And that doesn't seem to work either. Try redefining in relation to the ODD file? No luck there either. I'm also working on defining in relation to a specific element. And pointing to the personography file posted on the Hamilton websites:
+                        -->
+                     <sch:let name="siFile" value="doc('../../Converted_Texts/Personography/personography.xml')"/>
+                    <sch:let name="si" value="doc('../../Converted_Texts/Personography/personography.xml')//@xml:id"/>
+                       <sch:rule context="@who"> 
+                          <sch:let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i,'#')"/>
+                          <sch:assert test="every $token in $tokens satisfies $token = $si">The @who attribute (after the hashtag, #) must match a defined @xml:id in the personography file!</sch:assert></sch:rule>
+                     
                   </sch:pattern></constraint></constraintSpec>
       <elementSpec ident="sp" module="core" mode="change">
          <attList>

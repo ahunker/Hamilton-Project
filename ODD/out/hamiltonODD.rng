@@ -5,10 +5,10 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2017-04-05T17:19:54Z. .
-TEI Edition: Version 3.1.1a. Last updated on
-	13th March 2017, revision 6c0756c
-TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.1a./
+Schema generated from ODD source 2017-04-08T21:35:18Z. .
+TEI Edition: Version 3.1.0. Last updated on
+	15th December 2016, revision d3f5e70
+TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.1.0/
   
 --><!---->
    <define name="teimacro.paraContent">
@@ -2374,7 +2374,7 @@ Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] cant
             <rule context="tei:p">
                <report xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                        xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                       test="not(ancestor::floatingText) and (ancestor::tei:p or ancestor::tei:ab)          and not(parent::tei:exemplum                |parent::tei:item                |parent::tei:note                |parent::tei:q                |parent::tei:quote                |parent::tei:remarks                |parent::tei:said                |parent::tei:sp                |parent::tei:stage                |parent::tei:cell                |parent::tei:figure                )">
+                       test="(ancestor::tei:p or ancestor::tei:ab)          and not(parent::tei:exemplum                |parent::tei:item                |parent::tei:note                |parent::tei:q                |parent::tei:quote                |parent::tei:remarks                |parent::tei:said                |parent::tei:sp                |parent::tei:stage                |parent::tei:cell                |parent::tei:figure)">
         Abstract model violation: Paragraphs may not contain other paragraphs or ab elements.
       </report>
             </rule>
@@ -2572,7 +2572,6 @@ Suggested values include: 1] cardinal; 2] ordinal; 3] fraction; 4] percentage</a
          </zeroOrMore>
          <ref name="teiatt.global.attributes"/>
          <ref name="teiatt.typed.attributes"/>
-         <ref name="teiatt.placement.attributes"/>
          <ref name="teiatt.written.attributes"/>
          <empty/>
       </element>
@@ -4056,6 +4055,16 @@ On <name/>, either the @marks attribute should be used, or a paragraph of descri
             <attribute name="withId">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">(with unique identifier) specifies the number of occurrences of this element within the text which bear a distinct value for the global xml:id attribute.</a:documentation>
                <data type="nonNegativeInteger"/>
+            </attribute>
+         </optional>
+         <optional>
+            <attribute name="render">
+               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">specifies the identifier of a rendition element which defines how this element was rendered in the source text.</a:documentation>
+               <list>
+                  <oneOrMore>
+                     <data type="anyURI"/>
+                  </oneOrMore>
+               </list>
             </attribute>
          </optional>
          <empty/>
@@ -5673,25 +5682,28 @@ Suggested values include: 1] sent; 2] received; 3] transmitted; 4] redirected; 5
          <ref name="teiTEI"/>
       </choice>
    </start>
-   <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-            id="starterODD-emotion-in-rs_ana-constraint-rule-9">
-      <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
-                xmlns:sch="http://purl.oclc.org/dsdl/schematron"
-                xmlns:rng="http://relaxng.org/ns/structure/1.0"
-                context="*[@type eq 'emotion']">
-                     <sch:report test="not(@ana)">
-                        rs type="emotion must have its part of speech coded in @ana!</sch:report>
-                  </sch:rule>
-   </pattern>
    <sch:pattern xmlns="http://www.tei-c.org/ns/1.0"
                 xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                 xmlns:rng="http://relaxng.org/ns/structure/1.0">
-                     <sch:rule context="@ref | @who">
-                        <sch:let name="si" value="doc('../personography.xml')//@xml:id"/>
-                        <sch:let name="siFile" value="doc('../personography.xml')"/>
-                        <sch:let name="tokens"
+                     <sch:rule context="*[@type eq 'emotion']">
+                     <sch:report test="not(@ana)">
+                        rs type="emotion must have its part of speech coded in @ana!</sch:report>
+                  </sch:rule>
+                  </sch:pattern>
+   <sch:pattern xmlns="http://www.tei-c.org/ns/1.0"
+                xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                xmlns:rng="http://relaxng.org/ns/structure/1.0">
+                     
+                        
+                     <sch:let name="siFile"
+               value="doc('../../Converted_Texts/Personography/personography.xml')"/>
+                    <sch:let name="si"
+               value="doc('../../Converted_Texts/Personography/personography.xml')//@xml:id"/>
+                       <sch:rule context="@who"> 
+                          <sch:let name="tokens"
                   value="for $i in tokenize(., '\s+') return substring-after($i,'#')"/>
-                        <sch:assert test="every $token in $tokens satisfies $token = $si">The attribute (after the hashtag, #) must match a defined @xml:id in the Site Index file!</sch:assert>
-                     </sch:rule>
+                          <sch:assert test="every $token in $tokens satisfies $token = $si">The @who attribute (after the hashtag, #) must match a defined @xml:id in the personography file!</sch:assert>
+      </sch:rule>
+                     
                   </sch:pattern>
 </grammar>
