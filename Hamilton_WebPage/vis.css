@@ -1,0 +1,113 @@
+html{
+   margin: 0px;
+    padding: 0px;
+    }
+    
+body{
+    font-family: georgia, serif;
+    
+    background-image: url("back2.jpg");
+    color: white;
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*Menu at top of every page*/
+h1{
+    font-size: 70px;
+    text-align: center;
+    font-family: "Courier New";
+}
+hr {
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+p.menu{
+    font-size: 20px;
+    font-family: "Courier New";
+    text-align: center;
+    color: white;
+}
+
+
+/*LINKS*/
+a{
+    color:white;
+}
+/* visited link */
+a:visited {
+    color: black;
+}
+/* mouse over link */
+a:hover {
+    color: black;
+}
+/* selected link */
+a:active {
+    color: white;
+    }
+
+
+
+h2{
+    font-size: 25px;
+    text-align: left;
+}
+
+p{
+    font-size: 16px;
+}
+
+div.img{
+    float:right;
+    width: 40%;
+    padding-left:5%;
+    padding-right:5%;
+    margin-top:2%;
+    margin-bottom: 2%;
+}
+img{
+    width: 100%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    }
+    
+div.main{font-family: georgia, serif;
+    color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top:1%;
+    padding-bottom: 1%;
+    width:35%;
+    margin-left: 5%;
+    margin-top:2%;
+    margin-bottom:2%;
+    float:left;
+    background:goldenrod;
+}
+
+div.main2{
+   text-align: left;
+   letter-spacing: 2px;
+   line-height: 1.5;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: goldenrod;
+}
+
+p.about{
+    text-indent:15px;
+    font-size:14px;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+}
+h3{
+    text-indent:10px;
+    font-size:18px;
+}

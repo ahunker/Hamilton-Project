@@ -1,65 +1,34 @@
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>About</title>
-        <link rel="stylesheet" type="text/css" href="about.css" />
-        <script type="text/javascript" src="about.js">/**/</script>
+        <title>Visualizations and Analysis</title>
+        <link rel="stylesheet" type="text/css" href="vis.css" />
     </head>
     <body>
         <!--#include virtual="menu.html"-->
-        <div class="buttons">
-            <div>
-                <button id="button0"><strong>Learn More About Our Project</strong></button>
-            </div>
-            <div>
-                <button id="button1"><strong>Meet Our Team</strong></button>
-            </div>
-            <div>
-                <button id="button2"><strong>Methodology</strong></button>
-            </div>
+        <div class="visualization">
+            <h2>Network Graph</h2>
+
+
         </div>
-        <div class="main" id="about1" style="display:none">
-            <h2>MORE ABOUT OUR PROJECT</h2>
-            <p class="about">This project currently focuses on the lyrics in the musica <i>Hamilton: An American
-                    Musical</i>. In regards to characters, we are looking specifically at who is
-                talking the most in the musical versus who is talked about the most, who is
-                connected to who, and the number of times one character mentions another character
-                (E.g. the number of times Aaron Burr mentions Alexander Hamilton). Learning more
-                about who a character talks about and is connected with can give us a better
-                understanding of relationships between characters.</p>
-            <p class="about">Another aspect were looking at in-depth is the repeated words found throughout
-                multiple songs. There are several lines that are present in two or more songs. These
-                phrases contribute towards characterization, the story, and themes present
-                throughout the musical. We will look at where these phrases appear and track when
-                they appear the most or don't appear at all in refards to the overall story.</p>
-            <p class="about">Other elements we're interested in include dates and places. We're aiming to create a
-                timeline on which to place songs and births or deaths that appear during the
-                timeline of the musical. We will also aim to create a map to visualize the numerous
-                places mentioned.</p>
-        </div>
-        <div class="main" id="about2" style="display:none">
-            <h2 class="about">MEET THE TEAM</h2>
-            <div class="person">
-                <h3>AUDREY HUNKER</h3>
-                <p class="about">A student at the University of Pittsburgh at Greensburg, <a
-                        href="http://www.newtfire.org/~aah75/" class="about">Audrey Hunker</a> is pursuing a major
-                    in Creative and Professional Writing and a Digital Studies Certficate. She is an
-                    original member of <a href="http://lope.newtfire.org" class="about">The Lope de Vega
-                        Project</a> team and a founding member and leader of The Hamilton Project
-                    team. Her go-to song from <i>Hamilton</i> to perform in the car is "You'll Be
-                    Back".</p>
-            </div>
-            <div class="person">
-                <h3>BRI FILER</h3>
-                <p class="about"><a href="http://newtfire.org/~bsf15/" class="about">Bri Filer</a> is a student at
-                    the University of Pittsburgh at Greensburgh, majoring in Creative and
-                    Professional Writing, minoring in English Literature, and pursuing a Digital
-                    Studies Certificate. She is a founding member of the Hamilton Project team. Her
-                    great love of <i>Hamilton</i> is slowly driving her parents insane. </p>
-            </div>
-        </div>
-        <div class="main" id="about3" style="display:none">
-            <h2>METHODOLOGY</h2>
+        <div class="main">
+            <h2>Analysis</h2>
+            <p>
+                This network graph analyzes the speakers of <i>Hamilton</i> and the characters being referenced. The graph indicates who speaks the most throughout the whole musical and who references who within every song. 
+                
+            </p>
+            <p>
+                The size of the source node circle represents the amount of time that character was referenced by other characters and/or themself.
+                A larger circle indicates that the character was referenced frequently while a smaller circle indicates the character was referenced minimally or not at all.
+                The color of the source node circle represents how often the speaker speaks throughout the whole musical.
+                A gold or darker colored circle indicates that the character spoke often throughout the musical.
+                A white or lighter colored circle indicates that the character did not speak often or did not speak at all throughout the musical. 
+                The arrows on the interactions between the nodes represents the references and the direction of the arrows indicate who was referencing who. Arrows pointing out from the source node show that particular character is doing the referencing of the character/source node that the arrows are pointing in toward. 
+                
+            </p>
+            <p>This network graph allows us to determine which characters play a pivotal part in the musical. For example, we can determine whether or not the character who spoke the most in the musical is also referenced the most. So, for example from the network graph, we can see Hamilton and Burr are represented as  large, golden circles which indicates that they speak often and they are also referenced often. As Burr and Hamilton play crucial roles in the musical, the data reflects their importance by revealing the quantity of how much they speak and are referenced throughout the musical. 
+               </p>
         </div>
     </body>
 </html>
