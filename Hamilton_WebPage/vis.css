@@ -82,16 +82,15 @@ div.main{font-family: georgia, serif;
     padding-right: 5%;
     padding-top:1%;
     padding-bottom: 1%;
-    width:25%;
+    width:35%;
     margin-left: 5%;
-    margin-top:2%;
+    margin-top:5%;
     margin-bottom:2%;
     float:right;
-    background:goldenrod;
 }
 
 div.main2{
-   text-align: right;
+   text-align: left;
    letter-spacing: 2px;
    line-height: 1.5;
     padding-left: 10%;
@@ -99,15 +98,4 @@ div.main2{
     padding-top: 1%;
     padding-bottom: 1%;
     background: goldenrod;
-}
-
-p.about{
-    text-indent:15px;
-    font-size:14px;
-    letter-spacing: 1.5px;
-    line-height: 1.5;
-}
-h3{
-    text-indent:10px;
-    font-size:18px;
 }
