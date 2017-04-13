@@ -69,7 +69,7 @@ div.img{
     margin-top:2%;
     margin-bottom: 2%;
 }
-img{
+img[id]{
     width: 100%;
     border-width: 5px;
     border-style: solid;
