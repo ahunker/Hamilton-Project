@@ -79,3 +79,22 @@ div.song{
 l{
     font-size: 18px;
 }
+
+fieldset {
+    font-size: 18px;
+    line-height: 1;
+    width: 8%;
+    float:right;
+    padding: 10px;
+    margin-top: 100px;
+    margin-right: 5px;
+    position:fixed;
+    right:20%;
+    background:goldenrod;
+    color: white;
+    border-color: black;
+}
+span.placeName.on {color:#ffff4d;font-weight: bold;}
+span.persName.on {color:#800040;font-weight: bold;}
+span.date.on {color:#e6e6e6;font-weight: bold;}
+span.phr.on {color:#cc6600; font-weight: bold;}
