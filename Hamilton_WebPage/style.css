@@ -111,3 +111,12 @@ h3{
     text-indent:10px;
     font-size:18px;
 }
+
+div#map{
+   float:right;
+    width: 40%;
+    padding-left:2%;
+    padding-right:8%;
+    margin-top:2%;
+    margin-bottom: 2%;
+}

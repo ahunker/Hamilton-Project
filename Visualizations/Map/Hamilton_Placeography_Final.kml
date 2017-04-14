@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+      <name>GPS data</name>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Snippet>created using &lt;A href="http://www.gpsvisualizer.com/?ref=ge&amp;time=20170413185351"&gt;GPS Visualizer&lt;/A&gt;</Snippet>
+      <Style id="gv_waypoint_normal">
+         <IconStyle>
+            <color>ff2a2aa5</color>
+            <scale>1</scale>
+            <Icon>
+               <href>http://maps.google.com/mapfiles/kml/pal4/icon59.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+         </IconStyle>
+         <LabelStyle>
+            <color>ff2a2aa5</color>
+            <scale>1</scale>
+         </LabelStyle>
+         <BalloonStyle>
+            <text>&lt;div style="font-family:Arial,sans-serif; min-width:200px;"&gt;&lt;h3&gt;$[name]&lt;/h3&gt; &lt;div style="margin-top:8px;"&gt;$[description]&lt;/div&gt;&lt;/div&gt;</text>
+         </BalloonStyle>
+      </Style>
+      <Style id="gv_waypoint_highlight">
+         <IconStyle>
+            <color>ff2a2aa5</color>
+            <scale>1.2</scale>
+            <Icon>
+               <href>http://maps.google.com/mapfiles/kml/pal4/icon59.png</href>
+            </Icon>
+            <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+         </IconStyle>
+         <LabelStyle>
+            <color>ff2a2aa5</color>
+            <scale>1</scale>
+         </LabelStyle>
+         <BalloonStyle>
+            <text>&lt;div style="font-family:Arial,sans-serif; min-width:200px;"&gt;&lt;h3&gt;$[name]&lt;/h3&gt; &lt;div style="margin-top:8px;"&gt;$[description]&lt;/div&gt;&lt;/div&gt;</text>
+         </BalloonStyle>
+      </Style>
+      <StyleMap id="gv_waypoint">
+         <Pair>
+            <key>normal</key>
+            <styleUrl>#gv_waypoint_normal</styleUrl>
+         </Pair>
+         <Pair>
+            <key>highlight</key>
+            <styleUrl>#gv_waypoint_highlight</styleUrl>
+         </Pair>
+      </StyleMap>
+      <Folder id="Waypoints">
+         <name>Waypoints</name>
+         <visibility>1</visibility>
+         <Placemark>
+            <name>New York, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.0071411,40.71455</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Albany, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.7552109,42.6515503</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>London, England, United Kingdom</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-0.12721,51.5064201</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>United States</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-98.9573364,39.4432564</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>France</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>2.3382621,46.6372795</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Spain</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-3.550693,40.3960266</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Yorktown, VA</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-76.5121231,37.2352715</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>South Carolina</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-80.8937607,33.9038277</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Chesapeake Bay</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-76.2944717,38.6069946</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>United States</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-98.9573364,39.4432564</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Caribbean Sea</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-75,15</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Monmouth, Wales, United Kingdom</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-2.7123699,51.8207817</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Mount Vernon, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.8382721,40.9124489</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Georgia</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-83.4445572,32.6483307</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>New York, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.0071411,40.71455</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Harlem, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.9475021,40.8086205</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Harbor, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-75.1209869,43.0696983</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Brooklyn, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.9903564,40.6924515</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Kip Bay, New York, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.9777603,40.7422104</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Manhattan, New York, New York</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.969429,40.7830276</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Quebec, Quebec, Canada</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-71.2192993,46.8127289</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Boston, MA</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-71.0567398,42.3586617</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>King's College, PA</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-75.8794022,41.2497063</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Great Britain, United Kingdom</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-2.5931871,54.0006409</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Princeton, NJ</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.6644592,40.3607597</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>New Jersey</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.6769104,40.1387787</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>England, United Kingdom</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-1.466881,52.598877</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Virginia</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-78.6980972,37.5127831</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Monticello, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.684761,41.6544685</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Paris, Ile-de-France, France</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>2.3412001,48.8569298</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Trinity Church, NY</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.0125656,40.7081261</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>North Island, CA</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-117.1967468,32.6956444</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Weehawken, NJ</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-74.02034,40.77491</coordinates>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Hudson</name>
+            <description/>
+            <styleUrl>#gv_waypoint</styleUrl>
+            <Point>
+               <altitudeMode>clampToGround</altitudeMode>
+               <coordinates>-73.7914429,42.3854713</coordinates>
+            </Point>
+         </Placemark>
+      </Folder>
+  </Document>
+</kml>
