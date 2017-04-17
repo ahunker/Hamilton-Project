@@ -94,12 +94,12 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>I am not throwin’ away my shot!</l>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                     <l>Hey yo, I’m just like my country, I’m young</l>
                     <l>Scrappy and hungry</l>
-                    <l>And I’m not throwin’ away my shot!</l>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l>And <phr type="#shot">I’m not throwin’ away my shot!</phr></l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">

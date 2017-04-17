@@ -142,7 +142,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>Be satisfied</l>
+                    <l><phr type="#satisfied">Be satisfied</phr></l>
                 </sp>
 
                 <sp who="#hamilton #eliza #men #women">
@@ -153,7 +153,7 @@
                 <sp who="#recording">
                     <speaker>Recorded Samples</speaker>
                     <l>Rewind, Rewind</l>
-                    <l>Helpless, sky's, sky's</l>
+                    <l><phr type="#helpless">Helpless</phr>, sky's, sky's</l>
                     <l>Drownin' in em</l>
                     <l>Drownin', rewind</l>
                     <l>I remember that night, I just might rewind</l>
@@ -185,7 +185,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>You strike me as a woman who has never been satisfied</l>
+                    <l><phr type="#satisfied">You strike me as a woman who has never been satisfied</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -195,7 +195,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>You’re like me. I’m never satisfied</l>
+                    <l>You’re like me. <phr type="#satisfied">I’m never satisfied</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -205,7 +205,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I have never been satisfied</l>
+                    <l><phr type="#satisfied">I have never been satisfied</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -226,7 +226,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Unimportant. There’s a million things I haven’t done but</l>
-                    <l>Just you wait, just you wait…</l>
+                    <l><phr type="#wait">Just you wait, just you wait…</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -253,7 +253,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Helpless…</l>
+                    <l><phr type="#helpless">Helpless…</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -263,7 +263,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Helpless…</l>
+                    <l><phr type="helpless">Helpless…</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -273,7 +273,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Helpless…</l>
+                    <l><phr type="#helpless">Helpless…</phr></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -348,7 +348,7 @@
                     <l>Maybe that is why I introduce him to <persName ref="#eliza">Eliza</persName></l>
                     <l>Now that’s his bride</l>
                     <l>Nice going, <persName ref="#angelica">Angelica</persName>, he was right</l>
-                    <l>You will never be satisfied</l>
+                    <l>You will never be <phr type="#satisfied">satisfied</phr></l>
                 </sp>
 
                 <sp who="#eliza">
@@ -502,13 +502,13 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>Be satisfied</l>
+                    <l>Be <phr type="#satisfied">satisfied</phr></l>
                 </sp>
 
                 <sp who="#hamilton #men">
                     <speaker>HAMILTON/MEN</speaker>
-                    <l>Be satisfied</l>
-                    <l>Be satisfied</l>
+                    <l>Be <phr type="#satisfied">satisfied</phr></l>
+                    <l>Be <phr type="#satisfied">satisfied</phr></l>
                 </sp>
 
                 <spGrp type="simultaneous">
@@ -522,30 +522,30 @@
 
                     <sp who="#men">
                         <speaker>MEN</speaker>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied. </l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied.</phr> </l>
                     </sp>
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied</l>
-                        <l>Be satisfied.</l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied</phr></l>
+                        <l><phr type="#satisfied">Be satisfied.</phr></l>
                     </sp>
                 </spGrp>
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>He will never be satisfied</l>
-                    <l>I will never be satisfied</l>
+                    <l><phr type="#satisfied">He will never be satisfied</phr></l>
+                    <l><phr type="#satisfied">I will never be satisfied</phr></l>
                 </sp>
             </div>
         </body>

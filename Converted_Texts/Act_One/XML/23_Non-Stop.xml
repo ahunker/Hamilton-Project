@@ -406,7 +406,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Hey</l>
-                    <l>What are you waiting for?</l>
+                    <l><phr type="#wait">What are you waiting for?</phr></l>
                     <l>What do you stall for?</l>
                 </sp>
 
@@ -454,8 +454,8 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait for it, wait for</l>
-                    <l>It, wait…</l>
+                    <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for</phr></l>
+                    <l>It, <phr type="#wait">wait…</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -627,7 +627,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Helpless…</l>
+                    <l><phr type="#helpless">Helpless…</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -642,21 +642,21 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>He will never be satisfied</l>
-                    <l>He will never be satisfied</l>
+                    <l><phr type="#satisfied">He will never be satisfied</phr></l>
+                    <l><phr type="#satisfied">He will never be satisfied</phr></l>
                 </sp>
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>What would be enough</l>
                     <l>To</l>
-                    <l>Be satisfied</l>
+                    <l><phr type="#satisfied">Be satisfied</phr></l>
                 </sp>
 
                 <sp who="#angelica #eliza">
                     <speaker>ANGELICA/ELIZA</speaker>
-                    <l>Satisfied</l>
-                    <l>Satisfied…</l>
+                    <l><phr type="#satisfied">Satisfied</phr></l>
+                    <l><phr type="#satisfied">Satisfied…</phr></l>
                 </sp>
 
                 <spGrp type="simultaneous">
@@ -696,9 +696,9 @@
 
                     <sp who="#angelica">
                         <speaker>ANGELICA</speaker>
-                        <l>He will never be satisfied</l>
-                        <l>Satisfied…</l>
-                        <l>Satisfied...</l>
+                        <l><phr type="#satisfied">He will never be satisfied</phr></l>
+                        <l><phr type="#satisfied">Satisfied…</phr></l>
+                        <l><phr type="#satisfied">Satisfied...</phr></l>
                         <l>Why do you fight like</l>
                     </sp>
 
@@ -718,22 +718,22 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Just you wait!</l>
+                    <l><phr type="#wait">Just you wait!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                 </sp>
 
                 <sp who="#company">
                     <speaker>FULL COMPANY</speaker>
-                    <l>Just you wait!</l>
+                    <l><phr type="#wait">Just you wait!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -744,12 +744,12 @@
                 <sp who="#company">
                     <speaker>FULL COMPANY</speaker>
                     <l><persName ref="#hamilton">Alexander Hamilton</persName></l>
-                    <l><persName ref="#hamilton">Hamilton</persName>, just you wait!</l>
+                    <l><persName ref="#hamilton">Hamilton</persName>, <phr type="#wait">just you wait!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                 </sp>
 
             </div>

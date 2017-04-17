@@ -26,11 +26,11 @@
             <div type="song">
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwing away my shot!</l>
-                    <l>I am not throwing away my shot!</l>
+                    <l><phr type="#shot">I am not throwing away my shot!</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot!</phr></l>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
-                    <l>And I’m not throwing away my shot!</l>
+                    <l>And <phr type="#shot">I’m not throwing away my shot!</phr></l>
                     <l>I’m ‘a get a scholarship to <placeName>King’s College</placeName></l>
                     <l>I prob’ly shouldn’t brag, but dag, I amaze and astonish</l>
                     <l>The problem is I got a lot of brains but no polish</l>
@@ -50,7 +50,7 @@
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>A-L-E-X-A-N-D</l>
+                    <l><persName ref="#hamilton"/>A-L-E-X-A-N-D</l>
                     <l>E-R—we are—meant to be…</l>
                 </sp>
 
@@ -76,24 +76,24 @@
                     <l>Don’t be shocked when your hist’ry book mentions me</l>
                     <l>I will lay down my life if it sets us free</l>
                     <l>Eventually, you’ll see my ascendancy</l>
-                    <l>And I am not throwing away</l>
-                    <l>My shot</l>
+                    <l>And<phr type="#shot">I am not throwing away</phr></l>
+                    <l><phr type="#shot">My shot</phr></l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>My shot!</l>
+                    <l><phr type="#shot">My shot!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwing away</l>
-                    <l>My shot</l>
+                    <l><phr type="#shot">I am not throwing away</phr></l>
+                    <l><phr type="#shot">My shot</phr></l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>My shot!</l>
+                    <l><phr type="#shot">My shot!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -104,17 +104,17 @@
 
                 <sp who="#hamilton #laurens">
                     <speaker>HAMILTON/LAURENS</speaker>
-                    <l>And I’m not throwing away my shot</l>
+                    <l><phr type="#shot">And I’m not throwing away my shot</phr></l>
                 </sp>
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>I am not throwing away my shot</l>
-                    <l>I am not throwing away my shot</l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
-                    <l>And I’m not throwing away my shot</l>
-                    <l>It’s time to take a shot!</l>
+                    <l>And <phr type="#shot">I’m not throwing away my shot</phr></l>
+                    <l><phr type="#shot">It’s time to take a shot!</phr></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -128,7 +128,7 @@
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Shot!</l>
+                    <l><phr type="#shot">Shot!</phr></l>
                 </sp>
 
                 <sp who="#mulligan">
@@ -142,7 +142,7 @@
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Shot!</l>
+                    <l><phr type="#shot">Shot!</phr></l>
                 </sp>
 
                 <sp who="#laurens">
@@ -156,7 +156,7 @@
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Shot!</l>
+                    <l><phr type="#shot">Shot!</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -165,7 +165,7 @@
                     <l>You keep out of trouble and you double your choices</l>
                     <l>I’m with you, but the situation is fraught</l>
                     <l>You’ve got to be carefully taught:</l>
-                    <l>If you talk, you’re gonna get shot!</l>
+                    <l>If you talk, <phr type="#shot">you’re gonna get shot!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -193,16 +193,16 @@
 
                 <sp who="#hamilton #mulligan #lafayette #laurens #ensemble">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS/ENSEMBLE</speaker>
-                    <l>I am not throwing away my shot</l>
-                    <l>I am not throwing away my shot</l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
-                    <l>And I’m not throwing away my shot</l>
-                    <l>I am not throwing away my shot</l>
-                    <l>I am not throwing away my shot</l>
+                    <l>And <phr type="#shot">I’m not throwing away my shot</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
-                    <l>And I’m not throwing away my shot</l>
+                    <l>And <phr type="#shot">I’m not throwing away my shot</phr></l>
                 </sp>
 
                 <sp who="#laurens">
@@ -288,19 +288,19 @@
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Come on, let’s go!</l>
-                    <l>Rise up!</l>
-                    <l>When you’re living on your knees, you rise up</l>
-                    <l>Tell your brother that he’s gotta rise up</l>
-                    <l>Tell your sister that she's gotta rise up</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
+                    <l>When you’re living on your knees, you <phr type="#rise">rise up</phr></l>
+                    <l>Tell your brother that he’s gotta <phr type="#rise">rise up</phr></l>
+                    <l>Tell your sister that she's gotta <phr type="#rise">rise up</phr></l>
                 </sp>
 
                 <spGrp type="simultaneous">
                     <sp who="#laurens #ensemble">
                         <speaker>LAURENS/ENSEMBLE</speaker>
-                        <l>When are these colonies gonna rise up?</l>
-                        <l>When are these colonies gonna rise up?</l>
-                        <l>When are these colonies gonna rise up?</l>
-                        <l>When are these colonies gonna rise up?</l>
+                        <l>When are these colonies gonna <phr type="#rise">rise up?</phr></l>
+                        <l>When are these colonies gonna <phr type="#rise">rise up?</phr></l>
+                        <l>When are these colonies gonna <phr type="#rise">rise up?</phr></l>
+                        <l>When are these colonies gonna <phr type="#rise">rise up?</phr></l>
                     </sp>
 
                     <sp who="#company">
@@ -309,7 +309,7 @@
                         <l>Whoa!</l>
                         <l>Whoa!</l>
                         <l>Whoa!</l>
-                        <l>Rise up!</l>
+                        <l><phr type="#rise">Rise up!</phr></l>
                     </sp>
                 </spGrp>
 
@@ -348,79 +348,79 @@
 
                 <sp who="#hamilton #company">
                     <speaker>HAMILTON/COMPANY</speaker>
-                    <l>And I am not throwing away my shot</l>
-                    <l>I am not throwing away my shot</l>
+                    <l>And <phr type="#shot">I am not throwing away my shot</phr></l>
+                    <l><phr type="#shot">I am not throwing away my shot</phr></l>
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
-                    <l>And I’m not throwing away my shot</l>
+                    <l>And <phr type="#shot">I’m not throwing away my shot</phr></l>
                 </sp>
 
                 <spGrp type="simultaneous">
                     <sp who="#hamilton #mulligan #lafayette #laurens">
                         <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                        <l>We’re gonna rise up! Time to take a shot!</l>
-                        <l>We’re gonna rise up! Time to take a shot!</l>
+                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot">Time to take a shot!</phr></l>
+                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot">Time to take a shot!</phr></l>
                         <l>We’re gonna</l>
                     </sp>
 
                     <sp who="#ensemble">
                         <speaker>ENSEMBLE</speaker>
-                        <l>Not throwing away my shot</l>
-                        <l>Not throwing away my shot</l>
+                        <l><phr type="#shot">Not throwing away my shot</phr></l>
+                        <l><phr type="#shot">Not throwing away my shot</phr></l>
                         <l>We’re gonna</l>
                     </sp>
                 </spGrp>
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Rise up!</l>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Time to take a shot!</l>
+                    <l><phr type="#shot">Time to take a shot!</phr></l>
                 </sp>
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Rise up!</l>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <spGrp type="simultaneous">
                     <sp who="#hamilton #mulligan #lafayette #laurens">
                         <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                        <l>Time to take a shot!</l>
-                        <l>Time to take a shot!</l>
-                        <l>Take a shot!</l>
-                        <l>Shot!</l>
-                        <l>Shot!</l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot">Take a shot!</phr></l>
+                        <l><phr type="#shot">Shot!</phr></l>
+                        <l><phr type="#shot">Shot!</phr></l>
                         <l>A-yo it’s</l>
-                        <l>Time to take a shot!</l>
-                        <l>Time to take a shot!</l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
                         <l>And I am—</l>
                     </sp>
 
                     <sp who="#ensemble">
                         <speaker>ENSEMBLE</speaker>
-                        <l>Rise up!</l>
-                        <l>Rise up!</l>
+                        <l><phr type="#rise">Rise up!</phr></l>
+                        <l><phr type="#rise">Rise up!</phr></l>
                         <l>Ri— ri— ri—</l>
-                        <l>Time to take a shot!</l>
-                        <l>Time to take a shot!</l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot">Time to take a shot!</phr></l>
                         <l>And I am—</l>
                     </sp>
                 </spGrp>
 
                 <sp who="#hamilton #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Not throwin’ away my—</l>
+                    <l><phr type="#shot">Not throwin’ away my—</phr></l>
                 </sp>
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l>Not throwin’ away my shot!</l>
+                    <l><phr type="#shot">Not throwin’ away my shot!</phr></l>
                 </sp>
             </div>
         </body>

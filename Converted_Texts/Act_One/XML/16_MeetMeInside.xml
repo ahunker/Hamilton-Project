@@ -38,7 +38,7 @@
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>I’m satisfied</l>
+                    <l><phr type="#satisfied">I’m satisfied</phr></l>
                 </sp>
 
                 <sp who="#burr">

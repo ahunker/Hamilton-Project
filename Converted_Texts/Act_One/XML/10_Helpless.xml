@@ -45,8 +45,8 @@
 
                 <sp who="#eliza #women">
                     <speaker>ELIZA/WOMEN</speaker>
-                    <l>Helpless!</l>
-                    <l>Look into your eyes, and the sky’s the limit I’m helpless!</l>
+                    <l><phr type="#helpless">Helpless!</phr></l>
+                    <l>Look into your eyes, and the sky’s the limit I’m <phr type="#helpless">helpless!</phr></l>
                     <l>Down for the count, and I’m drownin’ in ‘em</l>
                 </sp>
 
@@ -111,11 +111,11 @@
                     <sp who="#eliza">
                         <speaker>ELIZA</speaker>
                         <l>Then you look back at me and suddenly I’m</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Oh, look at those eyes</l>
                         <l>Oh!</l>
                         <l>Yeah, I’m</l>
-                        <l>Helpless, I know</l>
+                        <l><phr type="#helpless">Helpless</phr>, I know</l>
                         <l>I’m so into you</l>
                         <l>I am so into you</l>
                         <l>I know I’m down for the count</l>
@@ -124,16 +124,16 @@
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Look into your eyes</l>
                         <l>And the sky’s the limit</l>
                         <l>I’m</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in ‘em</l>
-                        <l>I’m helpless!</l>
+                        <l>I’m <phr type="#helpless">helpless!</phr></l>
                         <l>Look into your eyes</l>
-                        <l>And the sky’s the limit I’m helpless!</l>
+                        <l>And the sky’s the limit I’m <phr type="#helpless">helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in ‘em.</l>
                     </sp>
@@ -276,31 +276,31 @@
                     <sp who="#eliza">
                         <speaker>ELIZA</speaker>
                         <l>And you turn back to me, smiling, and I’m</l>
-                        <l>Helpless!</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Hoo!</l>
                         <l>That boy is mine</l>
                         <l>That boy is mine!</l>
-                        <l>Helpless! Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr> <phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in em</l>
                     </sp>
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Look into your eyes</l>
                         <l>And the sky’s the</l>
                         <l>Limit I’m</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in</l>
                         <l>‘em I’m</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Look into your eyes</l>
                         <l>And the sky’s the</l>
                         <l>Limit I’m</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in em</l>
                     </sp>
@@ -340,14 +340,14 @@
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Helpless!</l>
-                        <l>Helpless!</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in ‘em</l>
-                        <l>Helpless!</l>
-                        <l>Helpless!</l>
-                        <l>Helpless!</l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
+                        <l><phr type="#helpless">Helpless!</phr></l>
                         <l>Down for the count</l>
                         <l>And I’m drownin’ in ‘em.</l>
                     </sp>
@@ -371,7 +371,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Helpless</l>
+                    <l><phr type="#helpless">Helpless</phr></l>
                 </sp>
             </div>
         </body>

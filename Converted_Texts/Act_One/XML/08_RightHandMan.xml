@@ -60,7 +60,7 @@
 
                 <sp who="#hamilton #burr #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/BURR/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -71,7 +71,7 @@
 
                 <sp who="#hamilton #burr #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/BURR/MULLIGAN/LAFAYETTELAURENS</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -83,7 +83,7 @@
 
                 <sp who="#hamilton #burr #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/BURR/MULLIGAN/LAFAYETTELAURENS</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -93,7 +93,7 @@
 
                 <sp who="#hamilton #burr #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/BURR/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l>Rise up! Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr> <phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -532,15 +532,15 @@
 
                 <sp who="#company">
                     <speaker>COMPANY EXCEPT HAMILTON</speaker>
-                    <l>I am not throwin’ away my shot!</l>
-                    <l>I am not throwin’ away my shot!</l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
+                    <l><phr type="#shot">I am not throwin’ away my shot!</phr></l>
                     <l>Ayo, I’m just like my country, I’m young</l>
                     <l>Scrappy and hungry!</l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I am not throwing away my shot!</l>
+                    <l><phr type="#shot">I am not throwing away my shot!</phr></l>
                 </sp>
 
                 <sp who="#washington">
@@ -611,7 +611,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#mulligan #lafayette #laurens">
@@ -626,7 +626,7 @@
 
                 <sp who="#hamilton #angelica #eliza #peggy #women">
                     <speaker>HAMILTON/SCHUYLER SISTERS/WOMEN</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#mulligan #lafayette #laurens">
@@ -641,7 +641,7 @@
 
                 <sp who="#hamilton #angelica #eliza #peggy">
                     <speaker>HAMILTON/SCHUYLER SISTERS</speaker>
-                    <l>Rise up!</l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#mulligan #lafayette #laurens">

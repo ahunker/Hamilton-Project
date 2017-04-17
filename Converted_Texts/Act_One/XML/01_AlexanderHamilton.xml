@@ -73,7 +73,7 @@
                     <l><persName ref="#hamilton">Alexander Hamilton</persName></l>
                     <l>My name is <persName ref="#hamilton">Alexander Hamilton</persName></l>
                     <l>And there’s a million things I haven’t done</l>
-                    <l>But just you wait, just you wait...</l>
+                    <l>But<phr type="#wait">just you wait, just you wait...</phr></l>
                 </sp>
 
                 <sp who="#eliza">
@@ -158,7 +158,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Just you wait!</l>
+                    <l><phr type="#wait">Just you wait!</phr></l>
                 </sp>
 
                 <sp who="#company">
@@ -169,7 +169,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Just you wait!</l>
+                    <l><phr type="#wait">Just you wait!</phr></l>
                 </sp>
 
                 <sp who="#company">
@@ -189,7 +189,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Just you wait!</l>
+                    <l><phr type="#wait">Just you wait!</phr></l>
                 </sp>
 
                 <sp who="#company">
@@ -217,7 +217,7 @@
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Just you wait</l>
+                    <l><phr type="#wait">Just you wait</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -228,7 +228,7 @@
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l>Just you wait</l>
+                    <l><phr type="#wait">Just you wait</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -265,7 +265,7 @@
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <l>There’s a million things I haven’t done</l>
-                    <l>But just you wait!</l>
+                    <l>But <phr type="#wait">just you wait!</phr></l>
                 </sp>
 
                 <sp who="#burr">

@@ -44,8 +44,8 @@
                     <l>And we make our mistakes</l>
                     <l>And if there's a reason I'm by her side</l>
                     <l>When so many have tried</l>
-                    <l>Then I'm willing to wait for it</l>
-                    <l>I'm willing to wait for it</l>
+                    <l><phr type="#wait">Then I'm willing to wait for it</phr></l>
+                    <l><phr type="#wait">I'm willing to wait for it</phr></l>
                     <l>My grandfather was a fire and brimstone preacher</l>
                 </sp>
 
@@ -104,16 +104,16 @@
                     <l>And we make our mistakes</l>
                     <l>And if there’s a reason I’m still alive</l>
                     <l>When everyone who loves me has died</l>
-                    <l>I’m willing to wait for it</l>
-                    <l>I’m willing to wait for it</l>
-                    <l>Wait for it</l>
+                    <l><phr type="#wait">I’m willing to wait for it</phr></l>
+                    <l><phr type="#wait">I’m willing to wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
                 </sp>
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -123,10 +123,10 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -137,10 +137,10 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -150,10 +150,10 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
-                    <l>Wait for it</l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for it</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -164,9 +164,9 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Wait</l>
-                    <l>Wait</l>
-                    <l>Wait</l>
+                    <l><phr type="#wait">Wait</phr></l>
+                    <l><phr type="#wait">Wait</phr></l>
+                    <l><phr type="#wait">Wait</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -224,13 +224,13 @@
 
                 <sp who="#burr #ensemble">
                     <speaker>BURR/ENSEMBLE</speaker>
-                    <l>I'm willing to wait for it</l>
+                    <l><phr type="#wait">I'm willing to wait for it</phr></l>
                 </sp>
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l>Wait for it</l>
-                    <l>Wait for...</l>
+                    <l><phr type="#wait">Wait for it</phr></l>
+                    <l><phr type="#wait">Wait for...</phr></l>
                 </sp>
 
                 <sp who="#burr #ensemble">
@@ -240,7 +240,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#company">
@@ -280,62 +280,62 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#women">
                     <speaker>WOMEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#women">
                     <speaker>WOMEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#women">
                     <speaker>WOMEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#women">
                     <speaker>WOMEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#women">
                     <speaker>WOMEN</speaker>
-                    <l>Wait for it...</l>
+                    <l><phr type="#wait">Wait for it...</phr></l>
                 </sp>
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Wait...</l>
+                    <l><phr type="#wait">Wait...</phr></l>
                 </sp>
             </div>
         </body>

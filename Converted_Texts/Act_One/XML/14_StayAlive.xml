@@ -314,7 +314,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName ref="#laurens">Laurens</persName>, do not throw away your shot</l>
+                    <l><persName ref="#laurens">Laurens</persName>, <phr type="#shot">do not throw away your shot</phr></l>
                 </sp>
             </div>
         </body>
