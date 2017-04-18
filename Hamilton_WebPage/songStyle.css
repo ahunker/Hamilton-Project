@@ -2,9 +2,10 @@ html{
    margin: 0px;
     padding: 0px;
     }
+    
 body{
     font-family: georgia, serif;
-    background-image: url("back2.jpg");
+    background-image: url("back.jpg");
     color: white;
     width:100%;
     margin: 0px;

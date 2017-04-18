@@ -5,7 +5,6 @@ html{
     
 body{
     font-family: georgia, serif;
-    
     background-image: url("back2.jpg");
     color: white;
     width:100%;
@@ -15,6 +14,7 @@ body{
 
 
 /*Menu at top of every page*/
+
 h1{
     font-size: 70px;
     text-align: center;
