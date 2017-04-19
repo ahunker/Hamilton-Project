@@ -97,7 +97,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>There's a little surprise before supper</l>
-                    <l>And it cannot wait</l>
+                    <l><phr type="#wait">And it cannot wait</phr></l>
                 </sp>
 
 
@@ -267,7 +267,7 @@
                     <l>If you make your way upstate</l>
                     <l>I know you're very busy</l>
                     <l>I know your works important</l>
-                    <l>But I'm crossing the ocean and I just can't wait</l>
+                    <l>But I'm crossing the ocean and <phr type="#wait">I just can't wait</phr></l>
                 </sp>
 
                 <sp who="#hamilton #angelica">
@@ -331,7 +331,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>. . .you're not joining us? Wait</l>
+                    <l>. . .you're not joining us? <phr type="#wait">Wait</phr></l>
                 </sp>
 
 
@@ -403,7 +403,7 @@
 
                         <l>Where we can stay</l>
 
-                        <l>Look around, look around</l>
+                        <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr></l>
                         <l>At how lucky we are to be alive right now</l>
                         <l>We can go</l>
 
@@ -427,7 +427,7 @@
 
                         <l>We can all go stay with our father</l>
 
-                        <l>If you take your time</l>
+                        <l><phr type="#time">If you take your time</phr></l>
                         <l>You will make your mark</l>
                         <l>Close your eyes and dream</l>
 

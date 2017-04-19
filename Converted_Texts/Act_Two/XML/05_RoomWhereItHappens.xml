@@ -64,7 +64,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>They renamed it after him. The <persName ref="#generalMercer">Mercer</persName> legacy is secure</l>
+                    <l>They renamed it after him. The <persName ref="#generalMercer">Mercer</persName> <phr type="#legacy">legacy</phr> is secure</l>
                 </sp>
 
 
@@ -560,7 +560,7 @@
 
                 <sp who="#hamilton #company">
                     <speaker>HAMILTON AND COMPANY</speaker>
-                    <l>Wait for it, wait for it, wait!</l>
+                    <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for it</phr>, <phr type="#wait">wait!</phr></l>
                 </sp>
 
 

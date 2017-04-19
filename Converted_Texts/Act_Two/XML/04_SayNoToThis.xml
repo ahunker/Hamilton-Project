@@ -129,7 +129,7 @@
                     <l>Say no to this</l>
                     <l>I don’t know how to</l>
                     <l>Say no to this</l>
-                    <l>But my God, she looks so helpless</l>
+                    <l>But my God, she looks so <phr type="#helpless">helpless</phr></l>
                     <l>And her body’s saying, hell, yes</l>
                 </sp>
 
@@ -291,7 +291,7 @@
 
                     <sp who="#maria">
                         <speaker>MARIA</speaker>
-                        <l>Please don’t leave me with him helpless</l>
+                        <l>Please don’t leave me with him <phr type="#helpless">helpless</phr></l>
 
 
                         <l>Just give him what he wants and you can have me</l>
@@ -303,7 +303,7 @@
 
                     <sp who="#hamilton">
                         <speaker>HAMILTON</speaker>
-                        <l>I am helpless how could I do this?</l>
+                        <l>I am <phr type="#helpless">helpless</phr> how could I do this?</l>
 
 
                         <l>I don’t want you</l>
@@ -322,7 +322,7 @@
                         <l>Tonight</l>
 
 
-                        <l>Helpless</l>
+                        <l><phr type="#helpless">Helpless</phr></l>
 
 
                         <l>Whoa!</l>

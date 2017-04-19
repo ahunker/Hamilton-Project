@@ -133,9 +133,9 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                     <l>Relax, have a drink with me</l>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                     <l>Let’s take a break tonight</l>
                     <l>And then we’ll teach them how to say goodbye</l>
                     <l>To say goodbye</l>
@@ -190,9 +190,9 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>No! One last time</l>
+                    <l>No! <phr type="#time">One last time</phr></l>
                     <l>The people will hear from me</l>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                     <l>And if we get this right</l>
                     <l>We’re gonna teach ‘em how to say</l>
                     <l>Goodbye</l>
@@ -241,13 +241,13 @@
                     <l>I wanna sit under my own vine and fig tree</l>
                     <l>A moment alone in the shade</l>
                     <l>At home in this nation we’ve made</l>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                 </sp>
 
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                 </sp>
 
 
@@ -301,7 +301,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>One last time</l>
+                    <l><phr type="#time">One last time</phr></l>
                 </sp>
 
 
@@ -345,7 +345,7 @@
                         <l>Say goodbye!</l>
 
 
-                        <l>One last time!</l>
+                        <l><phr type="#time">One last time!</phr></l>
                     </sp>
 
 
@@ -375,7 +375,7 @@
                         <l>Say goodbye!</l>
 
 
-                        <l>One last time!</l>
+                        <l><phr type="#time">One last time!</phr></l>
                     </sp>
                 </spGrp>
             </div>
