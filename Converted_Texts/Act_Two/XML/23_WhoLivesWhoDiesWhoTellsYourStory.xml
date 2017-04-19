@@ -29,7 +29,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>Let me tell you what I wish Id known</l>
+                    <l>Let me tell you what I wish I'd known</l>
                     <l>When I was young and dreamed of glory</l>
                     <l>You have no control:</l>
                 </sp>
@@ -137,7 +137,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I stop wasting time on tears</l>
+                    <l>I stop <phr type="#time">wasting time</phr> on tears</l>
                     <l>I live another fifty years</l>
                     <l>Its not enough</l>
                 </sp>
@@ -170,7 +170,7 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
 
@@ -218,7 +218,7 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
 
@@ -231,7 +231,7 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
 
@@ -245,7 +245,7 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
 
@@ -270,13 +270,13 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>And when my time is up, have I done enough?</l>
+                    <l>And when <phr type="#time">my time is up</phr>, have I done enough?</l>
                 </sp>
 
 
@@ -341,7 +341,7 @@
                 <spGrp type="simultaneous">
                     <sp who="#eliza #company">
                         <speaker>ELIZA AND COMPANY</speaker>
-                        <l>Time</l>
+                        <l><phr type="#time">Time</phr></l>
                     </sp>
 
 
@@ -369,7 +369,7 @@
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
@@ -383,13 +383,13 @@
 
 
                     <l>Who lives, who dies </l>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
 
 
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
 
 
-                    <l>Time...</l>
+                    <l><phr type="#time">Time</phr>...</l>
                 </sp>
 
 

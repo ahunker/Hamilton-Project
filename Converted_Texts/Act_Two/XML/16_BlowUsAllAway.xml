@@ -35,7 +35,7 @@
                     <l>The ladies say my brains not where the resemblance stops!</l>
                     <l>Im only nineteen but my mind is older</l>
                     <l>Gotta be my own man, like my father, but bolder</l>
-                    <l>I shoulder his legacy with pride</l>
+                    <l>I shoulder his <phr type="#legacy">legacy</phr> with pride</l>
                     <l>I used to hear him say</l>
                     <l>That someday</l>
                     <l>I would</l>
@@ -52,7 +52,7 @@
 
                     <l>Ladies, Im lookin for a <persName ref="#eacker">Mr. George Eacker</persName></l>
                     <l>Made a speech last week, our Fourth of July speaker</l>
-                    <l>He disparaged my fathers legacy in front of a crowd</l>
+                    <l>He disparaged my fathers <phr type="#legacy">legacy</phr> in front of a crowd</l>
                     <l>I cant have that, Im making my father proud</l>
                 </sp>
 
@@ -221,7 +221,7 @@
 
                     <l>Alright. So this is what youre gonna do:</l>
                     <l>Stand there like a man until <persName ref="#eacker">Eacker</persName> is in front of you</l>
-                    <l>When the time comes, fire your weapon in the air</l>
+                    <l>When the <phr type="#time">time</phr> comes, fire your weapon in the air</l>
                     <l>This will put an end to the whole affair</l>
                 </sp>
 

@@ -48,7 +48,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Why do you write like youre running out of time?</l>
+                    <l><phr type="#time">Why do you write like you're running out of time?</phr></l>
                 </sp>
 
                 <sp who="#hamilton">

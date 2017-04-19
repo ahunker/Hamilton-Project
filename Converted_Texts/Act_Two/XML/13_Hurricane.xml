@@ -80,7 +80,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Wait for it, wait for it, wait for it…</l>
+                    <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for it</phr>, <phr type="#wait">wait for it</phr>…</l>
                 </sp>
 
 
@@ -89,10 +89,10 @@
 
                     <sp who="#burr #ensemble">
                         <speaker>BURR AND ENSEMBLE</speaker>
-                        <l>Wait for it, wait for it, wait for it…</l>
+                        <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for it</phr>, <phr type="#wait">wait for it</phr>…</l>
 
 
-                        <l>Wait for it, wait for it, wait for it, wait… </l>
+                        <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for it</phr>, <phr type="#wait">wait for it</phr>,<phr type="#wait"> wait</phr>… </l>
                     </sp>
 
 
@@ -114,14 +114,14 @@
                     <sp who="#hamilton">
                         <speaker>HAMILTON</speaker>
                         <l>This is the eye of the hurricane, this is the only</l>
-                        <l>Way I can protect my legacy…</l>
+                        <l>Way I can protect my <phr type="#legacy">legacy</phr>…</l>
                     </sp>
 
 
                     <sp who="#company">
                         <speaker>COMPANY</speaker>
                         <stage type="delivery">Except Hamilton</stage>
-                        <l>Wait for it, wait for it, wait for it, wait…</l>
+                        <l><phr type="#wait">Wait for it</phr>, <phr type="#wait">wait for it</phr>, <phr type="#wait">wait for it</phr>,<phr type="#wait"> wait</phr>…</l>
                     </sp>
                 </spGrp>
 

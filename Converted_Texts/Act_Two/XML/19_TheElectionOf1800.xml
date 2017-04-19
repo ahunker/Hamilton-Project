@@ -45,7 +45,7 @@
                     <speaker>JEFFERSON</speaker>
                     <l>Yo. Evry action has an equal, opposite reaction</l>
                     <l><persName ref="#jAdams">John Adams</persName> shat the bed. I love the guy,
-                        but hes in traction</l>
+                        but he's in traction</l>
                     <l>Poor <persName ref="#hamilton">Alexander Hamilton</persName>? He is missing
                         in action</l>
                     <l>So now Im facing</l>
@@ -106,7 +106,7 @@
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Dont laugh</l>
+                    <l>Don't laugh</l>
                 </sp>
 
                 <sp who="#jefferson">
@@ -166,7 +166,7 @@
 
                 <sp who="#women">
                     <speaker>FEMALE VOTER</speaker>
-                    <l>Well, hes gonna lose, thats just defeatist</l>
+                    <l>Well, he's gonna lose, that's just defeatist</l>
                 </sp>
 
                 <sp who="#men">
@@ -181,7 +181,7 @@
 
                 <sp who="#women">
                     <speaker>ANOTHER FEMALE VOTER</speaker>
-                    <l>Yeah, hes so elitist!</l>
+                    <l>Yeah, he's so elitist!</l>
                 </sp>
 
                 <sp who="#women">
@@ -191,7 +191,7 @@
 
                 <sp who="#women">
                     <speaker>A WOMAN</speaker>
-                    <l>I cant believe were here with him!</l>
+                    <l>I can't believe were here with him!</l>
                 </sp>
 
                 <sp who="#men">
@@ -207,12 +207,12 @@
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
                     <l>Dear <persName ref="#hamilton">Mr. Hamilton</persName>: your fellow
-                        Fedralists would like to know how youll be voting</l>
+                        Fedralists would like to know how you'll be voting</l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Its quiet uptown</l>
+                    <l>It's quiet uptown</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -223,7 +223,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Its quiet uptown</l>
+                    <l>It's quiet uptown</l>
                 </sp>
 
                 <spGrp type="simultaneous">
@@ -283,17 +283,17 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Youve created quite a stir, sir!</l>
+                    <l>You've created quite a stir, sir!</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Im going door to door!</l>
+                    <l>I'm going door to door!</l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Youre openly campaigning?</l>
+                    <l>You're openly campaigning?</l>
                 </sp>
 
                 <sp who="#burr">
@@ -303,17 +303,17 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Thats new</l>
+                    <l>That's new</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Honestly, its kind of draining</l>
+                    <l>Honestly, it's kind of draining</l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName ref="#burr"> Burr</persName></l>
+                    <l><persName ref="#burr">Burr</persName></l>
                 </sp>
 
                 <sp who="#burr">
@@ -350,7 +350,7 @@
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Its a tie!</l>
+                    <l>It's a tie!</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -361,7 +361,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Its up to the delegates!</l>
+                    <l>It's up to the delegates!</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -372,7 +372,7 @@
 
                 <sp who="#jefferson #madison">
                     <speaker>JEFFERSON/MADISON</speaker>
-                    <l>Its up to <persName ref="#hamilton">Hamilton</persName>!</l>
+                    <l>It's up to <persName ref="#hamilton">Hamilton</persName>!</l>
                 </sp>
 
                 <spGrp type="simultaneous">
@@ -435,7 +435,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>And if you were to ask me who Id promote</l>
+                    <l>And if you were to ask me who I'd promote</l>
                 </sp>
 
                 <sp who="#ensemble">

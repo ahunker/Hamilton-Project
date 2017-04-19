@@ -174,7 +174,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
 
-                    <l>You changed the melody every time</l>
+                    <l>You changed the melody every <phr type="#time">time</phr></l>
                 </sp>
 
                 <sp who="#philipH">

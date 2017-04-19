@@ -102,7 +102,7 @@
                     <l>I dont pretend to know</l>
                     <l>The challenges were facing</l>
                     <l>I know theres no replacing what weve lost</l>
-                    <l>And you need time</l>
+                    <l>And you need <phr type="#time">time</phr></l>
                     <l>But Im not afraid</l>
                     <l>I know who I married</l>
                     <l>Just let me stay here by your side</l>
@@ -131,7 +131,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Look around, look around, <persName ref="#eliza">Eliza</persName></l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr>, <persName ref="#eliza">Eliza</persName></l>
                 </sp>
 
                 <sp who="#company">

@@ -47,7 +47,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Youve kept me from</l>
+                    <l>You've kept me from</l>
                 </sp>
 
                 <sp who="#burr #company">
@@ -57,7 +57,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>For the last time</l>
+                    <l>For the last <phr type="#time">time</phr></l>
                     <l>Dear <persName ref="#hamilton">Alexander</persName>:</l>
                     <l>I am slow to anger</l>
                     <l>But I toe the line</l>
