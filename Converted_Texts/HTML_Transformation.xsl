@@ -11,13 +11,22 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Hamilton Project: <xsl:apply-templates select="//title/text()"/></title>
-                <link rel="stylesheet" type="text/css" href="songStyle.css"/>
+                <title>Hamilton Project: <xsl:apply-templates select="//teiHeader//title"/></title>
+                <link rel="stylesheet" type="text/css" href="songStyle.css" />
+                <script type="text/javascript" src="songStyle.js"></script>
             </head>
             <body>
                 <div class="menu"><xsl:comment>#include virtual="menu.html"</xsl:comment></div>
                 <div class="song">
                     <hr/>
+                    <div>
+                        <fieldset>
+                            <legend>Click to Highlight:</legend>
+                            <input type="checkbox" id="persNametoggle"/><span class="persName">Names</span><br />
+                            <input type="checkbox" id="placeNametoggle" /><span class="placeName">Places</span><br />
+                            <input type="checkbox" id="datetoggle" /><span class="date">Dates</span><br />
+                            <input type="checkbox" id="phrtoggle" /><span class="phr">Phrases</span></fieldset>
+                    </div>
                     <div class="lyrics">
                         <xsl:apply-templates select="//body"/>
                     </div>
@@ -26,25 +35,44 @@
             </body>
         </html>
     </xsl:template>
+    
+    <xsl:template match="spGrp[@type='simultaneous']">
+        <div class="simulatneous"><xsl:apply-templates/></div>
+    </xsl:template>
+    
+    <xsl:template match="sp">
+        <div type="sp"><xsl:apply-templates/></div>
+    </xsl:template>
+    
     <xsl:template match="head/title">
         <h2><xsl:apply-templates/></h2>
     </xsl:template>
+    
     <xsl:template match="div[@type='song']//stage">
         <i><xsl:text>(</xsl:text><xsl:apply-templates/><xsl:text>)</xsl:text></i><br/>
     </xsl:template>
+    
     <xsl:template match="div[@type='song']//sp/speaker">
        <br/><strong><xsl:apply-templates/></strong><br/>
     </xsl:template>
+    
     <xsl:template match="l">
         <xsl:apply-templates/><br/>
     </xsl:template>
+    
     <xsl:template match="persName">
         <span class="persName"><xsl:apply-templates/></span>
     </xsl:template>
+    
     <xsl:template match="placeName">
         <span class="placeName"><xsl:apply-templates/></span>
     </xsl:template>
+    
     <xsl:template match="date">
         <span class="date"><xsl:apply-templates/></span>
+    </xsl:template>
+    
+    <xsl:template match="phr">
+        <span class="phr"><xsl:apply-templates/></span>
     </xsl:template>
 </xsl:stylesheet>
