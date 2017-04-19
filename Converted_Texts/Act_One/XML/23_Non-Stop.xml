@@ -622,7 +622,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Look around, look around at how lucky we are to be alive right now</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how lucky we are to be alive right now</l>
                 </sp>
 
                 <sp who="#eliza">
@@ -637,7 +637,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Look around, isn’t this enough?</l>
+                    <l><phr type="#look">Look around</phr>, isn’t this enough?</l>
                 </sp>
 
                 <sp who="#angelica">
@@ -663,8 +663,8 @@
 
                     <sp who="#eliza">
                         <speaker>ELIZA</speaker>
-                        <l>Look around</l>
-                        <l>Look around!</l>
+                        <l><phr type="#look">Look around</phr></l>
+                        <l><phr type="#look">Look around</phr>!</l>
                         <l>Isn’t this enough?</l>
                         <l>What would be enough?</l>
                         <l>Why do you fight like</l>

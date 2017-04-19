@@ -27,9 +27,9 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Look around, look around at how lucky we are</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how lucky we are</l>
                     <l>To be alive right now</l>
-                    <l>Look around, look around…</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr>…</l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -83,7 +83,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>But you deserve a chance to meet your son</l>
-                    <l>Look around, look around at how lucky we are</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how lucky we are</l>
                     <l>To be alive right now.</l>
                 </sp>
 
@@ -96,7 +96,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I relish being your wife</l>
-                    <l>Look around, look around…</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr>…</l>
                     <l>Look at where you are</l>
                     <l>Look at where you started</l>
                     <l>The fact that you’re alive is a miracle</l>

@@ -112,7 +112,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>But—look around, look around, the</l>
+                    <l>But—<phr type="#look">look around</phr>, <phr type="#look">look around</phr>, the</l>
                     <l>Revolution’s happening in <placeName>New York</placeName></l>
                 </sp>
 
@@ -153,7 +153,7 @@
 
                 <sp who="#angelica #men">
                     <speaker>ANGELICA/MEN</speaker>
-                    <l>Look around, look around—</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr>—</l>
                 </sp>
 
                 <sp who="#eliza">
@@ -270,13 +270,13 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Look around, look around at how</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how</l>
                     <l>Lucky we are to be alive right now!</l>
                 </sp>
 
                 <sp who="#eliza #peggy">
                     <speaker>ELIZA/PEGGY</speaker>
-                    <l>Look around, look around at how</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how</l>
                     <l>Lucky we are to be alive right now!</l>
                 </sp>
 
@@ -295,7 +295,7 @@
                 <spGrp type="simultaneous">
                     <sp who="#eliza #peggy">
                         <speaker>ELIZA/PEGGY</speaker>
-                        <l>Look around, look around</l>
+                        <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr></l>
                         <l>The revolution’s happening in—</l>
                         <l><placeName>New York</placeName>!</l>
                         <l>In <placeName>New York</placeName>!</l>
@@ -319,7 +319,7 @@
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Look around, look around the revolution’s happening</l>
+                        <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> the revolution’s happening</l>
                     </sp>
                 </spGrp>
 
@@ -333,8 +333,8 @@
 
                     <sp who="#women">
                         <speaker>WOMEN</speaker>
-                        <l>Look around</l>
-                        <l>Look around</l>
+                        <l><phr type="#look">Look around</phr></l>
+                        <l><phr type="#look">Look around</phr></l>
                         <l>At how lucky we are to be alive right now</l>
                     </sp>
 
@@ -349,7 +349,7 @@
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l>Look around, look around at how lucky we are to be alive right now!</l>
+                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how lucky we are to be alive right now!</l>
                     <l>History is happening in <placeName>Manhattan</placeName> and we just happen
                         to be</l>
                 </sp>
