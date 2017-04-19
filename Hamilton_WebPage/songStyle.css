@@ -81,6 +81,14 @@ l{
     font-size: 18px;
 }
 
+div.sp{
+    padding-right: 25%;
+}
+
+div.simulatneous{
+    padding-left:5%;
+}
+
 fieldset {
     font-size: 18px;
     line-height: 1;
