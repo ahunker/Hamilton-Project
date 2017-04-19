@@ -54,7 +54,7 @@
          <visibility>1</visibility>
          <Placemark>
             <name>New York, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Non-Stop | Alexander Hamilton | Stay Alive | Satisfied | Helpless | Right Hand Man | The Schuyler Sisters | My Shot | Aaron Burr, Sir | Hurricane | Schuyler Defeated | The Room Where it Happens | Cabinet Battle #1 | What'd I Miss | Who Lives, Who Dies, Who Tells Your Story | The Election of 1800 | The Adams Administration</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -63,7 +63,7 @@
          </Placemark>
          <Placemark>
             <name>Albany, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Non-Stop</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -72,7 +72,7 @@
          </Placemark>
          <Placemark>
             <name>London, England, United Kingdom</name>
-            <description/>
+            <description>Song(s) where the place name appears: Non-Stop | The Reynolds Pamphlet</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -81,7 +81,7 @@
          </Placemark>
          <Placemark>
             <name>United States</name>
-            <description/>
+            <description>Song(s) where the place name appears: Non-Stop</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -90,7 +90,7 @@
          </Placemark>
          <Placemark>
             <name>France</name>
-            <description/>
+            <description>Song(s) where the place name appears: What Comes Next? | Yorktown (The World Turned Upside Down) | Guns and Ships | Stay Alive | My Shot | One Last Time | Cabinet Battle #2 | What'd I Miss | The Election of 1800</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -99,7 +99,7 @@
          </Placemark>
          <Placemark>
             <name>Spain</name>
-            <description/>
+            <description>Song(s) where the place name appears: What Comes Next?</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -108,7 +108,7 @@
          </Placemark>
          <Placemark>
             <name>Yorktown, VA</name>
-            <description/>
+            <description>Song(s) where the place name appears: Yorktown (The World Turned Upside Down) | Guns and Ships</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -126,7 +126,7 @@
          </Placemark>
          <Placemark>
             <name>Chesapeake Bay</name>
-            <description/>
+            <description>Song(s) where the place name appears: Yorktown (The World Turned Upside Down)</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -135,7 +135,7 @@
          </Placemark>
          <Placemark>
             <name>United States</name>
-            <description/>
+            <description>Song(s) where the place name appears: Yorktown (The World Turned Upside Down) | Guns and Ships | Alexander Hamilton | Right Hand Man | Washington On Your Side | Take A Break | What'd I Miss | The World Was Wide Enough</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -144,7 +144,7 @@
          </Placemark>
          <Placemark>
             <name>Caribbean Sea</name>
-            <description/>
+            <description>Song(s) where the place name appears: Alexander Hamilton | Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -153,7 +153,7 @@
          </Placemark>
          <Placemark>
             <name>Monmouth, Wales, United Kingdom</name>
-            <description/>
+            <description>Song(s) where the place name appears: Stay Alive</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -162,7 +162,7 @@
          </Placemark>
          <Placemark>
             <name>Mount Vernon, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -171,7 +171,7 @@
          </Placemark>
          <Placemark>
             <name>Georgia</name>
-            <description/>
+            <description>Song(s) where the place name appears: Wait for It</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -180,7 +180,7 @@
          </Placemark>
          <Placemark>
             <name>New York, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Satisfied | My Shot | Aaron Burr, Sir | The Room Where it Happens | Cabinet Battle #1 | Who Lives, Who Dies, Who Tells Your Story</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -189,7 +189,7 @@
          </Placemark>
          <Placemark>
             <name>Harlem, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Helpless | Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -198,7 +198,7 @@
          </Placemark>
          <Placemark>
             <name>Harbor, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -207,7 +207,7 @@
          </Placemark>
          <Placemark>
             <name>Brooklyn, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -216,7 +216,7 @@
          </Placemark>
          <Placemark>
             <name>Kip Bay, New York, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -225,7 +225,7 @@
          </Placemark>
          <Placemark>
             <name>Manhattan, New York, New York</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man | The Schuyler Sisters</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -234,7 +234,7 @@
          </Placemark>
          <Placemark>
             <name>Quebec, Quebec, Canada</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -243,7 +243,7 @@
          </Placemark>
          <Placemark>
             <name>Boston, MA</name>
-            <description/>
+            <description>Song(s) where the place name appears: Farmer Refuted</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -261,7 +261,7 @@
          </Placemark>
          <Placemark>
             <name>Great Britain, United Kingdom</name>
-            <description/>
+            <description>Song(s) where the place name appears: My Shot | One Last Time | Cabinet Battle #1</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -270,7 +270,7 @@
          </Placemark>
          <Placemark>
             <name>Princeton, NJ</name>
-            <description/>
+            <description>Song(s) where the place name appears: Aaron Burr, Sir</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -279,7 +279,7 @@
          </Placemark>
          <Placemark>
             <name>New Jersey</name>
-            <description/>
+            <description>Song(s) where the place name appears: Blow Us All Away</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -288,7 +288,7 @@
          </Placemark>
          <Placemark>
             <name>England, United Kingdom</name>
-            <description/>
+            <description>Song(s) where the place name appears: Cabinet Battle #2</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -297,7 +297,7 @@
          </Placemark>
          <Placemark>
             <name>Virginia</name>
-            <description/>
+            <description>Song(s) where the place name appears: Right Hand Man | The Room Where it Happens | Cabinet Battle #1 | What'd I Miss</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -306,7 +306,7 @@
          </Placemark>
          <Placemark>
             <name>Monticello, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Cabinet Battle #1 | What'd I Miss</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -315,7 +315,7 @@
          </Placemark>
          <Placemark>
             <name>Paris, Ile-de-France, France</name>
-            <description/>
+            <description>Song(s) where the place name appears: What'd I Miss</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -324,7 +324,7 @@
          </Placemark>
          <Placemark>
             <name>Trinity Church, NY</name>
-            <description/>
+            <description>Song(s) where the place name appears: Who Lives, Who Dies, Who Tells Your Story</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -333,7 +333,7 @@
          </Placemark>
          <Placemark>
             <name>North Island, CA</name>
-            <description/>
+            <description>Song(s) where the place name appears: The Election of 1800</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -342,7 +342,7 @@
          </Placemark>
          <Placemark>
             <name>Weehawken, NJ</name>
-            <description/>
+            <description>Song(s) where the place name appears: Your Obedient Servant</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
@@ -351,7 +351,7 @@
          </Placemark>
          <Placemark>
             <name>Hudson</name>
-            <description/>
+            <description>Song(s) where the place name appears: The World Was Wide Enough</description>
             <styleUrl>#gv_waypoint</styleUrl>
             <Point>
                <altitudeMode>clampToGround</altitudeMode>
