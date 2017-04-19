@@ -108,17 +108,17 @@
 
                 <sp who="#burr #ensemble">
                     <speaker>BURR/ENSEMBLE</speaker>
-                    <l>Why do you write like you’re running out of time?</l>
+                    <l>Why do you write like you’re <phr type="#time">running out of time</phr>?</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Write day and night like you’re running out of time?</l>
+                    <l>Write day and night like you’re <phr type="#time">running out of time</phr>?</l>
                 </sp>
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Ev’ry day you fight, like you’re running out of time</l>
+                    <l>Ev’ry day you fight, like you’re <phr type="#time">running out of time</phr></l>
                 </sp>
 
                 <sp who="#burr">
@@ -467,7 +467,7 @@
                     <speaker>BURR/ENSEMBLE</speaker>
                     <l>Which way the wind</l>
                     <l>Will blow</l>
-                    <l>I’m taking my time</l>
+                    <l><phr type="#time">I’m taking my time</phr></l>
                     <l>Watching the</l>
                     <l>Afterbirth of a nation</l>
                     <l>Watching the tension grow</l>
@@ -500,7 +500,7 @@
                     <l>Look at where you started</l>
                     <l>The fact that you’re alive is a miracle</l>
                     <l>Just stay alive, that would be enough</l>
-                    <l>And if your wife could share a fraction of your time</l>
+                    <l>And if your wife could share a fraction of your <phr type="#time">time</phr></l>
                     <l>If I could grant you peace of mind</l>
                     <l>Would that be enough?</l>
                 </sp>
@@ -520,7 +520,7 @@
 
                 <sp who="#burr #women">
                     <speaker>BURR/WOMEN</speaker>
-                    <l>Running out of time?</l>
+                    <l><phr type="#time">Running out of time</phr>?</l>
                 </sp>
 
                 <sp who="#burr">
@@ -530,7 +530,7 @@
 
                 <sp who="#burr #women">
                     <speaker>BURR/WOMEN</speaker>
-                    <l>Running out of time?</l>
+                    <l><phr type="#time">Running out of time</phr>?</l>
                 </sp>
 
                 <sp who="#burr #men">
@@ -540,13 +540,13 @@
 
                 <sp who="#burr #ensemble">
                     <speaker>BURR/ENSEMBLE</speaker>
-                    <l>Running out of time like you’re</l>
-                    <l>Running out of time</l>
+                    <l><phr type="#time">Running out of time</phr> like you’re</l>
+                    <l><phr type="#time">Running out of time</phr></l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Are you running out of time?</l>
+                    <l>Are you <phr type="#time">running out of time</phr>?</l>
                 </sp>
 
                 <sp who="#women">
@@ -622,7 +622,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><phr type="#look">Look around</phr>, <phr type="#look">look around</phr> at how lucky we are to be alive right now</l>
+                    <l><phr type="#look"><phr type="#look">Look around</phr></phr>, <phr type="#look"><phr type="#look">look around</phr></phr> at how lucky we are to be alive right now</l>
                 </sp>
 
                 <sp who="#eliza">
@@ -637,7 +637,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><phr type="#look">Look around</phr>, isn’t this enough?</l>
+                    <l><phr type="#look"><phr type="#look">Look around</phr></phr>, isn’t this enough?</l>
                 </sp>
 
                 <sp who="#angelica">
@@ -663,8 +663,8 @@
 
                     <sp who="#eliza">
                         <speaker>ELIZA</speaker>
-                        <l><phr type="#look">Look around</phr></l>
-                        <l><phr type="#look">Look around</phr>!</l>
+                        <l><phr type="#look"><phr type="#look">Look around</phr></phr></l>
+                        <l><phr type="#look"><phr type="#look">Look around</phr></phr>!</l>
                         <l>Isn’t this enough?</l>
                         <l>What would be enough?</l>
                         <l>Why do you fight like</l>
@@ -690,7 +690,7 @@
                             you’re the smartest in the room? Why do you assume you’re the smartest
                             in the room?</l>
                         <l>Soon that attitude’s gonna be your doom!</l>
-                        <l>Why do you fight like you’re running out of time?</l>
+                        <l>Why do you fight like you’re <phr type="#time">running out of time</phr>?</l>
                         <l>Why do you fight like</l>
                     </sp>
 

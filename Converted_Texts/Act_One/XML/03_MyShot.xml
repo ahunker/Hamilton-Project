@@ -114,7 +114,7 @@
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
                     <l>And <phr type="#shot">I’m not throwing away my shot</phr></l>
-                    <l><phr type="#shot">It’s time to take a shot!</phr></l>
+                    <l><phr type="#shot">It’s <phr type="#time">time </phr>to take a shot!</phr></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -358,8 +358,8 @@
                 <spGrp type="simultaneous">
                     <sp who="#hamilton #mulligan #lafayette #laurens">
                         <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot">Time to take a shot!</phr></l>
-                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot">Time to take a shot!</phr></l>
+                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
+                        <l>We’re gonna <phr type="#rise">rise up!</phr> <phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
                         <l>We’re gonna</l>
                     </sp>
 
@@ -379,7 +379,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><phr type="#shot">Time to take a shot!</phr></l>
+                    <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -391,14 +391,14 @@
                 <spGrp type="simultaneous">
                     <sp who="#hamilton #mulligan #lafayette #laurens">
                         <speaker>HAMILTON/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
                         <l><phr type="#shot">Take a shot!</phr></l>
                         <l><phr type="#shot">Shot!</phr></l>
                         <l><phr type="#shot">Shot!</phr></l>
                         <l>A-yo it’s</l>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
                         <l>And I am—</l>
                     </sp>
 
@@ -407,8 +407,8 @@
                         <l><phr type="#rise">Rise up!</phr></l>
                         <l><phr type="#rise">Rise up!</phr></l>
                         <l>Ri— ri— ri—</l>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
-                        <l><phr type="#shot">Time to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
+                        <l><phr type="#shot"><phr type="#time">Time </phr>to take a shot!</phr></l>
                         <l>And I am—</l>
                     </sp>
                 </spGrp>

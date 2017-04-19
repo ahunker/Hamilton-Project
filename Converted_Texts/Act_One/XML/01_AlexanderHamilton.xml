@@ -199,7 +199,7 @@
                     <l>We are waiting in the wings for you</l>
                     <l>Waiting in the wings for you</l>
                     <l>You could never back down</l>
-                    <l>You never learned to take your time!</l>
+                    <l>You never learned to <phr type="#time">take your time</phr>!</l>
                     <l>Oh, <persName ref="#hamilton">Alexander Hamilton</persName></l>
                     <l><persName ref="#hamilton">Alexander Hamilton</persName>…</l>
                     <l>When <placeName>America</placeName> sings for you</l>

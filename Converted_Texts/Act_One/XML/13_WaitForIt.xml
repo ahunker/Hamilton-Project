@@ -89,7 +89,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>When they died they left no instructions</l>
-                    <l>Just a legacy to protect</l>
+                    <l>Just a <phr type="#legacy">legacy</phr> to protect</l>
                 </sp>
 
                 <sp who="#burr #ensemble">
@@ -199,14 +199,14 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l><persName ref="#hamilton">Hamilton's</persName> pace is relentless</l>
-                    <l>He wastes no time</l>
+                    <l><phr type="#time">He wastes no time</phr></l>
                 </sp>
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Time</l>
-                    <l>Time</l>
-                    <l>Time</l>
+                    <l><phr type="#time">Time</phr></l>
+                    <l><phr type="#time">Time</phr></l>
+                    <l><phr type="#time">Time</phr></l>
                 </sp>
 
                 <sp who="#burr">
