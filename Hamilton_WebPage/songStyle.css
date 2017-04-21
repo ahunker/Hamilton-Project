@@ -103,7 +103,7 @@ fieldset {
     color: white;
     border-color: black;
 }
-span.placeName.on {color:#ffff4d;font-weight: bold;}
-span.persName.on {color:#800040;font-weight: bold;}
+span.placeName.on {color:#ffee6d;font-weight: bold;}
+span.persName.on {color:#bb0000;font-weight: bold;}
 span.date.on {color:#e6e6e6;font-weight: bold;}
-span.phr.on {color:#cc6600; font-weight: bold;}
+span.phr.on {color:#0033cc; font-weight: bold;}
