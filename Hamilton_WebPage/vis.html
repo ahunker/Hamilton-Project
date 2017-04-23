@@ -1,40 +1,25 @@
 <!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>Visualizations and Analysis</title>
-        <link rel="stylesheet" type="text/css" href="vis.css" />
+        <title>Visualizations</title>
+        <link rel="stylesheet" type="text/css" href="songIndex.css" />
     </head>
     <body>
         <!--#include virtual="menu.html"-->
-        <div class="img">
-            <h2>Network Graph Representing Frequency of Times Characters Speak and are Referenced:</h2>
-            <h3>Scroll down for analysis of graph.</h3>
-  <h3>Click to zoom in on graph.</h3>
-<a href="wholeMusical_Ref_updated.svg" title="Network Graph Representing Speakers and References from the musical Hamilton" target="_blank">
-    <img alt="svg_ref" src="wholeMusical_Ref_updated.svg"/>
-</a>
+        <div class="index">
 
-        </div>
-        <div class="main">
-            <div class="main2">
-            <h2>Analysis</h2>
-            <p>
-                This network graph analyzes the speakers of <i>Hamilton</i> and the characters being referenced. The graph indicates who speaks the most throughout the whole musical and who references who within every song. 
-                
-            </p>
-            <p>
-                The size of the source node circle represents the amount of time that character was referenced by other characters and/or themselves.
-                A larger circle indicates that the character was referenced frequently while a smaller circle indicates the character was referenced minimally or not at all.
-                The color of the source node circle represents how often the speaker speaks throughout the whole musical.
-                A gold or darker colored circle indicates that the character spoke often throughout the musical.
-                A white or lighter colored circle indicates that the character did not speak often or did not speak at all throughout the musical. 
-                The arrows on the interactions between the nodes represents the references and the direction of the arrows indicate who was referencing who. Arrows pointing out from the source node show that particular character is doing the referencing of the character/source node that the arrows are pointing in toward. 
-                
-            </p>
-            <p>This network graph allows us to determine which characters play a pivotal part in the musical. For example, we can determine whether or not the character who spoke the most in the musical is also referenced the most. So, for example from the network graph, we can see Hamilton and Burr are represented as  large, golden circles which indicates that they speak often and they are also referenced often. As Burr and Hamilton play crucial roles in the musical, the data reflects their importance by revealing the quantity of how much they speak and are referenced throughout the musical. 
-               </p>
-        </div>
+            <div class="index2">
+                <h2>Visualizations and Analysis</h2>
+                <p>For our project, we created several visualizations from the information we
+                    collected. A newtwork analysis graph displays the number of times characters
+                    speaks and who is referencing who within the entire musical. A line graph tracks
+                    repeated phrases frequency throughout the entire musical. </p>
+                <ul>
+                    <li><a href="vis_Network.html">Network Analysis of Speakers and
+                        References</a></li>
+                    <li><a href="vis_Phrases.html">Line Graph of Repeated Phrases</a></li>
+                </ul>
+            </div>
         </div>
     </body>
 </html>

@@ -73,6 +73,7 @@ img{
     border-width: 5px;
     border-style: solid;
     border-color: black;
+    background:white;
     }
     
 div.main{font-family: georgia, serif;
@@ -96,4 +97,22 @@ div.main2{
     padding-top: 1%;
     padding-bottom: 1%;
     background: goldenrod;
+}
+
+div#svg{
+    background: #f9f9ef;
+    width: 96%;
+    margin-left:2%;
+    margin-right:2%;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+svg{
+    width:103%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align:center;
 }
