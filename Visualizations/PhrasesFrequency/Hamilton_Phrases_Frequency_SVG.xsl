@@ -5,32 +5,28 @@
     exclude-result-prefixes="xs"
     xmlns="http://www.w3.org/2000/svg">
     <xsl:output method="xml" indent="yes"/>
-    <!--2017-4-22 ebb: For this ambitious line-graph experiment, we had trouble figuring out how to loop through a collection() of a files and access a count in a previous file, since we can't address that with XPath axes inside <xsl:for-each>. I have worked out TWO WAYS to resolve the problem, and this way represents processing the collection() of files with the for-each loop. 
-        RUN THIS XSLT AGAINST any single XML file in the Hamilton collection. 
+    <!--2017-4-22 ebb: For this ambitious line-graph experiment, I have not discovered how we can loop through a collection() of a files and access a count in a previous file, since we can't address that with XPath inside <xsl:for-each>. So I've written another XSLT file (teiCorpusTransform.xsl) to generate a single TEI file out of the entire Hamilton collection unified by the <teiCorpus> element (which permits multiple <TEI> child elements. This new file, hamiltonCorpus.xml, contains 46 <TEI> elements inside and all of the team markup, and we can now easily loop through it with XPath. 
+        
+        RUN THIS XSLT AGAINST hamiltonCorpus.xml in this directory.
     -->
-<<<<<<< HEAD
-    <xsl:variable name="hamiltonColl" as="document-node()*" select="collection('Hamilton/?select=*.xml')"/>
-    <xsl:variable name="xSpacer" select="35"/>
-=======
 
     <xsl:variable name="xSpacer" select="50"/>
->>>>>>> c0435e1bfe3be3edb064c07faca54700fafbb9db
     <xsl:variable name="ySpacer" select="10"/>
     <xsl:variable name="numSongs" select="46"/>
     <xsl:variable name="max_xValue" select="$xSpacer * $numSongs"/>
    <!-- <xsl:variable name="max_yValue" select="(50 * $ySpacer)"/>-->
 <!--ebb: After a little more tinkering with the XPath I figured out how to calculate the maximum y value throughout the collection, based on any of the available phrase types in each song:  -->
    <xsl:variable name="max_yVal"> 
-        <xsl:value-of select="max(for $i in distinct-values($hamiltonColl//text//phr/@type) return max($hamiltonColl//text/count(descendant::phr[@type=$i])))"/>
+        <xsl:value-of select="max(for $i in distinct-values(descendant::text//phr/@type) return max(descendant::text/count(descendant::phr[@type=$i])))"/>
         </xsl:variable>
-<xsl:variable name="max_yValue" as="xs:double" select="$max_yVal * $ySpacer"/> 
+<xsl:variable name="max_yValue" select="$max_yVal * $ySpacer"/> 
        
    
     
     <xsl:template match="/">
         
         <xsl:comment>MAX Y:
-         <xsl:value-of select="xs:integer($max_yValue)"/>
+         <xsl:value-of select="$max_yValue"/>
            </xsl:comment>
         <svg width="1450" height="{$max_yValue + 300}" viewBox="0 0 {2150 * 1.2} {$max_yValue + 300}">
             <g transform="translate(100 {$max_yValue + 100})">
@@ -66,8 +62,7 @@
                 
 <!--EBB: EXPERIMENTING WITH LOOPING OVER FILES IN COLLECTION -->
 
-                <xsl:for-each select="$hamiltonColl">
-                    <xsl:variable name="pos" as="xs:integer" select="position()"/>
+                <xsl:for-each select="descendant::TEI">
                     <xsl:variable name="shot" select="count(descendant::text//phr[@type='#shot']) * $ySpacer"/>
                     <xsl:variable name="satisfied" select="count(descendant::text//phr[@type='#satisfied']) * $ySpacer"/>
                     <xsl:variable name="helpless" select="count(descendant::text//phr[@type='#helpless']) * $ySpacer"/>
@@ -87,13 +82,6 @@
                     <circle cx="{$xPos}" cy="-{$look}" r="3.5" fill="pink"/>
                     <xsl:variable name="xPos" select="position() * $xSpacer"/>
                     <xsl:variable name="xLine" select="(position() - 1) * $xSpacer"/>
-<<<<<<< HEAD
-                    <xsl:variable name="previousDoc" as="document-node()?" select="$hamiltonColl[$pos - 1]"/>
-                    <xsl:variable name="shotLine" select="count($previousDoc//text//phr[@type='#shot']) * $ySpacer"/>
-                    
-                    <line x1="{$xLine}" y1="-{$shotLine}" x2="{$xPos}" y2="-{$shot}" stroke="red" stroke-width="3"/>
-                     </xsl:for-each>
-=======
                     <xsl:variable name="shotLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#shot']) * $ySpacer"/>
                     <xsl:variable name="satisfiedLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#satisfied']) * $ySpacer"/>
                     <xsl:variable name="helplessLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#helpless']) * $ySpacer"/>
@@ -112,7 +100,6 @@
                         <line x1="{$xLine}" y1="-{$lookLine}" x2="{$xPos}" y2="-{$look}" stroke="pink" stroke-width="2" stroke-opacity="0.5"/>
                     </xsl:if>     
                 </xsl:for-each>
->>>>>>> c0435e1bfe3be3edb064c07faca54700fafbb9db
                 
             </g>
         </svg>
