@@ -8,13 +8,8 @@
     <!--2017-4-22 ebb: For this ambitious line-graph experiment, we had trouble figuring out how to loop through a collection() of a files and access a count in a previous file, since we can't address that with XPath axes inside <xsl:for-each>. I have worked out TWO WAYS to resolve the problem, and this way represents processing the collection() of files with the for-each loop. 
         RUN THIS XSLT AGAINST any single XML file in the Hamilton collection. 
     -->
-<<<<<<< HEAD
     <xsl:variable name="hamiltonColl" as="document-node()*" select="collection('Hamilton/?select=*.xml')"/>
-    <xsl:variable name="xSpacer" select="35"/>
-=======
-
     <xsl:variable name="xSpacer" select="50"/>
->>>>>>> c0435e1bfe3be3edb064c07faca54700fafbb9db
     <xsl:variable name="ySpacer" select="10"/>
     <xsl:variable name="numSongs" select="46"/>
     <xsl:variable name="max_xValue" select="$xSpacer * $numSongs"/>
@@ -23,14 +18,14 @@
    <xsl:variable name="max_yVal"> 
         <xsl:value-of select="max(for $i in distinct-values($hamiltonColl//text//phr/@type) return max($hamiltonColl//text/count(descendant::phr[@type=$i])))"/>
         </xsl:variable>
-<xsl:variable name="max_yValue" as="xs:double" select="$max_yVal * $ySpacer"/> 
+<xsl:variable name="max_yValue" select="$max_yVal * $ySpacer"/> 
        
    
     
     <xsl:template match="/">
         
         <xsl:comment>MAX Y:
-         <xsl:value-of select="xs:integer($max_yValue)"/>
+         <xsl:value-of select="$max_yValue"/>
            </xsl:comment>
         <svg width="1450" height="{$max_yValue + 300}" viewBox="0 0 {2150 * 1.2} {$max_yValue + 300}">
             <g transform="translate(100 {$max_yValue + 100})">
@@ -67,7 +62,7 @@
 <!--EBB: EXPERIMENTING WITH LOOPING OVER FILES IN COLLECTION -->
 
                 <xsl:for-each select="$hamiltonColl">
-                    <xsl:variable name="pos" as="xs:integer" select="position()"/>
+               <xsl:variable name="pos" as="xs:integer" select="position()"/>
                     <xsl:variable name="shot" select="count(descendant::text//phr[@type='#shot']) * $ySpacer"/>
                     <xsl:variable name="satisfied" select="count(descendant::text//phr[@type='#satisfied']) * $ySpacer"/>
                     <xsl:variable name="helpless" select="count(descendant::text//phr[@type='#helpless']) * $ySpacer"/>
@@ -76,7 +71,7 @@
                     <xsl:variable name="rise" select="count(descendant::text//phr[@type='#rise']) * $ySpacer"/>
                     <xsl:variable name="time" select="count(descendant::text//phr[@type='#time']) * $ySpacer"/>
                     <xsl:variable name="look" select="count(descendant::text//phr[@type='#look']) * $ySpacer"/>
-                    <xsl:variable name="xPos" select="position() * $xSpacer"/>
+                    <xsl:variable name="xPos" select="$pos * $xSpacer"/>
                     <circle cx="{$xPos}" cy="-{$shot}" r="3.5" fill="red"/>
                     <circle cx="{$xPos}" cy="-{$satisfied}" r="3.5" fill="purple"/>
                     <circle cx="{$xPos}" cy="-{$helpless}" r="3.5" fill="blue"/>
@@ -85,24 +80,19 @@
                     <circle cx="{$xPos}" cy="-{$rise}" r="3.5" fill="teal"/>
                     <circle cx="{$xPos}" cy="-{$time}" r="3.5" fill="orange"/>
                     <circle cx="{$xPos}" cy="-{$look}" r="3.5" fill="pink"/>
-                    <xsl:variable name="xPos" select="position() * $xSpacer"/>
-                    <xsl:variable name="xLine" select="(position() - 1) * $xSpacer"/>
-<<<<<<< HEAD
+                   <xsl:variable name="xPos" select="$pos * $xSpacer"/>
+                    <xsl:variable name="xLine" select="($pos - 1) * $xSpacer"/>
                     <xsl:variable name="previousDoc" as="document-node()?" select="$hamiltonColl[$pos - 1]"/>
                     <xsl:variable name="shotLine" select="count($previousDoc//text//phr[@type='#shot']) * $ySpacer"/>
-                    
-                    <line x1="{$xLine}" y1="-{$shotLine}" x2="{$xPos}" y2="-{$shot}" stroke="red" stroke-width="3"/>
-                     </xsl:for-each>
-=======
-                    <xsl:variable name="shotLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#shot']) * $ySpacer"/>
-                    <xsl:variable name="satisfiedLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#satisfied']) * $ySpacer"/>
-                    <xsl:variable name="helplessLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#helpless']) * $ySpacer"/>
-                    <xsl:variable name="legacyLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#legacy']) * $ySpacer"/>
-                    <xsl:variable name="waitLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#wait']) * $ySpacer"/>
-                    <xsl:variable name="riseLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#rise']) * $ySpacer"/>
-                    <xsl:variable name="timeLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#time']) * $ySpacer"/>
-                    <xsl:variable name="lookLine" select="count(preceding-sibling::TEI[1]//text//phr[@type='#look']) * $ySpacer"/>
-                    <xsl:if test="preceding-sibling::TEI[1]//text"><line x1="{$xLine}" y1="-{$shotLine}" x2="{$xPos}" y2="-{$shot}" stroke="red" stroke-width="3" stroke-opacity="0.5"/>
+                   
+                    <xsl:variable name="satisfiedLine" select="count($previousDoc//text//phr[@type='#satisfied']) * $ySpacer"/>
+                    <xsl:variable name="helplessLine" select="count($previousDoc//text//phr[@type='#helpless']) * $ySpacer"/>
+                    <xsl:variable name="legacyLine" select="count($previousDoc//text//phr[@type='#legacy']) * $ySpacer"/>
+                    <xsl:variable name="waitLine" select="count($previousDoc//text//phr[@type='#wait']) * $ySpacer"/>
+                    <xsl:variable name="riseLine" select="count($previousDoc//text//phr[@type='#rise']) * $ySpacer"/>
+                    <xsl:variable name="timeLine" select="count($previousDoc//text//phr[@type='#time']) * $ySpacer"/>
+                    <xsl:variable name="lookLine" select="count($previousDoc//text//phr[@type='#look']) * $ySpacer"/>
+                    <xsl:if test="$previousDoc"><line x1="{$xLine}" y1="-{$shotLine}" x2="{$xPos}" y2="-{$shot}" stroke="red" stroke-width="3" stroke-opacity="0.5"/>
                     <line x1="{$xLine}" y1="-{$satisfiedLine}" x2="{$xPos}" y2="-{$satisfied}" stroke="purple" stroke-width="2" stroke-opacity="0.5"/>
                         <line x1="{$xLine}" y1="-{$helplessLine}" x2="{$xPos}" y2="-{$helpless}" stroke="blue" stroke-width="2" stroke-opacity="0.5"/>
                         <line x1="{$xLine}" y1="-{$legacyLine}" x2="{$xPos}" y2="-{$legacy}" stroke="yellow" stroke-width="2" stroke-opacity="0.5"/>
@@ -110,9 +100,8 @@
                         <line x1="{$xLine}" y1="-{$riseLine}" x2="{$xPos}" y2="-{$rise}" stroke="teal" stroke-width="2" stroke-opacity="0.5"/>
                         <line x1="{$xLine}" y1="-{$timeLine}" x2="{$xPos}" y2="-{$time}" stroke="orange" stroke-width="2" stroke-opacity="0.5"/>
                         <line x1="{$xLine}" y1="-{$lookLine}" x2="{$xPos}" y2="-{$look}" stroke="pink" stroke-width="2" stroke-opacity="0.5"/>
-                    </xsl:if>     
+                    </xsl:if>    
                 </xsl:for-each>
->>>>>>> c0435e1bfe3be3edb064c07faca54700fafbb9db
                 
             </g>
         </svg>
