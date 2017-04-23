@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--MAX Y:
+         430-->
 <svg xmlns="http://www.w3.org/2000/svg"
      width="1800"
-     height="800"
-     viewBox="0 0 2160 800">
-   <g transform="translate(100 600)">
+     height="730"
+     viewBox="0 0 2160 730">
+   <g transform="translate(100 530)">
       <text x="35"
             y="15"
             text-anchor="end"
@@ -291,7 +293,7 @@
       <line x1="30"
             y1="0"
             x2="30"
-            y2="-500"
+            y2="-430"
             stroke="black"
             stroke-width="2"/>
       <text x="15" y="-100" text-anchor="middle">10</text>
@@ -342,6 +344,12 @@
       <circle cx="35" cy="-0" r="3.5" fill="brown"/>
       <circle cx="35" cy="-10" r="3.5" fill="orange"/>
       <circle cx="35" cy="-0" r="3.5" fill="pink"/>
+      <line x1="0"
+            y1="-0"
+            x2="35"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="70" cy="-0" r="3.5" fill="red"/>
       <circle cx="70" cy="-0" r="3.5" fill="purple"/>
       <circle cx="70" cy="-0" r="3.5" fill="blue"/>
@@ -350,6 +358,12 @@
       <circle cx="70" cy="-0" r="3.5" fill="brown"/>
       <circle cx="70" cy="-0" r="3.5" fill="orange"/>
       <circle cx="70" cy="-0" r="3.5" fill="pink"/>
+      <line x1="35"
+            y1="-0"
+            x2="70"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="105" cy="-430" r="3.5" fill="red"/>
       <circle cx="105" cy="-0" r="3.5" fill="purple"/>
       <circle cx="105" cy="-0" r="3.5" fill="blue"/>
@@ -358,6 +372,12 @@
       <circle cx="105" cy="-170" r="3.5" fill="brown"/>
       <circle cx="105" cy="-100" r="3.5" fill="orange"/>
       <circle cx="105" cy="-0" r="3.5" fill="pink"/>
+      <line x1="70"
+            y1="-0"
+            x2="105"
+            y2="-430"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="140" cy="-0" r="3.5" fill="red"/>
       <circle cx="140" cy="-0" r="3.5" fill="purple"/>
       <circle cx="140" cy="-0" r="3.5" fill="blue"/>
@@ -366,6 +386,12 @@
       <circle cx="140" cy="-0" r="3.5" fill="brown"/>
       <circle cx="140" cy="-0" r="3.5" fill="orange"/>
       <circle cx="140" cy="-0" r="3.5" fill="pink"/>
+      <line x1="105"
+            y1="-430"
+            x2="140"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="175" cy="-0" r="3.5" fill="red"/>
       <circle cx="175" cy="-0" r="3.5" fill="purple"/>
       <circle cx="175" cy="-0" r="3.5" fill="blue"/>
@@ -374,6 +400,12 @@
       <circle cx="175" cy="-0" r="3.5" fill="brown"/>
       <circle cx="175" cy="-0" r="3.5" fill="orange"/>
       <circle cx="175" cy="-160" r="3.5" fill="pink"/>
+      <line x1="140"
+            y1="-0"
+            x2="175"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="210" cy="-0" r="3.5" fill="red"/>
       <circle cx="210" cy="-0" r="3.5" fill="purple"/>
       <circle cx="210" cy="-0" r="3.5" fill="blue"/>
@@ -382,6 +414,12 @@
       <circle cx="210" cy="-0" r="3.5" fill="brown"/>
       <circle cx="210" cy="-0" r="3.5" fill="orange"/>
       <circle cx="210" cy="-0" r="3.5" fill="pink"/>
+      <line x1="175"
+            y1="-0"
+            x2="210"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="245" cy="-0" r="3.5" fill="red"/>
       <circle cx="245" cy="-0" r="3.5" fill="purple"/>
       <circle cx="245" cy="-0" r="3.5" fill="blue"/>
@@ -390,6 +428,12 @@
       <circle cx="245" cy="-0" r="3.5" fill="brown"/>
       <circle cx="245" cy="-10" r="3.5" fill="orange"/>
       <circle cx="245" cy="-0" r="3.5" fill="pink"/>
+      <line x1="210"
+            y1="-0"
+            x2="245"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="280" cy="-30" r="3.5" fill="red"/>
       <circle cx="280" cy="-0" r="3.5" fill="purple"/>
       <circle cx="280" cy="-0" r="3.5" fill="blue"/>
@@ -398,6 +442,12 @@
       <circle cx="280" cy="-80" r="3.5" fill="brown"/>
       <circle cx="280" cy="-0" r="3.5" fill="orange"/>
       <circle cx="280" cy="-0" r="3.5" fill="pink"/>
+      <line x1="245"
+            y1="-0"
+            x2="280"
+            y2="-30"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="315" cy="-0" r="3.5" fill="red"/>
       <circle cx="315" cy="-0" r="3.5" fill="purple"/>
       <circle cx="315" cy="-0" r="3.5" fill="blue"/>
@@ -406,6 +456,12 @@
       <circle cx="315" cy="-0" r="3.5" fill="brown"/>
       <circle cx="315" cy="-0" r="3.5" fill="orange"/>
       <circle cx="315" cy="-0" r="3.5" fill="pink"/>
+      <line x1="280"
+            y1="-30"
+            x2="315"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="350" cy="-0" r="3.5" fill="red"/>
       <circle cx="350" cy="-0" r="3.5" fill="purple"/>
       <circle cx="350" cy="-230" r="3.5" fill="blue"/>
@@ -414,6 +470,12 @@
       <circle cx="350" cy="-0" r="3.5" fill="brown"/>
       <circle cx="350" cy="-0" r="3.5" fill="orange"/>
       <circle cx="350" cy="-0" r="3.5" fill="pink"/>
+      <line x1="315"
+            y1="-0"
+            x2="350"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="385" cy="-0" r="3.5" fill="red"/>
       <circle cx="385" cy="-230" r="3.5" fill="purple"/>
       <circle cx="385" cy="-30" r="3.5" fill="blue"/>
@@ -422,6 +484,12 @@
       <circle cx="385" cy="-0" r="3.5" fill="brown"/>
       <circle cx="385" cy="-0" r="3.5" fill="orange"/>
       <circle cx="385" cy="-0" r="3.5" fill="pink"/>
+      <line x1="350"
+            y1="-0"
+            x2="385"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="420" cy="-0" r="3.5" fill="red"/>
       <circle cx="420" cy="-0" r="3.5" fill="purple"/>
       <circle cx="420" cy="-0" r="3.5" fill="blue"/>
@@ -430,6 +498,12 @@
       <circle cx="420" cy="-0" r="3.5" fill="brown"/>
       <circle cx="420" cy="-0" r="3.5" fill="orange"/>
       <circle cx="420" cy="-0" r="3.5" fill="pink"/>
+      <line x1="385"
+            y1="-0"
+            x2="420"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="455" cy="-0" r="3.5" fill="red"/>
       <circle cx="455" cy="-0" r="3.5" fill="purple"/>
       <circle cx="455" cy="-0" r="3.5" fill="blue"/>
@@ -438,6 +512,12 @@
       <circle cx="455" cy="-0" r="3.5" fill="brown"/>
       <circle cx="455" cy="-40" r="3.5" fill="orange"/>
       <circle cx="455" cy="-0" r="3.5" fill="pink"/>
+      <line x1="420"
+            y1="-0"
+            x2="455"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="490" cy="-10" r="3.5" fill="red"/>
       <circle cx="490" cy="-0" r="3.5" fill="purple"/>
       <circle cx="490" cy="-0" r="3.5" fill="blue"/>
@@ -446,6 +526,12 @@
       <circle cx="490" cy="-0" r="3.5" fill="brown"/>
       <circle cx="490" cy="-0" r="3.5" fill="orange"/>
       <circle cx="490" cy="-0" r="3.5" fill="pink"/>
+      <line x1="455"
+            y1="-0"
+            x2="490"
+            y2="-10"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="525" cy="-0" r="3.5" fill="red"/>
       <circle cx="525" cy="-0" r="3.5" fill="purple"/>
       <circle cx="525" cy="-0" r="3.5" fill="blue"/>
@@ -454,6 +540,12 @@
       <circle cx="525" cy="-0" r="3.5" fill="brown"/>
       <circle cx="525" cy="-0" r="3.5" fill="orange"/>
       <circle cx="525" cy="-0" r="3.5" fill="pink"/>
+      <line x1="490"
+            y1="-10"
+            x2="525"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="560" cy="-0" r="3.5" fill="red"/>
       <circle cx="560" cy="-10" r="3.5" fill="purple"/>
       <circle cx="560" cy="-0" r="3.5" fill="blue"/>
@@ -462,6 +554,12 @@
       <circle cx="560" cy="-0" r="3.5" fill="brown"/>
       <circle cx="560" cy="-0" r="3.5" fill="orange"/>
       <circle cx="560" cy="-0" r="3.5" fill="pink"/>
+      <line x1="525"
+            y1="-0"
+            x2="560"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="595" cy="-0" r="3.5" fill="red"/>
       <circle cx="595" cy="-0" r="3.5" fill="purple"/>
       <circle cx="595" cy="-0" r="3.5" fill="blue"/>
@@ -470,6 +568,12 @@
       <circle cx="595" cy="-0" r="3.5" fill="brown"/>
       <circle cx="595" cy="-0" r="3.5" fill="orange"/>
       <circle cx="595" cy="-80" r="3.5" fill="pink"/>
+      <line x1="560"
+            y1="-0"
+            x2="595"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="630" cy="-0" r="3.5" fill="red"/>
       <circle cx="630" cy="-0" r="3.5" fill="purple"/>
       <circle cx="630" cy="-0" r="3.5" fill="blue"/>
@@ -478,6 +582,12 @@
       <circle cx="630" cy="-0" r="3.5" fill="brown"/>
       <circle cx="630" cy="-0" r="3.5" fill="orange"/>
       <circle cx="630" cy="-0" r="3.5" fill="pink"/>
+      <line x1="595"
+            y1="-0"
+            x2="630"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="665" cy="-0" r="3.5" fill="red"/>
       <circle cx="665" cy="-0" r="3.5" fill="purple"/>
       <circle cx="665" cy="-0" r="3.5" fill="blue"/>
@@ -486,6 +596,12 @@
       <circle cx="665" cy="-0" r="3.5" fill="brown"/>
       <circle cx="665" cy="-0" r="3.5" fill="orange"/>
       <circle cx="665" cy="-0" r="3.5" fill="pink"/>
+      <line x1="630"
+            y1="-0"
+            x2="665"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="700" cy="-40" r="3.5" fill="red"/>
       <circle cx="700" cy="-0" r="3.5" fill="purple"/>
       <circle cx="700" cy="-0" r="3.5" fill="blue"/>
@@ -494,6 +610,12 @@
       <circle cx="700" cy="-0" r="3.5" fill="brown"/>
       <circle cx="700" cy="-0" r="3.5" fill="orange"/>
       <circle cx="700" cy="-0" r="3.5" fill="pink"/>
+      <line x1="665"
+            y1="-0"
+            x2="700"
+            y2="-40"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="735" cy="-0" r="3.5" fill="red"/>
       <circle cx="735" cy="-0" r="3.5" fill="purple"/>
       <circle cx="735" cy="-0" r="3.5" fill="blue"/>
@@ -502,6 +624,12 @@
       <circle cx="735" cy="-0" r="3.5" fill="brown"/>
       <circle cx="735" cy="-0" r="3.5" fill="orange"/>
       <circle cx="735" cy="-0" r="3.5" fill="pink"/>
+      <line x1="700"
+            y1="-40"
+            x2="735"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="770" cy="-0" r="3.5" fill="red"/>
       <circle cx="770" cy="-0" r="3.5" fill="purple"/>
       <circle cx="770" cy="-0" r="3.5" fill="blue"/>
@@ -510,6 +638,12 @@
       <circle cx="770" cy="-0" r="3.5" fill="brown"/>
       <circle cx="770" cy="-0" r="3.5" fill="orange"/>
       <circle cx="770" cy="-0" r="3.5" fill="pink"/>
+      <line x1="735"
+            y1="-0"
+            x2="770"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="805" cy="-30" r="3.5" fill="red"/>
       <circle cx="805" cy="-80" r="3.5" fill="purple"/>
       <circle cx="805" cy="-10" r="3.5" fill="blue"/>
@@ -518,6 +652,12 @@
       <circle cx="805" cy="-0" r="3.5" fill="brown"/>
       <circle cx="805" cy="-110" r="3.5" fill="orange"/>
       <circle cx="805" cy="-100" r="3.5" fill="pink"/>
+      <line x1="770"
+            y1="-0"
+            x2="805"
+            y2="-30"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="840" cy="-0" r="3.5" fill="red"/>
       <circle cx="840" cy="-0" r="3.5" fill="purple"/>
       <circle cx="840" cy="-0" r="3.5" fill="blue"/>
@@ -526,6 +666,12 @@
       <circle cx="840" cy="-0" r="3.5" fill="brown"/>
       <circle cx="840" cy="-0" r="3.5" fill="orange"/>
       <circle cx="840" cy="-0" r="3.5" fill="pink"/>
+      <line x1="805"
+            y1="-30"
+            x2="840"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="875" cy="-0" r="3.5" fill="red"/>
       <circle cx="875" cy="-0" r="3.5" fill="purple"/>
       <circle cx="875" cy="-0" r="3.5" fill="blue"/>
@@ -534,6 +680,12 @@
       <circle cx="875" cy="-0" r="3.5" fill="brown"/>
       <circle cx="875" cy="-0" r="3.5" fill="orange"/>
       <circle cx="875" cy="-0" r="3.5" fill="pink"/>
+      <line x1="840"
+            y1="-0"
+            x2="875"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="910" cy="-0" r="3.5" fill="red"/>
       <circle cx="910" cy="-0" r="3.5" fill="purple"/>
       <circle cx="910" cy="-0" r="3.5" fill="blue"/>
@@ -542,6 +694,12 @@
       <circle cx="910" cy="-0" r="3.5" fill="brown"/>
       <circle cx="910" cy="-10" r="3.5" fill="orange"/>
       <circle cx="910" cy="-20" r="3.5" fill="pink"/>
+      <line x1="875"
+            y1="-0"
+            x2="910"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="945" cy="-0" r="3.5" fill="red"/>
       <circle cx="945" cy="-0" r="3.5" fill="purple"/>
       <circle cx="945" cy="-40" r="3.5" fill="blue"/>
@@ -550,6 +708,12 @@
       <circle cx="945" cy="-0" r="3.5" fill="brown"/>
       <circle cx="945" cy="-0" r="3.5" fill="orange"/>
       <circle cx="945" cy="-0" r="3.5" fill="pink"/>
+      <line x1="910"
+            y1="-0"
+            x2="945"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="980" cy="-0" r="3.5" fill="red"/>
       <circle cx="980" cy="-0" r="3.5" fill="purple"/>
       <circle cx="980" cy="-0" r="3.5" fill="blue"/>
@@ -558,6 +722,12 @@
       <circle cx="980" cy="-0" r="3.5" fill="brown"/>
       <circle cx="980" cy="-0" r="3.5" fill="orange"/>
       <circle cx="980" cy="-0" r="3.5" fill="pink"/>
+      <line x1="945"
+            y1="-0"
+            x2="980"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1015" cy="-0" r="3.5" fill="red"/>
       <circle cx="1015" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1015" cy="-0" r="3.5" fill="blue"/>
@@ -566,6 +736,12 @@
       <circle cx="1015" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1015" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1015" cy="-0" r="3.5" fill="pink"/>
+      <line x1="980"
+            y1="-0"
+            x2="1015"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1050" cy="-0" r="3.5" fill="red"/>
       <circle cx="1050" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1050" cy="-0" r="3.5" fill="blue"/>
@@ -574,6 +750,12 @@
       <circle cx="1050" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1050" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1050" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1015"
+            y1="-0"
+            x2="1050"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1085" cy="-0" r="3.5" fill="red"/>
       <circle cx="1085" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1085" cy="-0" r="3.5" fill="blue"/>
@@ -582,6 +764,12 @@
       <circle cx="1085" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1085" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1085" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1050"
+            y1="-0"
+            x2="1085"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1120" cy="-0" r="3.5" fill="red"/>
       <circle cx="1120" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1120" cy="-0" r="3.5" fill="blue"/>
@@ -590,6 +778,12 @@
       <circle cx="1120" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1120" cy="-90" r="3.5" fill="orange"/>
       <circle cx="1120" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1085"
+            y1="-0"
+            x2="1120"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1155" cy="-0" r="3.5" fill="red"/>
       <circle cx="1155" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1155" cy="-0" r="3.5" fill="blue"/>
@@ -598,6 +792,12 @@
       <circle cx="1155" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1155" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1155" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1120"
+            y1="-0"
+            x2="1155"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1190" cy="-0" r="3.5" fill="red"/>
       <circle cx="1190" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1190" cy="-0" r="3.5" fill="blue"/>
@@ -606,6 +806,12 @@
       <circle cx="1190" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1190" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1190" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1155"
+            y1="-0"
+            x2="1190"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1225" cy="-0" r="3.5" fill="red"/>
       <circle cx="1225" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1225" cy="-0" r="3.5" fill="blue"/>
@@ -614,6 +820,12 @@
       <circle cx="1225" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1225" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1225" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1190"
+            y1="-0"
+            x2="1225"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1260" cy="-0" r="3.5" fill="red"/>
       <circle cx="1260" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1260" cy="-0" r="3.5" fill="blue"/>
@@ -622,6 +834,12 @@
       <circle cx="1260" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1260" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1260" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1225"
+            y1="-0"
+            x2="1260"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1295" cy="-0" r="3.5" fill="red"/>
       <circle cx="1295" cy="-20" r="3.5" fill="purple"/>
       <circle cx="1295" cy="-0" r="3.5" fill="blue"/>
@@ -630,6 +848,12 @@
       <circle cx="1295" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1295" cy="-20" r="3.5" fill="orange"/>
       <circle cx="1295" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1260"
+            y1="-0"
+            x2="1295"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1330" cy="-0" r="3.5" fill="red"/>
       <circle cx="1330" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1330" cy="-0" r="3.5" fill="blue"/>
@@ -638,6 +862,12 @@
       <circle cx="1330" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1330" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1330" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1295"
+            y1="-0"
+            x2="1330"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1365" cy="-0" r="3.5" fill="red"/>
       <circle cx="1365" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1365" cy="-0" r="3.5" fill="blue"/>
@@ -646,6 +876,12 @@
       <circle cx="1365" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1365" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1365" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1330"
+            y1="-0"
+            x2="1365"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1400" cy="-0" r="3.5" fill="red"/>
       <circle cx="1400" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1400" cy="-0" r="3.5" fill="blue"/>
@@ -654,6 +890,12 @@
       <circle cx="1400" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1400" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1400" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1365"
+            y1="-0"
+            x2="1400"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1435" cy="-0" r="3.5" fill="red"/>
       <circle cx="1435" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1435" cy="-0" r="3.5" fill="blue"/>
@@ -662,6 +904,12 @@
       <circle cx="1435" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1435" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1435" cy="-20" r="3.5" fill="pink"/>
+      <line x1="1400"
+            y1="-0"
+            x2="1435"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1470" cy="-0" r="3.5" fill="red"/>
       <circle cx="1470" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1470" cy="-0" r="3.5" fill="blue"/>
@@ -670,6 +918,12 @@
       <circle cx="1470" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1470" cy="-0" r="3.5" fill="orange"/>
       <circle cx="1470" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1435"
+            y1="-0"
+            x2="1470"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1505" cy="-0" r="3.5" fill="red"/>
       <circle cx="1505" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1505" cy="-0" r="3.5" fill="blue"/>
@@ -678,6 +932,12 @@
       <circle cx="1505" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1505" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1505" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1470"
+            y1="-0"
+            x2="1505"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1540" cy="-0" r="3.5" fill="red"/>
       <circle cx="1540" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1540" cy="-0" r="3.5" fill="blue"/>
@@ -686,6 +946,12 @@
       <circle cx="1540" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1540" cy="-10" r="3.5" fill="orange"/>
       <circle cx="1540" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1505"
+            y1="-0"
+            x2="1540"
+            y2="-0"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1575" cy="-10" r="3.5" fill="red"/>
       <circle cx="1575" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1575" cy="-0" r="3.5" fill="blue"/>
@@ -694,6 +960,12 @@
       <circle cx="1575" cy="-30" r="3.5" fill="brown"/>
       <circle cx="1575" cy="-30" r="3.5" fill="orange"/>
       <circle cx="1575" cy="-0" r="3.5" fill="pink"/>
+      <line x1="1540"
+            y1="-0"
+            x2="1575"
+            y2="-10"
+            stroke="red"
+            stroke-width="3"/>
       <circle cx="1610" cy="-0" r="3.5" fill="red"/>
       <circle cx="1610" cy="-0" r="3.5" fill="purple"/>
       <circle cx="1610" cy="-0" r="3.5" fill="blue"/>
@@ -702,278 +974,8 @@
       <circle cx="1610" cy="-0" r="3.5" fill="brown"/>
       <circle cx="1610" cy="-120" r="3.5" fill="orange"/>
       <circle cx="1610" cy="-0" r="3.5" fill="pink"/>
-      <line x1=""
-            y1="-"
-            x2="35"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="70"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="105"
-            y2="-430"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="140"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="175"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="210"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="245"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="280"
-            y2="-30"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="315"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="350"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="385"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="420"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="455"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="490"
-            y2="-10"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="525"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="560"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="595"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="630"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="665"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="700"
-            y2="-40"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="735"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="770"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="805"
-            y2="-30"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="840"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="875"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="910"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="945"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="980"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1015"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1050"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1085"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1120"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1155"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1190"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1225"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1260"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1295"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1330"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1365"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1400"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1435"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1470"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1505"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1540"
-            y2="-0"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
-            x2="1575"
-            y2="-10"
-            stroke="red"
-            stroke-width="3"/>
-      <line x1=""
-            y1="-"
+      <line x1="1575"
+            y1="-10"
             x2="1610"
             y2="-0"
             stroke="red"
