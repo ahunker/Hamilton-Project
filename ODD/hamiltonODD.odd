@@ -156,6 +156,22 @@
                
                
             </elementSpec> 
+            <elementSpec ident="phr" module="analysis" mode="change">
+               <attList>
+                  <attDef ident="type" mode="replace" usage="req">
+                     <valList type="closed">
+                        <valItem ident="#shot"/>
+                        <valItem ident="#wait"/>
+                        <valItem ident="#rise"/>
+                        <valItem ident="#time"/>
+                        <valItem ident="#satisfied"/>
+                        <valItem ident="#helpless"/>
+                        <valItem ident="#legacy"/>
+                        <valItem ident="#look"/>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
             
             
          </schemaSpec>

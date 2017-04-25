@@ -1274,7 +1274,7 @@
                 </div>
                 <div class="main">
                     <div class="main2">
-                        \<h2>Table</h2>
+                        <h2>Table</h2>
                         <table>
                            <tr>
                                <th></th>
