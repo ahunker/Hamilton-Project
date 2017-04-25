@@ -1,10 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.0">
+<project version="19.0">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.0" xml:space="preserve">
-                <map>
+            <serialized version="19.0" xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/23_Non-Stop.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/22_DearTheodosia.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/21_WhatComesNext.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/20_Yorktown_TheWorldTurnedUpsideDown_.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/19_HistoryHasItsEyesOnYou.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/18_GunsAndShips.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/17_ThatWouldBeEnough.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/16_MeetMeInside.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/15_TenDuelCommandments.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/14_StayAlive.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/13_WaitForIt.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/12_TheStoryOfTonight_Reprise_.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/11_Satisfied.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/10_Helpless.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/09_AWintersBall.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/08_RightHandMan.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/07_YoullBeBack.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/06_FarmerRefuted.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/05_TheSchuylerSisters.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/04_TheStoryOfTonight.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/03_MyShot.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/02_AaronBurrSir.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/01_AlexanderHamilton.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_AlexanderHamilton</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
                     <entry>
                         <String>scenarios</String>
                         <scenario-array>
@@ -96,7 +446,7 @@
                             </scenario>
                         </scenario-array>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>

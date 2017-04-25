@@ -68,7 +68,7 @@
     </xsl:template>
 
     <xsl:template match="sp">
-        <div type="sp">
+        <div class="sp">
             <xsl:apply-templates/>
         </div>
     </xsl:template>
