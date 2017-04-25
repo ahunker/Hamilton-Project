@@ -69,6 +69,8 @@
                                             select=".//string-join(occupation, ', ')"/>
                                     </td>
 
+
+
                                     <xsl:if
                                         test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
                                         <xsl:variable name="ref" select="./@xml:id"/>
@@ -79,12 +81,14 @@
                                         </td>
                                     </xsl:if>
 
-                                    <xsl:if
-                                        test="./@xml:id = $hamiltonColl//sp/@who/tokenize(., '#')">
-                                        <xsl:variable name="ref" select="./@xml:id"/>
-                                        <xsl:variable name="distRef"
-                                            select="distinct-values($hamiltonColl//sp[@who/tokenize(., '#') = $ref]//persName/@ref/tokenize(., '#'))"/>
-                                        <td>
+
+
+                                    <td>
+                                        <xsl:if
+                                            test="./@xml:id = $hamiltonColl//sp/@who/tokenize(., '#')">
+                                            <xsl:variable name="ref" select="./@xml:id"/>
+                                            <xsl:variable name="distRef"
+                                                select="distinct-values($hamiltonColl//sp[@who/tokenize(., '#') = $ref]//persName/@ref/tokenize(., '#'))"/>
                                             <ul>
                                                 <xsl:for-each select="$distRef">
                                                   <li>
@@ -93,22 +97,26 @@
                                                   <!-- REMOVE EXTRA li -->
                                                 </xsl:for-each>
                                             </ul>
-                                        </td>
-                                    </xsl:if>
-                                    <xsl:if
-                                        test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
-                                        <xsl:variable name="ref" select="./@xml:id"/>
-                                        <xsl:variable name="distRefers"
-                                            select="distinct-values($hamiltonColl//sp[//persName/@ref/tokenize(., '#') = $ref]/@who/tokenize(., '#')[2])"/>
-                                        <td><ul>
-                                            <xsl:for-each select="$distRefers">
-                                                <li>
-                                                    <xsl:apply-templates select="."/>
-                                                </li>
-                                                <!-- REMOVE EXTRA li -->
-                                            </xsl:for-each>
-                                        </ul></td>
-                                    </xsl:if>
+                                        </xsl:if>
+                                    </td>
+                                    <td>
+                                        <xsl:if
+                                            test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
+                                            <xsl:variable name="ref" select="./@xml:id"/>
+                                            <xsl:variable name="distRefers"
+                                                select="distinct-values($hamiltonColl//sp[.//persName/@ref/tokenize(., '#') = $ref]/@who/tokenize(., '#'))"/>
+
+                                            <ul>
+                                                <xsl:for-each select="$distRefers">
+                                                  <li>
+                                                  <xsl:apply-templates select="."/>
+                                                  </li>
+
+                                                </xsl:for-each>
+                                            </ul>
+
+                                        </xsl:if>
+                                    </td>
 
                                 </tr>
                             </xsl:for-each>
