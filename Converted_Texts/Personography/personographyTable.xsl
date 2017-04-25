@@ -68,13 +68,48 @@
                                         <xsl:apply-templates
                                             select=".//string-join(occupation, ', ')"/>
                                     </td>
-                                    <xsl:for-each select="$hamiltonColl//@persName">
-                                        <xsl:variable name="reference" select="tokenize(., '#')"/>
-                                        <td><xsl:apply-templates select="$reference"/></td>
-                                    </xsl:for-each>
-                                        <td/>
-                                        <td/>
-                                    
+
+                                    <xsl:if
+                                        test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
+                                        <xsl:variable name="ref" select="./@xml:id"/>
+                                        <td>
+                                            <xsl:apply-templates
+                                                select="count($hamiltonColl//persName[@ref/tokenize(., '#') = $ref])"
+                                            />
+                                        </td>
+                                    </xsl:if>
+
+                                    <xsl:if
+                                        test="./@xml:id = $hamiltonColl//sp/@who/tokenize(., '#')">
+                                        <xsl:variable name="ref" select="./@xml:id"/>
+                                        <xsl:variable name="distRef"
+                                            select="distinct-values($hamiltonColl//sp[@who/tokenize(., '#') = $ref]//persName/@ref/tokenize(., '#'))"/>
+                                        <td>
+                                            <ul>
+                                                <xsl:for-each select="$distRef">
+                                                  <li>
+                                                  <xsl:apply-templates select="."/>
+                                                  </li>
+                                                  <!-- REMOVE EXTRA li -->
+                                                </xsl:for-each>
+                                            </ul>
+                                        </td>
+                                    </xsl:if>
+                                    <xsl:if
+                                        test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
+                                        <xsl:variable name="ref" select="./@xml:id"/>
+                                        <xsl:variable name="distRefers"
+                                            select="distinct-values($hamiltonColl//sp[//persName/@ref/tokenize(., '#') = $ref]/@who/tokenize(., '#')[2])"/>
+                                        <td><ul>
+                                            <xsl:for-each select="$distRefers">
+                                                <li>
+                                                    <xsl:apply-templates select="."/>
+                                                </li>
+                                                <!-- REMOVE EXTRA li -->
+                                            </xsl:for-each>
+                                        </ul></td>
+                                    </xsl:if>
+
                                 </tr>
                             </xsl:for-each>
                         </table>
