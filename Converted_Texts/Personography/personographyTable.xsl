@@ -88,7 +88,8 @@
                                             test="./@xml:id = $hamiltonColl//sp/@who/tokenize(., '#')">
                                             <xsl:variable name="ref" select="./@xml:id"/>
                                             <xsl:variable name="distRef"
-                                                select="distinct-values($hamiltonColl//sp[@who/tokenize(., '#') = $ref]//persName/@ref/tokenize(., '#'))"/>
+                                                select="distinct-values($hamiltonColl//sp[for $i in tokenize(@who, ' ') return substring-after($i, '#') = $ref]//persName/@ref/tokenize(., '#'))"/>
+                                            <!--ebb: Getting boolean error here; working on it! -->
                                             <ul>
                                                 <xsl:for-each select="$distRef">
                                                   <li>
@@ -104,7 +105,7 @@
                                             test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
                                             <xsl:variable name="ref" select="./@xml:id"/>
                                             <xsl:variable name="distRefers"
-                                                select="distinct-values($hamiltonColl//sp[.//persName/@ref/tokenize(., '#') = $ref]/@who/tokenize(., '#'))"/>
+                                                select="distinct-values($hamiltonColl//sp[.//persName/@ref/tokenize(., '#') = $ref]/@who/substring-after(tokenize(., ' '), '#'))"/>
 
                                             <ul>
                                                 <xsl:for-each select="$distRefers">
