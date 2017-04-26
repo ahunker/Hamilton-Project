@@ -32,6 +32,10 @@ p.menu{
     color: white;
 }
 
+img.CCL{
+    width:2%;
+}
+
 
 /*LINKS*/
 a{
@@ -74,8 +78,7 @@ div.main on{
     padding-right: 10%;
     padding-top: 1%;
     padding-bottom: 1%;
-    background: goldenrod;
-}
+    background: goldenrod;}
 
 div.about{
     font-family: georgia, serif;

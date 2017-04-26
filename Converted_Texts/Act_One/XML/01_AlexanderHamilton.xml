@@ -73,7 +73,7 @@
                     <l><persName ref="#hamilton">Alexander Hamilton</persName></l>
                     <l>My name is <persName ref="#hamilton">Alexander Hamilton</persName></l>
                     <l>And there’s a million things I haven’t done</l>
-                    <l>But<phr type="#wait">just you wait, just you wait...</phr></l>
+                    <l>But<phr type="#wait"> just you wait, just you wait...</phr></l>
                 </sp>
 
                 <sp who="#eliza">

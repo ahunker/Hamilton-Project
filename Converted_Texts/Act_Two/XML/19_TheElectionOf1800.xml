@@ -43,12 +43,12 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Yo. Evry action has an equal, opposite reaction</l>
+                    <l>Yo. Ev'ry action has an equal, opposite reaction</l>
                     <l><persName ref="#jAdams">John Adams</persName> shat the bed. I love the guy,
                         but he's in traction</l>
                     <l>Poor <persName ref="#hamilton">Alexander Hamilton</persName>? He is missing
                         in action</l>
-                    <l>So now Im facing</l>
+                    <l>So now I'm facing</l>
                 </sp>
 
                 <sp who="#jefferson #madison">
@@ -63,13 +63,13 @@
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Hes very attractive in the <placeName>North</placeName>. New Yorkers like his
+                    <l>He's very attractive in the <placeName>North</placeName>. New Yorkers like his
                         chances</l>
                 </sp>
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Hes not very forthcoming on any particular stances</l>
+                    <l>He's not very forthcoming on any particular stances</l>
                 </sp>
 
                 <sp who="#madison">
@@ -79,7 +79,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>And they say Im a Francophile: at least they know I know where
+                    <l>And they say I'm a Francophile: at least they know I know where
                             <placeName>France</placeName> is!</l>
                 </sp>
 
@@ -141,7 +141,7 @@
                         <speaker>BURR</speaker>
                         <l>Talk less!</l>
                         <l>Smile more!</l>
-                        <l>Dont let em know what youre against or what youre for!</l>
+                        <l>Dont let 'em know what you're against or what you're for!</l>
                         <l>Shake hands with him!</l>
                         <l>Charm her!</l>
                         <l>Its eighteen hundred, ladies, tell your husbands: vote for</l>
@@ -161,7 +161,7 @@
 
                 <sp who="#men">
                     <speaker>MALE VOTER</speaker>
-                    <l>I dont like <persName ref="#jAdams">Admas</persName></l>
+                    <l>I dont like <persName ref="#jAdams">Adams</persName></l>
                 </sp>
 
                 <sp who="#women">
@@ -249,7 +249,7 @@
                     <sp who="#ensemble">
                         <speaker>ENSEMBLE</speaker>
                         <l>Dear <persName ref="#hamilton">Mr. Hamilton</persName>:</l>
-                        <l><persName ref="#jAdams">John Adams</persName> doesnt stand a chance so
+                        <l><persName ref="#jAdams">John Adams</persName> doesn't stand a chance so
                             who are you promoting?</l>
                         <l>But if you had to choose </l>
                     </sp>
@@ -541,13 +541,13 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>Ha. Yeah, right</l>
-                    <l>You hear this guy? Man openly campaigns against me, talkin bout, I look
+                    <l>You hear this guy? Man openly campaigns against me, talkin' 'bout, I look
                         forward to our partnership.</l>
                 </sp>
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Its crazy that the guy who comes in second gets to be Vice President</l>
+                    <l>It's crazy that the guy who comes in second gets to be Vice President</l>
                 </sp>
 
                 <sp who="#jefferson">
@@ -562,7 +562,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>cuz Im the President. Hey, <persName ref="#burr">Burr</persName>, when you
+                    <l>'Cuz I'm the President. Hey, <persName ref="#burr">Burr</persName>, when you
                         see <persName ref="#hamilton">Hamilton</persName>, thank him for the
                         endorsement</l>
                 </sp>

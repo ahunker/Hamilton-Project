@@ -29,11 +29,11 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Meet the latest graduate of Kings College!</l>
-                    <l>I probly shouldnt brag, but, dag, I amaze and astonish!</l>
+                    <l>Meet the latest graduate of King's College!</l>
+                    <l>I probly shouldn't brag, but, dag, I amaze and astonish!</l>
                     <l>The scholars say I got the same virtuosity and brains as my pops!</l>
                     <l>The ladies say my brains not where the resemblance stops!</l>
-                    <l>Im only nineteen but my mind is older</l>
+                    <l>I'm only nineteen but my mind is older</l>
                     <l>Gotta be my own man, like my father, but bolder</l>
                     <l>I shoulder his <phr type="#legacy">legacy</phr> with pride</l>
                     <l>I used to hear him say</l>
@@ -50,36 +50,36 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Ladies, Im lookin for a <persName ref="#eacker">Mr. George Eacker</persName></l>
+                    <l>Ladies, I'm lookin for a <persName ref="#eacker">Mr. George Eacker</persName></l>
                     <l>Made a speech last week, our Fourth of July speaker</l>
-                    <l>He disparaged my fathers <phr type="#legacy">legacy</phr> in front of a crowd</l>
-                    <l>I cant have that, Im making my father proud</l>
+                    <l>He disparaged my father's <phr type="#legacy">legacy</phr> in front of a crowd</l>
+                    <l>I can't have that, I'm making my father proud</l>
                 </sp>
 
                 <sp who="#martha">
                     <speaker>MARTHA</speaker>
 
                     <l>I saw him just up Broadway a couple of blocks</l>
-                    <l>He was goin to see a play</l>
+                    <l>He was goin' to see a play</l>
                 </sp>
 
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Well, Ill go visit his box</l>
+                    <l>Well, I'll go visit his box</l>
                 </sp>
 
                 <sp who="#dolly">
                     <speaker>DOLLY</speaker>
 
-                    <l>God, youre a fox</l>
+                    <l>God, you're a fox</l>
                 </sp>
 
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>And yall look pretty good in ya frocks</l>
-                    <l>How bout when I get back, we all strip down to our socks?</l>
+                    <l>And y'all look pretty good in ya frocks</l>
+                    <l>How 'bout when I get back, we all strip down to our socks?</l>
                 </sp>
 
                 <sp who="#dolly #martha">
@@ -115,7 +115,7 @@
                 <sp who="#eacker">
                     <speaker>GEORGE</speaker>
 
-                    <l>Shh! Im tryin to watch the show!</l>
+                    <l>Shh! I'm tryin' to watch the show!</l>
                 </sp>
 
                 <sp who="#philipH">
@@ -128,8 +128,8 @@
                 <sp who="#eacker">
                     <speaker>GEORGE</speaker>
 
-                    <l>I didnt say anything that wasnt true</l>
-                    <l>Your fathers a scoundrel, and so, it seems, are you</l>
+                    <l>I didn't say anything that wasn't true</l>
+                    <l>Your father's a scoundrel, and so, it seems, are you</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -141,14 +141,14 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Its like that?</l>
+                    <l>It's like that?</l>
                 </sp>
 
                 <sp who="#eacker">
                     <speaker>GEORGE</speaker>
 
-                    <l>Yeah, I dont fool around</l>
-                    <l>Im not your little schoolboy friends</l>
+                    <l>Yeah, I don't fool around</l>
+                    <l>I'm not your little schoolboy friends</l>
                 </sp>
 
                 <sp who="#philipH">
@@ -162,7 +162,7 @@
                     <speaker>GEORGE</speaker>
 
                     <l>I know where to find you, piss off</l>
-                    <l>Im watchin this show now</l>
+                    <l>I'm watchin this show now</l>
                     <l>Shh</l>
                 </sp>
 
@@ -183,7 +183,7 @@
                     <speaker>PHILIP</speaker>
 
                     <l>I came to ask you for advice. This is my very first duel</l>
-                    <l>They dont exactly cover this subject in boarding school</l>
+                    <l>They don't exactly cover this subject in boarding school</l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -228,15 +228,15 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>But what if he decides to shoot? Then Im a goner</l>
+                    <l>But what if he decides to shoot? Then I'm a goner</l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
 
-                    <l>No. He'll follow suit if hes truly a man of honor</l>
-                    <l>To take someones life, that is something you cant shake</l>
-                    <l><persName ref="#philipH">Philip</persName>, your mother cant take another heartbreak</l>
+                    <l>No. He'll follow suit if he's truly a man of honor</l>
+                    <l>To take someone's life, that is something you can't shake</l>
+                    <l><persName ref="#philipH">Philip</persName>, your mother can't take another heartbreak</l>
                 </sp>
 
                 <sp who="#philipH">
@@ -248,8 +248,8 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
 
-                    <l>Promise me. You dont want this</l>
-                    <l>Young mans blood on your conscience</l>
+                    <l>Promise me. You don't want this</l>
+                    <l>Young man's blood on your conscience</l>
                 </sp>
 
                 <sp who="#philipH">
@@ -261,7 +261,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
 
-                    <l>Come back home when youre done</l>
+                    <l>Come back home when you're done</l>
                     <l>Take my guns. Be smart. Make me proud, son</l>
                 </sp>
 
@@ -270,8 +270,8 @@
 
                     <l>My name is <persName ref="#philipH">Philip</persName></l>
                     <l>I am a poet</l>
-                    <l>I'm a little nervous, but I cant show it</l>
-                    <l>Im sorry, I'm a Hamilton with pride</l>
+                    <l>I'm a little nervous, but I can't show it</l>
+                    <l>I'm sorry, I'm a Hamilton with pride</l>
                     <l>You talk about my father, I cannot let it slide</l>
                     <l><persName ref="#eacker">Mister Eacker</persName>! How was the rest of your show?</l>
                 </sp>
@@ -279,8 +279,8 @@
                 <sp who="#eacker">
                     <speaker>GEORGE</speaker>
 
-                    <l>Id rather skip the pleasantries</l>
-                    <l>Lets go</l>
+                    <l>I'd rather skip the pleasantries</l>
+                    <l>Let's go</l>
                     <l>Grab your pistol</l>
                 </sp>
 
@@ -300,7 +300,7 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Look em in the eye, aim no higher</l>
+                    <l>Look 'em in the eye, aim no higher</l>
                     <l>Summon all the courage you require</l>
                     <l>Then slowly and clearly aim your gun towards the sky</l>
                 </sp>

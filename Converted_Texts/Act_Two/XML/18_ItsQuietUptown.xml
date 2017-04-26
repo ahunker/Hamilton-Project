@@ -28,11 +28,11 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>There are moments that the words dont reach</l>
+                    <l>There are moments that the words don't reach</l>
                     <l>There is suffering too terrible to name</l>
                     <l>You hold your child as tight as you can</l>
                     <l>And push away the unimaginable</l>
-                    <l>The moments when youre in so deep</l>
+                    <l>The moments when you're in so deep</l>
                     <l>It feels easier to just swim down</l>
                 </sp>
 
@@ -46,7 +46,7 @@
                     <speaker>HAMILTON</speaker>
                     <l>I spend hours in the garden</l>
                     <l>I walk alone to the store</l>
-                    <l>And its quiet uptown</l>
+                    <l>And it's quiet uptown</l>
                     <l>I never liked the quiet before</l>
                     <l>I take the children to church on Sunday</l>
                     <l>A sign of the cross at the door</l>
@@ -63,7 +63,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l><persName ref="#philipH">Philip</persName>, you would like it uptown</l>
-                    <l>Its quiet uptown</l>
+                    <l>It's quiet uptown</l>
                 </sp>
 
                 <sp who="#angelica #women">
@@ -93,17 +93,17 @@
                     <speaker>HAMILTON</speaker>
                     <l>Look at where we are</l>
                     <l>Look at where we started</l>
-                    <l>I know I dont deserve you, <persName ref="#eliza">Eliza</persName></l>
+                    <l>I know I don't deserve you, <persName ref="#eliza">Eliza</persName></l>
                     <l>But hear me out. That would be enough</l>
                     <l>If I could spare his life</l>
                     <l>If I could trade his life for mine</l>
-                    <l>Hed be standing here right now</l>
+                    <l>He'd be standing here right now</l>
                     <l>And you would smile, and that would be enough</l>
-                    <l>I dont pretend to know</l>
+                    <l>I don't pretend to know</l>
                     <l>The challenges were facing</l>
-                    <l>I know theres no replacing what weve lost</l>
+                    <l>I know there's no replacing what we've lost</l>
                     <l>And you need <phr type="#time">time</phr></l>
-                    <l>But Im not afraid</l>
+                    <l>But I'm not afraid</l>
                     <l>I know who I married</l>
                     <l>Just let me stay here by your side</l>
                     <l>That would be enough</l>
@@ -118,7 +118,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName ref="#eliza">Eliza</persName>, do you like it uptown? Its quiet uptown</l>
+                    <l><persName ref="#eliza">Eliza</persName>, do you like it uptown? It's quiet uptown</l>
                 </sp>
 
                 <sp who="#company">
@@ -142,7 +142,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>There are moments that the words dont reach</l>
+                    <l>There are moments that the words don't reach</l>
                     <l>There is a grace too powerful to name</l>
                     <l>We push away what we can never understand</l>
                     <l>We push away the unimaginable</l>
@@ -153,7 +153,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Its quiet uptown</l>
+                    <l>It's quiet uptown</l>
                 </sp>
 
                 <sp who="#company">

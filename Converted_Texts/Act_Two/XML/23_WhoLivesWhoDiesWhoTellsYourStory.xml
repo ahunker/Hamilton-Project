@@ -51,8 +51,8 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Ill give him this: his financial system is a</l>
-                    <l>Work of genius. I couldnt undo it if I tried</l>
+                    <l>I'll give him this: his financial system is a</l>
+                    <l>Work of genius. I couldn't undo it if I tried</l>
                     <l>And I tried</l>
                 </sp>
 
@@ -74,7 +74,7 @@
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
                     <l>He took our country from bankruptcy to prosperity</l>
-                    <l>I hate to admit it, but he doesnt get enough credit</l>
+                    <l>I hate to admit it, but he doesn't get enough credit</l>
                     <l>For all the credit he gave us</l>
                 </sp>
 
@@ -96,7 +96,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>But when youre gone, who remembers your name?</l>
+                    <l>But when you're gone, who remembers your name?</l>
                     <l>Who keeps your flame?</l>
                 </sp>
 
@@ -139,7 +139,7 @@
                     <speaker>ELIZA</speaker>
                     <l>I stop <phr type="#time">wasting time</phr> on tears</l>
                     <l>I live another fifty years</l>
-                    <l>Its not enough</l>
+                    <l>It's not enough</l>
                 </sp>
 
 
@@ -164,7 +164,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I try to make sense of your thousands of pages of writings</l>
-                    <l>You really do write like youre running out of</l>
+                    <l>You really do write like you're running out of</l>
                 </sp>
 
 
@@ -188,7 +188,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>While shes alive</l>
+                    <l>While she's alive</l>
                 </sp>
 
 
@@ -224,14 +224,14 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>And Im still not through</l>
-                    <l>I ask myself, What would you do if you had more</l>
+                    <l>And I'm still not through</l>
+                    <l>I ask myself, "What would you do if you had more</l>
                 </sp>
 
 
                 <sp who="#eliza #company">
                     <speaker>ELIZA AND COMPANY</speaker>
-                    <l><phr type="#time">Time</phr></l>
+                    <l><phr type="#time">Time"</phr></l>
                 </sp>
 
 
@@ -296,7 +296,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Oh. Can I show you what Im proudest of?</l>
+                    <l>Oh. Can I show you what I'm proudest of?</l>
                 </sp>
 
 
@@ -347,7 +347,7 @@
 
                     <sp who="#eliza">
                         <speaker>ELIZA</speaker>
-                        <l>And when my time is up</l>
+                        <l>And when my <phr type="#time">time</phr> is up</l>
                         <l>Have I done enough?</l>
                         <l>Will they tell my story? </l>
                     </sp>
@@ -362,8 +362,8 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Oh, I cant wait to see you again</l>
-                    <l>Its only a matter of</l>
+                    <l>Oh, I can't wait to see you again</l>
+                    <l>It's only a matter of</l>
                 </sp>
 
 
