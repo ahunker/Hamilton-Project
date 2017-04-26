@@ -1,7 +1,4 @@
 window.addEventListener('DOMContentLoaded',init,false);
-var about1 = document.getElementById("about1")
-var about2 = document.getElementById("about2")
-var about3 = document.getElementById("about3")
 function init() {
 var buttons = document.getElementsByTagName('button');
     for (var i = 0; i < buttons.length; i++) {
@@ -9,7 +6,7 @@ var buttons = document.getElementsByTagName('button');
 }
 }
 function toggle() {
-window.alert("function lineShow is firing, and this.id is: " + this.id);
+/*window.alert("function lineShow is firing, and this.id is: " + this.id);*/
     hideOthers()
     var divID = 'about' + this.id
     var selDiv = document.getElementById(divID)
