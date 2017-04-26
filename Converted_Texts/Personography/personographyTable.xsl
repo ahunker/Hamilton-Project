@@ -71,15 +71,15 @@
 
 
 
-                                    <xsl:if
+                                    <td><xsl:if
                                         test="./@xml:id = $hamiltonColl//persName/@ref/tokenize(., '#')">
                                         <xsl:variable name="ref" select="./@xml:id"/>
-                                        <td>
+                                        
                                             <xsl:apply-templates
                                                 select="count($hamiltonColl//persName[@ref/tokenize(., '#') = $ref])"
                                             />
-                                        </td>
-                                    </xsl:if>
+                                        
+                                    </xsl:if></td>
 
 
 

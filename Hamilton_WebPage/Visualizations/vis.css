@@ -116,3 +116,31 @@ table, th, td {
     border: 1px solid black;
     text-align:center;
 }
+
+div.personography{
+    text-align: left;
+   letter-spacing: 1.8px;
+   line-height: 1.5;
+   padding-right:0.5%;
+   padding-left:0.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: goldenrod;
+    
+}
+
+h2.personography, h3.personography{
+
+    text-align:center;
+}
+
+table#personography{
+    font-size:12px;
+    background:goldenrod;
+}
+
+ul{
+    list-style-type:none;
+    padding:0.3px;
+    margin:0;
+}

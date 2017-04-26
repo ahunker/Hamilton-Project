@@ -1,25 +1,20 @@
-<!DOCTYPE html SYSTEM "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>Visualizations: Network Graph</title>
-        <link rel="stylesheet" type="text/css" href="vis.css" />
-    </head>
-    <body>
-        <!--#include virtual="menu.html"-->
-        <div class="img">
-            <h2>Network Graph Representing Frequency of Character References and Speech:</h2>
-            <h3>Scroll down for analysis of network.</h3>
-  <h3>Click to zoom in on network.</h3>
-<a href="wholeMusical_Ref_updated.svg" title="Network Graph Representing Speakers and References from the musical Hamilton" target="_blank">
-    <img alt="svg_ref" src="wholeMusical_Ref_updated.svg"/>
-</a>
-
-        </div>
-        <div class="main">
-           <div class="personography">    <h2 class="personography">Personography Table</h2>
-               <h3 class="personography">Character Information, XML:ID, and References</h3>
-            <table id="personography">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Personography</title>
+      <link rel="stylesheet" type="text/css" href="vis.css" />
+   </head>
+   <body>
+      <div class="menu">
+         <!--#include virtual="menu.html"-->
+      </div>
+      <div class="main">
+         <div class="main2">
+            <h2>Table</h2>
+            <table>
                <tr>
                   <th>Name</th>
                   <th>xml:id</th>
@@ -490,7 +485,7 @@
                   <td></td>
                   <td>1</td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td>
                      <ul>
@@ -529,7 +524,7 @@
                   <td></td>
                   <td>5</td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td>
                      <ul>
@@ -561,7 +556,7 @@
                   <td></td>
                   <td></td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
@@ -573,7 +568,7 @@
                   <td></td>
                   <td></td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
@@ -671,7 +666,7 @@
                   <td></td>
                   <td></td>
                   <td>
-                   
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
@@ -1012,28 +1007,7 @@
                   </td>
                </tr>
             </table>
-           </div>
-                <div class="main2">
-            <h2>Analysis</h2>
-            <p>
-                This network graph analyzes the speakers of <i>Hamilton</i> and the characters being referenced. The graph indicates who speaks the most throughout the whole musical and who references who within every song. 
-                
-            </p>
-            <p>
-                The size of the source node square represents the amount of time that character was referenced by other characters and/or themselves.
-                A larger square indicates that the character was referenced frequently while a smaller square indicates the character was referenced minimally or not at all.
-                The color of the source node square represents how often the speaker speaks throughout the whole musical.
-                A gold or darker colored square indicates that the character spoke often throughout the musical.
-                A white or lighter colored square indicates that the character did not speak often or did not speak at all throughout the musical. 
-                The arrows on the interactions between the nodes represents the references and the direction of the arrows indicate who was referencing who. Arrows pointing out from the source node show that particular character is doing the referencing of the character/source node that the arrows are pointing in toward. 
-                
-            </p>
-            <p>This network graph allows us to determine which characters play a pivotal part in the musical. From the network graph we can determine whether or not the character who spoke the most in the musical is also referenced the most. So, we can see Hamilton and Burr are represented as large, golden squares which indicates that they speak often and they are also referenced often. As Burr and Hamilton play crucial roles in the musical, Hamilton as the central character and Burr acting as the narrator often, the data reflects their importance and frequency. Burr and Hamilton also reference a lot of characters, Burr in particular references 10 characters who are referenced by only Burr. Both characters expand the cast of characters and often make historical references to Betsy Ross, John Jay, etc. As the central character of the musical, Hamilton also self references himself the most through introducing himself to other characters and talking about himself. Other notable characters who self reference themselves are Eliza, Angelica, and Burr. Eliza and Angelica are the two most prominent women in the musical and it is interesting to see that they often refer to themselves while being surrounded by all the men in the musical and while both of their plot points focus on their relationships with Hamilton. 
-               </p>
-                <p>
-                    To see more clear network graphs showing which characters reference who in each song, refer to the Song Index page and click on the link in a particular song that pulls up that song's network graph.
-                </p>
-        </div>
-        </div>
-    </body>
+         </div>
+      </div>
+   </body>
 </html>
