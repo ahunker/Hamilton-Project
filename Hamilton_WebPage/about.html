@@ -66,6 +66,26 @@
         </div>
         <div class="main" id="aboutopt2">
             <h2>METHODOLOGY</h2>
+            <h3>Mark-up Process:</h3>
+            <p class="about">
+                To start the project, we took the lyrics for the musical off of the Atlantic Records website and decided 
+                to mark them up using TEI. From there we created an ODD to identify how we planned to mark up names, date, 
+                phrases, places, stage directions, and etc. and we used regular expressions to accurately tag all the elements we 
+                were planning to look further into during analysis. After tagging up all key elements and turning all the lyric text 
+                files into XML that kept the song's original format, the song's XML files were transformed using XSLT into HTML files 
+                featuring a JavaScript checklist box to highlight all the names, dates, phrases, and places in each song. </p>
+                
+                <h3>Frequency of Character References and Speeches Network Graphs:</h3>
+              <p class="about">
+                One question we had while analysing the lyrics was about how often characters spoke in the musical and how often characters were 
+                referenced in the musical. We further wanted to investigate who references who as well to see which characters discuss each other
+                and to see which characters talk about themselves. In order to investigate this, a directed network graph was created in cytoscape
+                to show the indegree of how often a character is referenced which is represented by the size of the nodes in the graph and the 
+                outdegree of how often a character speaks which is represented by the color of the nodes in the graph. To compile the information, 
+                XQuery was used to grab all distinct speakers and look down to see specific references to characters the speaker made throughout the 
+                entire musical. A TSV was saved from the output data and that was imported into cytoscape to compile the graph. In cytoscape the edges 
+                which related to each song in the musical were bundled to help provide better readability. Another graph was created without bundling 
+                the edges to create separate network graphs for each song to show which characters referenced who in each song. </p>
         </div>
         <div class="main" id="aboutopt3">
             <h2>WANT TO LEARN MORE?</h2>
