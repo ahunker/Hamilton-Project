@@ -4,7 +4,7 @@
         <title>About</title>
         <link rel="stylesheet" type="text/css" href="about.css" />
         <script type="text/javascript" src="about.js">/**/</script>
-        <meta charset="UTF-8"/>
+        <meta charset="UTF-8" />
     </head>
     <body>
         <!--#include virtual="menu.html"-->
@@ -68,25 +68,55 @@
         <div class="main" id="aboutopt2">
             <h2>METHODOLOGY</h2>
             <h3>Mark-up Process:</h3>
-            <p class="about">
-                To start the project, we took the lyrics for the musical off of the Atlantic Records website and decided 
-                to mark them up using TEI. From there we created an ODD to identify how we planned to mark up names, date, 
-                phrases, places, stage directions, and etc. and we used regular expressions to accurately tag all the elements we 
-                were planning to look further into during analysis. After tagging up all key elements and turning all the lyric text 
-                files into XML that kept the song's original format, the song's XML files were transformed using XSLT into HTML files 
-                featuring a JavaScript checklist box to highlight all the names, dates, phrases, and places in each song. </p>
-                
-                <h3>Frequency of Character References and Speeches Network Graphs:</h3>
-              <p class="about">
-                One question we had while analysing the lyrics was about how often characters spoke in the musical and how often characters were 
-                referenced in the musical. We further wanted to investigate who references who as well to see which characters discuss each other
-                and to see which characters talk about themselves. In order to investigate this, a directed network graph was created in cytoscape
-                to show the indegree of how often a character is referenced which is represented by the size of the nodes in the graph and the 
-                outdegree of how often a character speaks which is represented by the color of the nodes in the graph. To compile the information, 
-                XQuery was used to grab all distinct speakers and look down to see specific references to characters the speaker made throughout the 
-                entire musical. A TSV was saved from the output data and that was imported into cytoscape to compile the graph. In cytoscape the edges 
-                which related to each song in the musical were bundled to help provide better readability. Another graph was created without bundling 
-                the edges to create separate network graphs for each song to show which characters referenced who in each song. </p>
+            <p class="about"> To start the project, we took the lyrics for the musical off of the
+                Atlantic Records website and decided to mark them up using TEI. From there we
+                created an ODD to identify which TEI elements we would be using in our project.
+                Within the ODD we created Schemas that would fire on our attributes specific to
+                phrases and names so no spelling errors would occur. and we used regular expressions
+                to accurately tag all the elements we were planning to look further into during
+                analysis. After tagging up all key elements and turning all the lyric text files
+                into XML that kept the song's original format, the song's XML files were transformed
+                using XSLT into HTML files featuring a JavaScript checklist box to highlight all the
+                names, dates, phrases, and places in each song. </p>
+
+            <h3>Frequency of Character References and Speeches Network Graphs:</h3>
+            <p class="about"> One question we had while analysing the lyrics was about how often
+                characters spoke in the musical and how often characters were referenced in the
+                musical. We further wanted to investigate who references who as well to see which
+                characters discuss each other and to see which characters talk about themselves. In
+                order to investigate this, a directed network graph was created in Cytoscape to show
+                the indegree of how often a character is referenced which is represented by the size
+                of the nodes in the graph and the outdegree of how often a character speaks which is
+                represented by the color of the nodes in the graph. To compile the information,
+                XQuery was used to grab all distinct speakers and look down to see specific
+                references to characters the speaker made throughout the entire musical. A TSV was
+                saved from the output data and that was imported into cytoscape to compile the
+                graph. In Cytoscape the edges which related to each song in the musical were bundled
+                to help provide better readability. Another graph was created without bundling the
+                edges to create separate network graphs for each song to show which characters
+                referenced who in each song. A personography table, created using XSLT, lists the
+                distinct names of people refenced by that character, who references that character,
+                and the number of times that character is referenced.</p>
+
+            <h3>Line Graph and Table of Repeated Phrases</h3>
+            <p class="about">One of the goals of the project was to track repeated words/phrases
+                within the musical. We chose eight distinct phrases: my shot, satisifed, helpless,
+                wait, legacy, time, look around, and rise (up). For more information as to why we
+                chose these phrases, please click <a href="vis_Phrases.html">here</a>. To
+                investigate the frequency of these phrases, we created a line graph that would track
+                each phrase in each song over the entire musical. Using XSLT to run over our
+                collection of XML versions of the songs, we created an SVG graph. A corresponding
+                table was created in the same fasion.</p>
+
+            <h3>Map of Places Mentioned in <i>Hamilton: An American Musical</i></h3>
+            <p class="about">To gain a better understanding of the more historical side of the
+                musical, we chose to create a map that would visualize all the places mentioned in
+                    <i>Hamilton</i>. XQuery was used to grab the distinct place names and we used a
+                GPS Visualizer to obtain the geo co-ordinates in the form of a KML file. Using
+                XQuery, a second KML file was produced that contained each place name and the list
+                of songs that place appeared in. From there, an XSLT transformation combined the two
+                KML files into one, which was uploaded onto Google Maps and embedded on our
+                page.</p>
         </div>
         <div class="main" id="aboutopt3">
             <h2>WANT TO LEARN MORE?</h2>
@@ -99,14 +129,12 @@
                     <a href="http://www.voyant-tools.org">Voyant</a>, to help identify recurring
                 phrases, and <a href="http://www.gpsvisualizer.com/geocoder/">GPS Visualizer</a> and
                     <a href="https://www.google.com/maps">Google Maps</a>, to create the map. All
-                images were resourced from <a
-                    href="https://www.google.com"
-                    >Google Images</a>.</p>
-            <p>We love <i>Hamilton</i> and have thoroughly enjoyed creating this site and
+                images were resourced from <a href="https://www.google.com">Google Images</a>.</p>
+            <p class="about">We love <i>Hamilton</i> and have thoroughly enjoyed creating this site and
                 discovering new things about the musical. If you're interested in learning more than
                 what we have to offer check out these sites which provide more information about the
                 musical or analysis of the lyrics:</p>
-            <ul>
+            <ul class="about">
                 <li><a
                         href="https://genius.com/albums/Lin-manuel-miranda/Hamilton-original-broadway-cast-recording"
                         >Genius</a> - Lyrics and Annotations</li>

@@ -139,3 +139,10 @@ a.about:active {
     color: white;
     } 
     
+ul.about{
+   text-indent:20px;
+    font-size:15px;
+    letter-spacing: 1px;
+    line-height: 1.5; 
+}
+    
