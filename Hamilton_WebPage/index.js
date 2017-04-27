@@ -18,7 +18,7 @@ function init() {
                 var thisImage = 0;
       var thisImage = Math.floor(Math.random()*(images.length)) ;
 
-          document.getElementById("rotator").src = images[thisImage];
+          document.getElementById("rotator2").src = images[thisImage];
 
          setTimeout(rotate, 8 * 1000);
           }
