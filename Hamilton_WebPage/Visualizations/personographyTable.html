@@ -6,6 +6,14 @@
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <title>Personography</title>
       <link rel="stylesheet" type="text/css" href="vis.css" />
+      <script type="text/javascript" src="tableSort.js">/* */</script><!-- RJP:2017-04-27: javaScript sorting currently not working -->
+      <style type="text/css">
+            td:nth-child(2), td:nth-child(6), td:nth-child(7) {
+                text-align: right;
+            }
+            th > span {color: white;}
+            th > span:hover {text-decoration: underline; color:black; cursor: pointer;}
+            </style>
    </head>
    <body>
       <div class="menu">
@@ -14,14 +22,14 @@
       <div class="main">
          <div class="main2">
             <h2>Table</h2>
-            <table>
+            <table id="myTable">
                <tr>
-                  <th>Name</th>
+                  <th><span onclick="sortMe(sortName)">Name</span></th>
                   <th>xml:id</th>
-                  <th>Birth</th>
-                  <th>Death</th>
+                  <th><span onclick="sortMe(sortBirth)">Birth</span></th>
+                  <th><span onclick="sortMe(sortDeath)">Death</span></th>
                   <th>Occupation</th>
-                  <th>No. of Times Referenced</th>
+                  <th><span onclick="sortMe(sortNum)">No. of Times Referenced</span></th>
                   <th>People Referenced</th>
                   <th>Referenced By</th>
                </tr>
