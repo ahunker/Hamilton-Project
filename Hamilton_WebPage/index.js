@@ -13,5 +13,14 @@ function init() {
 
          setTimeout(rotate, 8 * 1000);
           }
+           function rotate2() {
+          var images = new Array ('17.jpg', '18.jpg', '19.jpg', '20.jpg', '21.jpg', '22.jpg', '23.jpg', '24.jpg', '25.jpg', '26.jpg', '27.jpg', '28.jpg', '29.jpg', '30.jpg', '31.jpg', '32.jpg')
+                var thisImage = 0;
+      var thisImage = Math.floor(Math.random()*(images.length)) ;
+
+          document.getElementById("rotator").src = images[thisImage];
+
+         setTimeout(rotate, 8 * 1000);
+          }
 
        
