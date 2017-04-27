@@ -111,3 +111,8 @@ span.placeName.on {color:#ffee6d;font-weight: bold;}
 span.persName.on {color:#bb0000;font-weight: bold;}
 span.date.on {color:#e6e6e6;font-weight: bold;}
 span.phr.on {color:#0033cc; font-weight: bold;}
+
+h4.castList{
+    margin-bottom:-10px;
+    
+}
