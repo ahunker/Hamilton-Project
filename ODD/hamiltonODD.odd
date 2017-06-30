@@ -39,7 +39,7 @@
                   <sch:pattern>
                      <sch:rule context="*[@type eq 'emotion']">
                      <sch:report test="not(@ana)">
-                        rs type="emotion must have its part of speech coded in @ana!</sch:report>
+                        When you use the @type attribute to signal emotion, you must code its part of speech in @ana!</sch:report>
                   </sch:rule>
                   </sch:pattern>
                </constraint>
