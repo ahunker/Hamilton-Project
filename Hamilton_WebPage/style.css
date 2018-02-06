@@ -5,7 +5,7 @@ html{
 
 body{
     font-family: georgia, serif;
-    background-image: url("back2.jpg");
+    background-color: goldenrod;
     color: white;
     width: 100%;
     margin: 0px;
@@ -56,17 +56,17 @@ hr {
 }
 
 .topnav a:hover{
-    background-color: white;
+    background-color: #705410;
     color: black;
 }
 
 .topnav a.active{
-    background-color: white;
+    background-color: #f2dca6;
     color: black;
 }
 
 body.menu{
-    background-color:goldenrod; 
+    background-image:url("back2.jpg"); 
 }
 
 /*LINKS*/
@@ -76,7 +76,7 @@ a{
 
 /* mouse over link */
 a:hover{
-    color: white;
+    color: #705410;
 }
 /* selected link */
 a:active{
@@ -116,24 +116,27 @@ div.main{
     padding-right: 5%;
     padding-top: 1%;
     padding-bottom: 1%;
-    width: 35%;
+    width: 30%;
     margin-left: 5%;
     margin-top: 2%;
     margin-bottom: 2%;
     float: left;
-    background: goldenrod;
+    background: #f2dca6;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
 }
 
 div.main2{
     text-align: left;
     letter-spacing: 2px;
     line-height: 1.5;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 1%;
     padding-bottom: 1%;
-    background: goldenrod;
-}
+    background: #f2dca6;
+    }
 
 p.about{
     text-indent: 15px;
