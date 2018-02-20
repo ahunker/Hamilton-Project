@@ -1,11 +1,12 @@
 html{
    margin: 0px;
     padding: 0px;
+    background-color:goldenrod;
     }
     
 body{
     font-family: georgia, serif;
-    background-image: url("back2.jpg");
+    
     color: white;
     width:100%;
     margin: 0px;
@@ -14,44 +15,90 @@ body{
 
 
 /*Menu at top of every page*/
+
 h1{
     font-size: 70px;
     text-align: center;
     font-family: "Courier New";
+    color:black;
 }
-hr {
-    border-color: black;
-    border-width: 5px;
-    border-style: solid;
-}
-p.menu{
+
+div.topnav{
     font-size: 20px;
     font-family: "Courier New";
     text-align: center;
     color: white;
-}
-img.CCL{
- width:55px;
- height:15px;
+    padding: 10px;
 }
 
+img.CCL{
+    width: 55px;
+    height: 15px;
+}
+
+hr {
+    border-color: black;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a{
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover{
+    background-color: #705410;
+    color: black;
+}
+
+.topnav a.active{
+    background-color: #f2dca6;
+    color: black;
+}
+
+/*body.menu{
+    background-image:url("back2.jpg");
+    
+     
+}*/
+
+.background{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    z-index: -1; /* Ensure div tag stays behind content; -999 might work, too. */
+}
+.stretch{
+    width: 100%;
+    height: 100%;
+}
 
 /*LINKS*/
 a{
-    color:white;
-}
-/* visited link */
-a:visited {
     color: black;
 }
+
 /* mouse over link */
-a:hover {
-    color: black;
+a:hover{
+    color: #705410;
 }
 /* selected link */
-a:active {
+a:active{
     color: white;
-    }
+}
 
 
 
