@@ -30,7 +30,8 @@
             <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name rs date desc head lg l lb note num p q ref resp respStmt sp speaker stage textLang otherLangs foreign"/>
             <moduleRef key="analysis" include="s cl phr w"/>
             <moduleRef key="drama" except="actor camera caption sound tech view prologue epilogue move performance"/>
-            <moduleRef key="header"/>         
+            <moduleRef key="header"/> 
+            <moduleRef key="linking" include="seg"/>
             <moduleRef key="namesdates" include="persName placeName roleName geo place listPlace"/>
             <moduleRef key="textstructure" include="TEI back body div front floatingText text"/>
             
@@ -54,7 +55,20 @@
                           <sch:assert test="every $token in $tokens satisfies $token = $si">The @who attribute (after the hashtag, #) must match a defined @xml:id in the personography file!</sch:assert></sch:rule>
                      
                   </sch:pattern></constraint></constraintSpec>
-      <elementSpec ident="sp" module="core" mode="change">
+      
+            <elementSpec ident="seg" module="linking" mode="change">
+               <attList>
+                  <attDef ident="type" mode="replace" usage="req">
+                     <datatype><rng:text/></datatype>
+                     <valList type="semi">
+                        <valItem ident="#fiction"/>
+                        <valItem ident="#fact"/>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+            
+            <elementSpec ident="sp" module="core" mode="change">
          <attList>
             <attDef ident="who" mode="replace" usage="req">
                <datatype><rng:text/></datatype>
