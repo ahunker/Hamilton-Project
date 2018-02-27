@@ -63,6 +63,7 @@
                      <valList type="semi">
                         <valItem ident="#fiction"/>
                         <valItem ident="#fact"/>
+                        <valItem ident="#ambiguous"/>
                      </valList>
                   </attDef>
                </attList>
