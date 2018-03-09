@@ -42,7 +42,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I practiced law, <persName ref="#burr">Burr</persName> worked next door</l>
+                    <l><seg type="#ambiguous">I practiced law, <persName ref="#burr">Burr</persName> worked next door</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -62,7 +62,7 @@
                     <speaker>HAMILTON</speaker>
                     <l>Gentlemen of the jury, I’m curious, bear with me</l>
                     <l>Are you aware that we’re making hist’ry?</l>
-                    <l>This is the first murder trial of our brand-new nation</l>
+                    <l><seg type="#ambiguous">This is the first murder trial of our brand-new nation</seg></l>
                     <l>The liberty behind</l>
                     <l>Deliberation—</l>
                 </sp>
@@ -168,7 +168,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I was chosen for the Constitutional Convention!</l>
+                    <l><seg type="#ambiguous">I was chosen for the Constitutional Convention!</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -188,7 +188,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Goes and proposes his own form of government!</l>
+                    <l><seg type="#ambiguous">Goes and proposes his own form of government!</seg></l>
                 </sp>
 
                 <sp who="#company">
@@ -208,7 +208,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Talks for six hours! The convention is listless!</l>
+                    <l><seg type="#ambiguous">Talks for six hours!</seg> The convention is listless!</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -343,7 +343,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>A series of essays, anonymously published</l>
+                    <l><seg type="#ambiguous">A series of essays, anonymously published</seg></l>
                     <l>Defending the document to the public</l>
                 </sp>
 
@@ -507,14 +507,14 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><persName ref="#hamilton">Alexander </persName>joins forces with <persName ref="#madison">James Madison</persName> and <persName ref="#jay">John
+                    <l><seg type="#ambiguous"><persName ref="#hamilton">Alexander </persName>joins forces with <persName ref="#madison">James Madison</persName> and <persName ref="#jay">John
                             Jay</persName> to write a series of essays defending the new
                             <placeName>United States</placeName> Constitution, entitled The
                         Federalist Papers. The plan was to write a total of twenty-five essays, the
                         work divided evenly among the three men. In the end, they wrote eighty-five
                         essays, in the span of six months. <persName ref="#jay">John Jay</persName>
                         got sick after writing five. <persName ref="#madison">James
-                            Madison</persName> wrote twenty-nine. <persName ref="#hamilton">Hamilton</persName> wrote the other fifty-one!</l>
+                            Madison</persName> wrote twenty-nine. <persName ref="#hamilton">Hamilton</persName> wrote the other fifty-one!</seg></l>
                     <l>How do you write like you’re</l>
                 </sp>
 
@@ -564,7 +564,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>They are asking me to lead</l>
+                    <l><seg type="#ambiguous">They are asking me to lead</seg></l>
                     <l>I am doing the best I can</l>
                     <l>To get the people that I need</l>
                     <l>I’m asking you to be my right hand man</l>
@@ -592,7 +592,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Sir, do you want me to run the Treasury or State department?</l>
+                    <l><seg type="#ambiguous">Sir, do you want me to run the Treasury or State department?</seg></l>
                 </sp>
 
                 <sp who="#washington">

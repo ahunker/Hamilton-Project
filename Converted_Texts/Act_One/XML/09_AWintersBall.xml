@@ -32,7 +32,7 @@
                     <l>Grow into more of a phenomenon?</l>
                     <l>Watch this obnoxious, arrogant, loudmouth bother</l>
                     <l>Be seated at the right hand of the father</l>
-                    <l><persName ref="#washington">Washington</persName> hires <persName ref="#hamilton">Hamilton</persName> right on sight</l>
+                    <l><seg type="#ambiguous"><persName ref="#washington">Washington</persName> hires <persName ref="#hamilton">Hamilton</persName> right on sight</seg></l>
                     <l>But <persName ref="#hamilton">Hamilton</persName> still wants to fight, not
                         write</l>
                     <l>Now <persName ref="#hamilton">Hamilton’s</persName> skill with a quill is
@@ -43,7 +43,7 @@
 
                 <sp who="#men">
                     <speaker>MEN</speaker>
-                    <l>Ladies!</l>
+                    <l><seg type="#ambiguous">Ladies!</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -69,8 +69,8 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>They delighted and distracted him</l>
-                    <l><persName ref="#marthaWashington">Martha Washington</persName> named her
-                        feral tomcat after him!</l>
+                    <l><seg type="#ambiguous"><persName ref="#marthaWashington">Martha Washington</persName> named her
+                        feral tomcat after him!</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -86,8 +86,8 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>A winter’s ball</l>
-                    <l>And the <persName ref="#schuylerSis">Schuyler sisters</persName> are the envy
-                        of all</l>
+                    <l><seg type="#ambiguous">And the <persName ref="#schuylerSis">Schuyler sisters</persName> are the envy
+                        of all</seg></l>
                     <l>Yo, if you can marry a sister, you’re rich, son</l>
                 </sp>
 

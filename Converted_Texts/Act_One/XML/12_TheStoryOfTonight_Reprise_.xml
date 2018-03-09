@@ -57,7 +57,7 @@
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>There’s hope for our ass, after all!</l>
+                    <l><seg type="#ambiguous">There’s hope for our ass, after all!</seg></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -123,7 +123,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I didn’t think that you would make it</l>
+                    <l><seg type="#ambiguous">I didn’t think that you would make it</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -158,7 +158,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Ignore them. Congrats to you, Lieutenant Colonel</l>
+                    <l>Ignore them. <seg type="#ambiguous">Congrats to you, Lieutenant Colonel</seg></l>
                     <l>I wish I had your command instead of manning <persName ref="#washington">George’s</persName> journal</l>
                 </sp>
 
@@ -252,7 +252,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>She’s married to a British officer</l>
+                    <l><seg type="#ambiguous">She’s married to a British officer</seg></l>
                 </sp>
 
                 <sp who="#hamilton">

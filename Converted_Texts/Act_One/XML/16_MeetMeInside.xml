@@ -32,7 +32,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>You shot him in the side!</l>
+                    <l><seg type="#ambiguous">You shot him in the side!</seg></l>
                     <l>Yes, he yields!</l>
                 </sp>
 
@@ -53,7 +53,7 @@
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l>Here comes the <persName ref="#washington">General</persName>!</l>
+                    <l><seg type="#ambiguous">Here comes the <persName ref="#washington">General</persName>!</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -112,7 +112,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Don’t call me son</l>
+                    <l><seg type="#ambiguous">Don’t call me son</seg></l>
                 </sp>
 
                 <sp who="#washington">
@@ -160,7 +160,7 @@
                     <l><persName ref="#lee">Charles Lee</persName>, <persName ref="#conway">Thomas
                             Conway</persName></l>
                     <l>These men take your name and they rake it</l>
-                    <l>Through the mud</l>
+                    <l><seg type="#ambiguous">Through the mud</seg></l>
                 </sp>
 
                 <sp who="#washington">
@@ -208,7 +208,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>Go home, <persName ref="#hamilton">Alexander</persName></l>
+                    <l><seg type="#ambiguous">Go home, <persName ref="#hamilton">Alexander</persName></seg></l>
                     <l>That’s an order from your commander</l>
                 </sp>
 

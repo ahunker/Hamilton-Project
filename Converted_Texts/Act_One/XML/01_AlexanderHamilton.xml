@@ -23,20 +23,20 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>How does a bastard, orphan, son of a whore and a</l>
+                    <l><seg type="#ambiguous">How does a bastard, orphan, son of a whore</seg> and a</l>
                     <l>Scotsman, dropped in the middle of a forgotten</l>
-                    <l>Spot in the <placeName>Caribbean</placeName> by providence, impoverished, in
+                    <l><seg type="#ambiguous">Spot in the <placeName>Caribbean</placeName></seg> by providence, impoverished, in
                         squalor</l>
                     <l>Grow up to be a hero and a scholar?</l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>The ten-dollar Founding Father without a father</l>
+                    <l><seg type="#ambiguous">The ten-dollar Founding Father without a father</seg></l>
                     <l>Got a lot farther by working a lot harder</l>
                     <l>By being a lot smarter</l>
                     <l>By being a self-starter</l>
-                    <l>By fourteen, they placed him in charge of a trading charter</l>
+                    <l><seg type="#ambiguous">By fourteen, they placed him in charge of a trading charter</seg></l>
                 </sp>
 
                 <sp who="#jefferson">
@@ -49,16 +49,16 @@
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Then a hurricane came, and devastation reigned</l>
+                    <l><seg type="#ambiguous">Then a hurricane came, and devastation reigned</seg></l>
                     <l>Our man saw his future drip, dripping down the drain</l>
                     <l>Put a pencil to his temple, connected it to his brain</l>
-                    <l>And he wrote his first refrain, a testament to his pain</l>
+                    <l><seg type="#ambiguous">And he wrote his first refrain</seg>, a testament to his pain</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Well, the word got around, they said, “This kid is insane, man”</l>
-                    <l>Took up a collection just to send him to the mainland</l>
+                    <l><seg type="#ambiguous">Took up a collection just to send him to the mainland</seg></l>
                     <l>“Get your education, don’t forget from whence you came, and</l>
                     <l>The world's gonna know your name. What’s your name, man?”</l>
                 </sp>
@@ -73,7 +73,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>When he was ten his father split, full of it, debt-ridden</l>
+                    <l><seg type="#ambiguous">When he was ten his father split, full of it, debt-ridden</seg></l>
                     <l>Two years later, see <persName ref="#hamilton">Alex</persName> and his mother
                         bed-ridden</l>
                     <l>Half-dead sittin' in their own sick, the scent thick</l>
@@ -83,13 +83,13 @@
                     <speaker>COMPANY</speaker>
                     <stage type="delivery">Except Hamilton</stage>
                     <stage type="delivery">whispering</stage>
-                    <l>And <persName ref="#hamilton">Alex</persName> got better but his mother went
-                        quick</l>
+                    <l>And <seg type="#ambiguous"><persName ref="#hamilton">Alex</persName> got better but his mother went
+                        quick</seg></l>
                 </sp>
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>Moved in with a cousin, the cousin committed suicide</l>
+                    <l><seg type="#ambiguous">Moved in with a cousin, the cousin committed suicide</seg></l>
                     <l>Left him with nothin’ but ruined pride, something new inside</l>
                     <l>A voice saying</l>
                 </sp>
@@ -110,7 +110,7 @@
                     <l>For someone less astute</l>
                     <l>He woulda been dead or destitute</l>
                     <l>Without a cent of restitution</l>
-                    <l>Started workin’, clerkin’ for his late mother’s landlord</l>
+                    <l><seg type="#ambiguous">Started workin’, clerkin’ for his late mother’s landlord</seg></l>
                     <l>Tradin’ sugar cane and rum and all the things he can’t afford</l>
                 </sp>
 
@@ -141,7 +141,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>The bow of a ship headed for a new land</l>
+                    <l><seg type="#ambiguous">The bow of a ship headed for a new land</seg></l>
                     <l>In <placeName>New York</placeName> you can be a new man </l>
                 </sp>
 

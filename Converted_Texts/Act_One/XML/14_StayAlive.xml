@@ -39,12 +39,12 @@
                     <speaker>HAMILTON</speaker>
                     <l>I have never seen the <persName ref="#washington">General</persName> so
                         despondent</l>
-                    <l>I have taken over writing all his correspondence</l>
+                    <l><seg type="#ambiguous">I have taken over writing all his correspondence</seg></l>
                     <l>Congress writes, “<persName ref="#washington">George</persName>, attack the
                         British forces.”</l>
-                    <l>I shoot back, we have resorted to eating our horses</l>
+                    <l><seg type="#ambiguous">I shoot back, we have resorted to eating our horses</seg></l>
                     <l>Local merchants deny us equipment, assistance</l>
-                    <l>They only take British money, so sing a song of sixpence</l>
+                    <l><seg type="#ambiguous">They only take British money,</seg> so sing a song of sixpence</l>
                 </sp>
 
                 <sp who="#washington">
@@ -123,19 +123,19 @@
 
                 <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
-                    <l>I go back to <placeName>New York</placeName> and my apprenticeship</l>
+                    <l><seg type="#ambiguous">I go back to <placeName>New York</placeName> and my apprenticeship</seg></l>
                 </sp>
 
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
-                    <l>I ask for French aid, I pray that <placeName>France</placeName> has sent a
+                    <l><seg type="#ambiguous">I ask for French aid,</seg> I pray that <placeName>France</placeName> has sent a
                         ship</l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>I stay at work with <persName ref="#hamilton">Hamilton</persName></l>
-                    <l>We write essays against slavery</l>
+                    <l><seg type="#ambiguous">We write essays against slavery</seg></l>
                     <l>And every day’s a test of our camaraderie</l>
                     <l>And bravery</l>
                 </sp>
@@ -182,7 +182,7 @@
 
                 <sp who="#lee">
                     <speaker>LEE</speaker>
-                    <l>I’m a General. Whee!!!!</l>
+                    <l><seg type="#ambiguous">I’m a General. Whee!!!!</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -192,7 +192,7 @@
 
                 <sp who="#hamilton #lafayette #laurens">
                     <speaker>HAMILTON/LAFAYETTE/LAURENS</speaker>
-                    <l>He shits the bed at the Battle of <placeName>Monmouth</placeName></l>
+                    <l><seg type="#ambiguous">He shits the bed at the Battle of <placeName>Monmouth</placeName></seg></l>
                 </sp>
 
                 <sp who="#washington">
@@ -249,7 +249,7 @@
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>A thousand soldiers die in a hundred degree heat</l>
+                    <l><seg type="#ambiguous">A thousand soldiers die in a hundred degree heat</seg></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -261,7 +261,7 @@
                     <speaker>HAMILTON</speaker>
                     <l><persName ref="#lee">Charles Lee</persName> was left behind</l>
                     <l>Without a pot to piss in</l>
-                    <l>He started sayin’ this to anybody who would listen:</l>
+                    <l><seg type="#ambiguous">He started sayin’ this to anybody who would listen:</seg></l>
                 </sp>
 
                 <sp who="#lee">
@@ -270,8 +270,8 @@
                         devices</l>
                     <l>Indecisive, from crisis to crisis</l>
                     <l>The best thing he can do for the revolution</l>
-                    <l>Is turn n’ go back to plantin’ tobacco in <placeName>Mount
-                        Vernon</placeName></l>
+                    <l>Is turn n’ <seg type="#ambiguous">go back to plantin’ tobacco in <placeName>Mount
+                        Vernon</placeName></seg></l>
                 </sp>
 
                 <sp who="#company">
@@ -307,7 +307,7 @@
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l>Then I’ll do it</l>
+                    <l><seg type="#ambiguous">Then I’ll do it</seg></l>
                     <l><persName ref="#hamilton">Alexander</persName>, you’re the closest friend
                         I’ve got</l>
                 </sp>

@@ -79,7 +79,7 @@
 
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
-                    <l>I go to <placeName>France</placeName> for more funds</l>
+                    <l><seg type="#ambiguous">I go to <placeName>France</placeName> for more funds</seg></l>
                 </sp>
 
                 <sp who="#company">
@@ -101,8 +101,8 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>We rendezvous with <persName ref="#rochambeau">Rochambeau</persName>,
-                        consolidate their gifts</l>
+                    <l><seg type="#ambiguous">We rendezvous with <persName ref="#rochambeau">Rochambeau</persName>,
+                        consolidate their gifts</seg></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -125,7 +125,7 @@
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
                     <l>Sir, he knows what to do in a trench</l>
-                    <l>Ingenuitive and fluent in French, I mean—</l>
+                    <l>Ingenuitive and <seg type="#ambiguous">fluent in French</seg>, I mean—</l>
                 </sp>
 
                 <sp who="#washington #company">
@@ -227,7 +227,7 @@
                     <l>Troops are waiting in the field for you</l>
                     <l>If you join us right now, together we can turn the tide</l>
                     <l>Oh, <persName ref="#hamilton">Alexander Hamilton</persName></l>
-                    <l>I have soldiers that will yield for you</l>
+                    <l><seg type="#ambiguous">I have soldiers that will yield for you</seg></l>
                     <l>If we manage to get this right</l>
                     <l>They’ll surrender by early light</l>
                     <l>The world will never be the same, <persName ref="#hamilton">Alexander</persName>…</l>

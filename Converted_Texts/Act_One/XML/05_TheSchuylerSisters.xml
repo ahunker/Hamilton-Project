@@ -32,10 +32,10 @@
                     <l>They pull up in their carriages and gawk</l>
                     <l>At the students in the common</l>
                     <l>Just to watch them talk</l>
-                    <l>Take <persName ref="#philipS">Philip Schuyler</persName>: the man is
-                        loaded</l>
+                    <l><seg type="#ambiguous">Take <persName ref="#philipS">Philip Schuyler</persName>: the man is
+                        loaded</seg></l>
                     <l>Uh-oh, but little does he know that</l>
-                    <l>His daughters, <persName ref="#peggy">Peggy</persName>, <persName ref="#angelica">Angelica</persName>, <persName ref="#eliza">Eliza</persName></l>
+                    <l><seg type="#ambiguous">His daughters, <persName ref="#peggy">Peggy</persName>, <persName ref="#angelica">Angelica</persName>, <persName ref="#eliza">Eliza</persName></seg></l>
                     <l>Sneak into the city just to watch all the guys at—</l>
                 </sp>
 
@@ -230,13 +230,13 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Ah, so you’ve discussed me</l>
-                    <l>I’m a trust fund, baby, you can trust me!</l>
+                    <l><seg type="#ambiguous">I’m a trust fund</seg>, baby, you can trust me!</l>
                 </sp>
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l>I’ve been reading Common Sense by <persName ref="#paine">Thomas
-                            Paine</persName></l>
+                    <l><seg type="#ambiguous">I’ve been reading Common Sense by <persName ref="#paine">Thomas
+                        Paine</persName></seg></l>
                     <l>So men say that I’m intense or I’m insane</l>
                     <l>You want a revolution? I want a revelation</l>
                     <l>So listen to my declaration:</l>

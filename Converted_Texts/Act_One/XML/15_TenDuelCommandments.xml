@@ -37,7 +37,7 @@
 
                 <sp who="#hamilton #burr #laurens #lee">
                     <speaker>HAMILTON/BURR/LAURENS/LEE</speaker>
-                    <l>It’s the Ten Duel Commandments</l>
+                    <l><seg type="#ambiguous">It’s the Ten Duel Commandments</seg></l>
                 </sp>
 
                 <sp who="#company">
@@ -176,7 +176,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Sure</l>
-                    <l>But your man has to answer for his words, <persName ref="#burr">Burr</persName></l>
+                    <l><seg type="#ambiguous">But your man has to answer for his words, <persName ref="#burr">Burr</persName></seg></l>
                 </sp>
 
                 <sp who="#burr">

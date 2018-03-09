@@ -44,7 +44,7 @@
                     <l>Oh, well, sure, sir</l>
                     <l>I’m <persName ref="#hamilton">Alexander Hamilton</persName>, I’m at your
                         service, sir</l>
-                    <l>I have been looking for you</l>
+                    <l><seg type="#ambiguous">I have been looking for you</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -62,20 +62,20 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>You punched the bursar</l>
+                    <l><seg type="#ambiguous">You punched the bursar</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Yes!</l>
-                    <l>I wanted to do what you did. Graduate in two, then join the revolution. He
+                    <l><seg type="#ambiguous">I wanted to do what you did. Graduate in two, then join the revolution.</seg> He
                         looked at me like I was stupid, I’m not stupid</l>
                     <l>So how’d you do it? How’d you graduate so fast?</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>It was my parents’ dying wish before they passed</l>
+                    <l><seg type="#ambiguous">It was my parents’ dying wish before they passed</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -99,7 +99,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>While we’re talking, let me offer you some free advice</l>
-                    <l>Talk less</l>
+                    <l><seg type="#ambiguous">Talk less</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -171,7 +171,7 @@
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
                     <l>Oui oui, mon ami, je m’appelle <persName ref="#lafayette">Lafayette</persName>!</l>
-                    <l>The Lancelot of the revolutionary set!</l>
+                    <l><seg type="#ambiguous">The Lancelot of the revolutionary set!</seg></l>
                     <l>I came from afar just to say “Bonsoir!”</l>
                     <l>Tell the King “Casse toi!” Who’s the best?</l>
                     <l>C’est moi!</l>

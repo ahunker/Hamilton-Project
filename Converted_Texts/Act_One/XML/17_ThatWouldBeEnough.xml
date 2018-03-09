@@ -49,7 +49,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I wrote to the <persName ref="#washington">General</persName> a month ago</l>
+                    <l><seg type="#ambiguous">I wrote to the <persName ref="#washington">General</persName> a month ago</seg></l>
                 </sp>
 
                 <sp who="#hamilton">

@@ -27,10 +27,10 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><persName ref="#theodosiaMother">Theodosia</persName> writes me a letter
-                        every day</l>
+                    <l><seg type="#ambiguous"><persName ref="#theodosiaMother">Theodosia</persName> writes me a letter
+                        every day</seg></l>
                     <l>I'm keeping the bed warm while her husband is away</l>
-                    <l>He's on the British side in <placeName>Georgia</placeName></l>
+                    <l><seg type="#ambiguous">He's on the British side in <placeName>Georgia</placeName></seg></l>
                     <l>He's trying to keep the colonies in line</l>
                     <l>But he can keep all of <placeName>Georgia</placeName></l>
                     <l><persName ref="#theodosiaMother">Theodosia</persName>, she's mine</l>
@@ -46,7 +46,7 @@
                     <l>When so many have tried</l>
                     <l><phr type="#wait">Then I'm willing to wait for it</phr></l>
                     <l><phr type="#wait">I'm willing to wait for it</phr></l>
-                    <l>My grandfather was a fire and brimstone preacher</l>
+                    <l><seg type="#ambiguous">My grandfather was a fire and brimstone preacher</seg></l>
                 </sp>
 
                 <sp who="#men">
@@ -68,7 +68,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>My mother was a genius</l>
+                    <l><seg type="#ambiguous">My mother was a genius</seg></l>
                 </sp>
 
                 <sp who="#women">
@@ -78,7 +78,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>My father commanded respect</l>
+                    <l><seg type="#ambiguous">My father commanded respect</seg></l>
                 </sp>
 
                 <sp who="#men">
@@ -89,7 +89,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>When they died they left no instructions</l>
-                    <l>Just a <phr type="#legacy">legacy</phr> to protect</l>
+                    <l><seg type="#ambiguous">Just a <phr type="#legacy">legacy</phr> to protect</seg></l>
                 </sp>
 
                 <sp who="#burr #ensemble">

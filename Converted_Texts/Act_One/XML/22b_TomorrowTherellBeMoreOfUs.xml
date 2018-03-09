@@ -31,7 +31,7 @@
                 
                 <sp who="#eliza">
                     <speaker>ELIZA HAMILTON</speaker>
-                    <l><persName ref="#hamilton">Alexander</persName>? There's a letter for you</l>
+                    <l><seg type="#ambiguous"><persName ref="#hamilton">Alexander</persName>? There's a letter for you</seg></l>
                 </sp>
                 
                 <sp who="#hamilton">
@@ -71,8 +71,8 @@
                 
                 <sp who="#eliza">
                     <speaker>ELIZA HAMILTON</speaker>
-                    <l>"On Tuesday the 27th, my son was killed in a gunfight against British troops retreating from <placeName>South Carolina</placeName>. The war was already over. As you know, <persName ref="#laurens">John</persName> dreamed of emancipating and recruiting 3000 men for the first all-black military regiment.
-                        His dream of freedom for these men dies with him."</l>
+                    <l><seg type="#ambiguous">"On Tuesday the 27th, my son was killed in a gunfight against British troops retreating from <placeName>South Carolina</placeName>. The war was already over. As you know, <persName ref="#laurens">John</persName> dreamed of emancipating and recruiting 3000 men for the first all-black military regiment.
+                        His dream of freedom for these men dies with him."</seg></l>
                 </sp>
                 
                 <sp who="#laurens">
