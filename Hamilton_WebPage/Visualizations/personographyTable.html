@@ -5,15 +5,6 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <title>Personography</title>
-      <link rel="stylesheet" type="text/css" href="vis.css" />
-      <script type="text/javascript" src="tableSort.js">/* */</script><!-- RJP:2017-04-27: javaScript sorting currently not working -->
-      <style type="text/css">
-            td:nth-child(2), td:nth-child(6), td:nth-child(7) {
-                text-align: right;
-            }
-            th > span {color: white;}
-            th > span:hover {text-decoration: underline; color:black; cursor: pointer;}
-            </style>
    </head>
    <body>
       <div class="menu">
@@ -22,27 +13,21 @@
       <div class="main">
          <div class="main2">
             <h2>Table</h2>
-            <table id="myTable">
+            <table>
                <tr>
-                  <th><span onclick="sortMe(sortName)">Name</span></th>
+                  <th>Name</th>
                   <th>xml:id</th>
-                  <th><span onclick="sortMe(sortBirth)">Birth</span></th>
-                  <th><span onclick="sortMe(sortDeath)">Death</span></th>
-                  <th>Occupation</th>
-                  <th><span onclick="sortMe(sortNum)">No. of Times Referenced</span></th>
+                  <th>No. of Times Referenced</th>
                   <th>People Referenced</th>
                   <th>Referenced By</th>
                </tr>
                <tr>
                   <td>Alexander Hamilton</td>
                   <td>hamilton</td>
-                  <td>1757-01-11 - Charlestown, Nevis, British West Indies</td>
-                  <td>1804-07-12 - New York City, New York, U.S.</td>
-                  <td>Politician, Lawyer, Author, Military Officer</td>
                   <td>124</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>burr</li>
                         <li>kingGeorge</li>
@@ -89,13 +74,10 @@
                <tr>
                   <td>Aaron Burr</td>
                   <td>burr</td>
-                  <td>1756-02-06 - Newark, New Jersey, British America</td>
-                  <td>1836-09-14 - New York City, New York, U.S.</td>
-                  <td>Politician, Lawyer, Military Officer</td>
                   <td>68</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>philipS</li>
                         <li>peggy</li>
                         <li>angelica</li>
@@ -142,13 +124,10 @@
                <tr>
                   <td>George Washington - Other names/titles: General, Mr. President</td>
                   <td>washington</td>
-                  <td>1732-02-22 - Bridges Creek, Colony of Virginia, British America</td>
-                  <td>1799-12-14 - Mount Vernon, Virginia, U.S.</td>
-                  <td>Politician, Plantation Owner, Military Officer</td>
                   <td>47</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>burr</li>
                         <li>green</li>
@@ -178,13 +157,10 @@
                <tr>
                   <td>Hercules Mulligan</td>
                   <td>mulligan</td>
-                  <td>1740-09-25 - Coleraine, County Londonderry, Ireland</td>
-                  <td>1825-03-04 - Unknown</td>
-                  <td>Tailor, Military Intelligence Officer</td>
                   <td>4</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>mulligan</li>
                         <li>burr</li>
                         <li>hamilton</li>
@@ -201,13 +177,10 @@
                <tr>
                   <td>Marie-Joseph Paul Yves Roch Gilbert du Motier de Lafayette - Other names/titles: Marquis de Lafayette</td>
                   <td>lafayette</td>
-                  <td>1757-09-06 - Chavaniac, France</td>
-                  <td>1834-05-20 - Paris, France</td>
-                  <td>Politician, Military Officer</td>
                   <td>14</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lafayette</li>
                         <li>hamilton</li>
                         <li>burr</li>
@@ -226,13 +199,10 @@
                <tr>
                   <td>John Laurens</td>
                   <td>laurens</td>
-                  <td>1754-10-28 - Charleston, Province of South Carolina, British North America</td>
-                  <td>1782-08-27 - Combahee River, South Carolina, U.S.</td>
-                  <td>Military Officer</td>
                   <td>7</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>laurens</li>
                         <li>sAdams</li>
                         <li>burr</li>
@@ -251,13 +221,10 @@
                <tr>
                   <td>George William Frederick III  - Other names/titles: King</td>
                   <td>kingGeorge</td>
-                  <td>1738-06-04 - Norfolk House, St. James's Square, London</td>
-                  <td>1820-01-29 - Windsor Castle, Windsor, Berkshire</td>
-                  <td>King</td>
                   <td>6</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>washington</li>
                         <li>jAdams</li>
                      </ul>
@@ -274,13 +241,10 @@
                <tr>
                   <td>Samuel Seabury</td>
                   <td>seabury</td>
-                  <td>1729-11-30 - Groton, Connecticut</td>
-                  <td>1796-02-25 - New London, Connecticut</td>
-                  <td>Clergy</td>
                   <td>1</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>seabury</li>
                         <li>kingGeorge</li>
                      </ul>
@@ -294,13 +258,10 @@
                <tr>
                   <td>Charles Lee</td>
                   <td>lee</td>
-                  <td>1731-01-26 - Darnhall, Cheshire, England</td>
-                  <td>1782-10-02 - Christ Church, Philadelphia</td>
-                  <td>Military Officer</td>
                   <td>10</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lee</li>
                         <li>washington</li>
                      </ul>
@@ -317,13 +278,10 @@
                <tr>
                   <td>Elizabeth Schuyler Hamilton</td>
                   <td>eliza</td>
-                  <td>1757-08-09 - Albany, Province of New York</td>
-                  <td>1854-11-09 - Washington D.C., U.S.</td>
-                  <td>Philanthropist</td>
                   <td>31</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>eliza</li>
                         <li>angelica</li>
@@ -348,13 +306,10 @@
                <tr>
                   <td>Angelica Schuyler Church</td>
                   <td>angelica</td>
-                  <td>1756-02-20 - Albany, Province of New York</td>
-                  <td>1814-03-13 - New York City, New York, U.S.</td>
-                  <td></td>
                   <td>32</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>eliza</li>
                         <li>burr</li>
@@ -381,13 +336,10 @@
                <tr>
                   <td>Margarita Schuyler Van Rensselaer</td>
                   <td>peggy</td>
-                  <td>1758-09-24 - Albany, Province of New York</td>
-                  <td>1801-03-14 - Albany, New York, U.S.</td>
-                  <td></td>
                   <td>5</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>peggy</li>
                         <li>schuylerSis</li>
                      </ul>
@@ -403,13 +355,10 @@
                <tr>
                   <td>Thomas Jefferson</td>
                   <td>jefferson</td>
-                  <td>1743-04-13 - Shadwell, Virginia, British America</td>
-                  <td>1826-07-04 - Charlottesville, Virginia, U.S.</td>
-                  <td>Politician, Author, Diplomat, Lawyer, Plantation Owner</td>
                   <td>50</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lafayette</li>
                         <li>washington</li>
                         <li>sally</li>
@@ -438,13 +387,10 @@
                <tr>
                   <td>James Madison</td>
                   <td>madison</td>
-                  <td>1700 - </td>
-                  <td>1800 - </td>
-                  <td>Politician</td>
                   <td>13</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>jefferson</li>
                         <li>hamilton</li>
                         <li>burr</li>
@@ -464,13 +410,10 @@
                <tr>
                   <td>Philip Hamilton</td>
                   <td>philipH</td>
-                  <td>1782-01-22 - Albany, New York</td>
-                  <td>1801-11-24 - Weehawken, New Jersey</td>
-                  <td></td>
                   <td>8</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>philipH</li>
                         <li>philipS</li>
                         <li>burr</li>
@@ -488,9 +431,6 @@
                <tr>
                   <td>Maria Lewis Reynolds</td>
                   <td>maria</td>
-                  <td>1768-03-30 - New York City, New York</td>
-                  <td>1828-03-25 - Unknown</td>
-                  <td></td>
                   <td>1</td>
                   <td>
                      <ul></ul>
@@ -504,13 +444,10 @@
                <tr>
                   <td>James Reynolds</td>
                   <td>reynolds</td>
-                  <td>Unknown</td>
-                  <td>Unknown</td>
-                  <td></td>
                   <td>8</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>reynolds</li>
                      </ul>
                   </td>
@@ -527,9 +464,6 @@
                <tr>
                   <td>George Eacker</td>
                   <td>eacker</td>
-                  <td>1774 - Unknown</td>
-                  <td>1804-01-04 - Unknown</td>
-                  <td></td>
                   <td>5</td>
                   <td>
                      <ul></ul>
@@ -545,12 +479,9 @@
                   <td> Doctor</td>
                   <td>doctor</td>
                   <td></td>
-                  <td></td>
-                  <td>Doctor</td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                      </ul>
                   </td>
@@ -559,9 +490,6 @@
                <tr>
                   <td>Martha </td>
                   <td>martha</td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td></td>
                   <td>
                      <ul></ul>
@@ -572,9 +500,6 @@
                   <td>Dolly </td>
                   <td>dolly</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul></ul>
                   </td>
@@ -584,12 +509,9 @@
                   <td> Ensemble</td>
                   <td>ensemble</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>kingGeorge</li>
                         <li>washington</li>
                         <li>jefferson</li>
@@ -604,12 +526,9 @@
                   <td> Company</td>
                   <td>company</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>schuylerSis</li>
                         <li>angelica</li>
@@ -631,12 +550,9 @@
                   <td> Men</td>
                   <td>men</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>hamilton</li>
                         <li>jAdams</li>
@@ -650,12 +566,9 @@
                   <td> Women</td>
                   <td>women</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>hamilton</li>
                         <li>washington</li>
@@ -670,9 +583,6 @@
                   <td> Recording</td>
                   <td>recording</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul></ul>
                   </td>
@@ -681,9 +591,6 @@
                <tr>
                   <td>William P. Van Ness</td>
                   <td>ness</td>
-                  <td>1778-02-13 - Ghent, New York</td>
-                  <td>1826-09-06 - New York City, New York</td>
-                  <td>Lawyer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -695,9 +602,6 @@
                <tr>
                   <td>Nathaniel Pendleton</td>
                   <td>pendleton</td>
-                  <td>1756-10-27 - New Kent County, Virginia</td>
-                  <td>1821-10-20 - Hyde Park, Dutchess County, New York</td>
-                  <td>Lawyer, Judge</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -709,9 +613,6 @@
                <tr>
                   <td>Hugh Mercer, Jr. - Other names/titles: General</td>
                   <td>generalMercer</td>
-                  <td>1726-01-17 - Pitsligo Kirk, Rosehearty, Alberdeenshire, Scotdland</td>
-                  <td>1777-01-12 - Princeton, New Jersey</td>
-                  <td>Military Officer, Physician</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -723,9 +624,6 @@
                <tr>
                   <td>Louis XVI  - Other names/titles: King</td>
                   <td>kingLouis</td>
-                  <td>1754-08-23 - Palace of Versailles, France</td>
-                  <td>1793-01-21 - Place de la Revolution, Paris, France</td>
-                  <td>King of France and Navarre</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -737,9 +635,6 @@
                <tr>
                   <td>Elizabeth Griscom Ross</td>
                   <td>betsy</td>
-                  <td>1752-01-01 - Philadelphia, Pennsylvania</td>
-                  <td>1836-01-30 - Philadelphia, Pennsylvania</td>
-                  <td>Upholsterer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -751,9 +646,6 @@
                <tr>
                   <td>Jean-Baptist Donatien de Vimeur, comte de Rochambeau</td>
                   <td>rochambeau</td>
-                  <td>1725-07-01 - Vendome, Orleanais, France</td>
-                  <td>1807-05-30 - Thore, Loir-et-Cher, France</td>
-                  <td>Military Officer, Nobleman</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -765,9 +657,6 @@
                <tr>
                   <td>Levi Weeks</td>
                   <td>weeks</td>
-                  <td>1776 - Greenwich, Massachusetts</td>
-                  <td>1819 - Natchez, Mississippi</td>
-                  <td>Architect</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -779,9 +668,6 @@
                <tr>
                   <td>John Jay</td>
                   <td>jay</td>
-                  <td>1745-12-23 - New York City, New York, British America</td>
-                  <td>1829-05-17 - Bedford, New York, U.S.</td>
-                  <td>Lawyer, Diplomat, Politician</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -793,9 +679,6 @@
                <tr>
                   <td>Sarah Hemings</td>
                   <td>sally</td>
-                  <td>1773 - Charles City County, Virginia Colony</td>
-                  <td>1835 - Charlottesville, Virginia</td>
-                  <td>Slave</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -807,9 +690,6 @@
                <tr>
                   <td>Thomas Conway</td>
                   <td>conway</td>
-                  <td>1735-02-27 - Ireland</td>
-                  <td>1800 - </td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -821,9 +701,6 @@
                <tr>
                   <td>Theodosia Burr Alston</td>
                   <td>theodosiaDaughter</td>
-                  <td>1783-06-21 - Albany, New York, U.S.</td>
-                  <td>1813 - Off the coast of Georgetown, South Carolina</td>
-                  <td></td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -835,9 +712,6 @@
                <tr>
                   <td>Theodosia Bartow Prevost</td>
                   <td>theodosiaMother</td>
-                  <td>1746-11 - Shrewbury, New Jersey</td>
-                  <td>1794-05-28 - New York City, New York</td>
-                  <td></td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -849,9 +723,6 @@
                <tr>
                   <td>Philip John Schuyler</td>
                   <td>philipS</td>
-                  <td>1733-11-20 - Albanuy, New York</td>
-                  <td>1804-11-18 - Albany, New York</td>
-                  <td>Military Officer, Politician</td>
                   <td>3</td>
                   <td></td>
                   <td>
@@ -864,9 +735,6 @@
                <tr>
                   <td>Thomas Paine</td>
                   <td>paine</td>
-                  <td>1737-02-09 - Thetford, Norfolk, England</td>
-                  <td>1809-06-08 - Greenwich Village, New York City, U.S.</td>
-                  <td>Politician, Philosopher, Author</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -878,9 +746,6 @@
                <tr>
                   <td>Samuel Adams</td>
                   <td>sAdams</td>
-                  <td>1722-09-27 - Boston, Massachusetts Bay</td>
-                  <td>1803-10-02 - Cambridge, Massachusetts, U.S.</td>
-                  <td>Politician, Tax Collector</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -892,9 +757,6 @@
                <tr>
                   <td>John Adams</td>
                   <td>jAdams</td>
-                  <td>1735-10-30 - Braintree, Province of Massachusetts Bay, British America</td>
-                  <td>1826-07-04 - Quincy, Massachusetts, U.S&gt;</td>
-                  <td>Lawyer, Politician</td>
                   <td>12</td>
                   <td></td>
                   <td>
@@ -914,9 +776,6 @@
                <tr>
                   <td>Richard Howe - Other names/titles: Admiral</td>
                   <td>admiralHowe</td>
-                  <td>1726-04-08 - London, England</td>
-                  <td>1799-08-05 - London England</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -928,9 +787,6 @@
                <tr>
                   <td>Richard Montgomery - Other names/titles: General</td>
                   <td>generalMontgomery</td>
-                  <td>1738-12-02 - Swords, Dublin, Kingdom of Ireland</td>
-                  <td>1775-12-31 - Quebec City, Province of Quebec</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -942,9 +798,6 @@
                <tr>
                   <td>Nathanael Greene</td>
                   <td>green</td>
-                  <td>1743-08-07 - Potowomut, Warwick, Rhode Island, British America</td>
-                  <td>1786-06-19 - Mulberry Grove Plantation, Chatham County, Gerogia, U.S.</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -956,9 +809,6 @@
                <tr>
                   <td>Henry Knox</td>
                   <td>knox</td>
-                  <td>1750-07-25 - Boston, Massachusetts Bay, British America</td>
-                  <td>1806-10-25 - Thomaston, Massachusetts, U.S.</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -970,9 +820,6 @@
                <tr>
                   <td>Martha Dandridge Washington</td>
                   <td>marthaWashington</td>
-                  <td>1731-06-02 - Chestnut Grove, Virginia, British America</td>
-                  <td>1802-05-22 - Mount Vernon, Virginia, U.S.</td>
-                  <td>First Lady</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -984,9 +831,6 @@
                <tr>
                   <td>Angelica, Eliza and Peggy Schuyler</td>
                   <td>schuylerSis</td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>5</td>
                   <td></td>
                   <td>
@@ -1003,9 +847,6 @@
                <tr>
                   <td>Benjamin Franklin</td>
                   <td>franklin</td>
-                  <td>1706-01-17 - Boston, Massachusetts Bay, British America</td>
-                  <td>1790-04-17 - Philadelphia, Pennsylvania, U.S.</td>
-                  <td>Politician, Diplomat, Author, Inventor</td>
                   <td>1</td>
                   <td></td>
                   <td>

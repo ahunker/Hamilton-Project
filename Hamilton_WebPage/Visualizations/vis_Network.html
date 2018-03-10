@@ -1,36 +1,57 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-    <head>
-        <title>Visualizations: Network Graph</title>
-        <link rel="stylesheet" type="text/css" href="vis.css" />
-       <meta charset="UTF-8" />
-    </head>
-    <body>
-        <!--#include virtual="menu.html"-->
-       <div class="background">
-          <img src="back2.jpg" class="stretch"
-             alt="Hamilton poster background" />
-       </div>
-        <div class="img">
-            <h2>Network Graph Representing Frequency of Character References and Speech:</h2>
-            <h3>Scroll down for analysis of network.</h3>
-  <h3>Click to zoom in on network.</h3>
-<a href="wholeMusical_Ref_updated.svg" title="Network Graph Representing Speakers and References from the musical Hamilton" target="_blank">
-    <img alt="svg_ref" src="wholeMusical_Ref_updated.svg" class="vis"/>
-</a>
-
-        </div>
-        <div class="main">
-           <div class="personography">    <h2 class="personography">Personography Table</h2>
-               <h3 class="personography">Character Information, XML:ID, and References</h3>
+   <head>
+      <title>Visualizations: Network Graph</title>
+      <link rel="stylesheet" type="text/css" href="vis.css" />
+      <meta charset="UTF-8" />
+   </head>
+   <body>
+      <!--#include virtual="menu.html"-->
+      <div class="img">
+         <h2>Network Graph Representing Frequency of Character References and Speech:</h2>
+         
+         <h3>Click to zoom in on network.</h3>
+         
+         <a href="wholeMusical_Ref_updated.svg"
+            title="Network Graph Representing Speakers and References from the musical Hamilton"
+            target="_blank">
+            <img alt="svg_ref" src="wholeMusical_Ref_updated.svg" class="vis" />
+         </a>
+         
+      </div>
+      <div class="main">
+         <div class="main2">
+            <h2>Description</h2>
+            <p> This network graph analyzes the speakers of <i>Hamilton</i> and the characters being
+               referenced. The graph indicates who speaks the most throughout the whole musical and
+               who references who within every song. </p>
+            <p> The size of the source node square represents the amount of time that character was
+               referenced by other characters and/or themselves. A larger square indicates that the
+               character was referenced frequently while a smaller square indicates the character
+               was referenced minimally or not at all. The color of the source node square
+               represents how often the speaker speaks throughout the whole musical. A gold or
+               darker colored square indicates that the character spoke often throughout the
+               musical. A white or lighter colored square indicates that the character did not speak
+               often or did not speak at all throughout the musical. The arrows on the interactions
+               between the nodes represents the references and the direction of the arrows indicate
+               who was referencing who. Arrows pointing out from the source node show that
+               particular character is doing the referencing of the character/source node that the
+               arrows are pointing in toward. </p>
+            
+            <p> To see more clear network graphs showing which characters reference who in each
+               song, refer to the Song Index page and click on the link in a particular song that
+               pulls up that song's network graph. </p>
+            <p><i><b>NOTE:</b> The spoken scene titled "Tomorrow There'll Be More Of Us" in the Song Index is not included.</i></p>
+            
+         </div>
+         <div class="personography">
+            <h2 class="personography">Personography Table</h2>
+            <h3 class="personography">Character Information, XML:ID, and References</h3>
             <table id="personography">
                <tr>
                   <th>Name</th>
                   <th>xml:id</th>
-                  <th>Birth</th>
-                  <th>Death</th>
-                  <th>Occupation</th>
                   <th>No. of Times Referenced</th>
                   <th>People Referenced</th>
                   <th>Referenced By</th>
@@ -38,13 +59,10 @@
                <tr>
                   <td>Alexander Hamilton</td>
                   <td>hamilton</td>
-                  <td>1757-01-11 - Charlestown, Nevis, British West Indies</td>
-                  <td>1804-07-12 - New York City, New York, U.S.</td>
-                  <td>Politician, Lawyer, Author, Military Officer</td>
                   <td>124</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>burr</li>
                         <li>kingGeorge</li>
@@ -91,13 +109,10 @@
                <tr>
                   <td>Aaron Burr</td>
                   <td>burr</td>
-                  <td>1756-02-06 - Newark, New Jersey, British America</td>
-                  <td>1836-09-14 - New York City, New York, U.S.</td>
-                  <td>Politician, Lawyer, Military Officer</td>
                   <td>68</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>philipS</li>
                         <li>peggy</li>
                         <li>angelica</li>
@@ -144,13 +159,10 @@
                <tr>
                   <td>George Washington - Other names/titles: General, Mr. President</td>
                   <td>washington</td>
-                  <td>1732-02-22 - Bridges Creek, Colony of Virginia, British America</td>
-                  <td>1799-12-14 - Mount Vernon, Virginia, U.S.</td>
-                  <td>Politician, Plantation Owner, Military Officer</td>
                   <td>47</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>burr</li>
                         <li>green</li>
@@ -180,13 +192,10 @@
                <tr>
                   <td>Hercules Mulligan</td>
                   <td>mulligan</td>
-                  <td>1740-09-25 - Coleraine, County Londonderry, Ireland</td>
-                  <td>1825-03-04 - Unknown</td>
-                  <td>Tailor, Military Intelligence Officer</td>
                   <td>4</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>mulligan</li>
                         <li>burr</li>
                         <li>hamilton</li>
@@ -201,15 +210,13 @@
                   </td>
                </tr>
                <tr>
-                  <td>Marie-Joseph Paul Yves Roch Gilbert du Motier de Lafayette - Other names/titles: Marquis de Lafayette</td>
+                  <td>Marie-Joseph Paul Yves Roch Gilbert du Motier de Lafayette - Other
+                     names/titles: Marquis de Lafayette</td>
                   <td>lafayette</td>
-                  <td>1757-09-06 - Chavaniac, France</td>
-                  <td>1834-05-20 - Paris, France</td>
-                  <td>Politician, Military Officer</td>
                   <td>14</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lafayette</li>
                         <li>hamilton</li>
                         <li>burr</li>
@@ -228,13 +235,10 @@
                <tr>
                   <td>John Laurens</td>
                   <td>laurens</td>
-                  <td>1754-10-28 - Charleston, Province of South Carolina, British North America</td>
-                  <td>1782-08-27 - Combahee River, South Carolina, U.S.</td>
-                  <td>Military Officer</td>
                   <td>7</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>laurens</li>
                         <li>sAdams</li>
                         <li>burr</li>
@@ -251,15 +255,12 @@
                   </td>
                </tr>
                <tr>
-                  <td>George William Frederick III  - Other names/titles: King</td>
+                  <td>George William Frederick III - Other names/titles: King</td>
                   <td>kingGeorge</td>
-                  <td>1738-06-04 - Norfolk House, St. James's Square, London</td>
-                  <td>1820-01-29 - Windsor Castle, Windsor, Berkshire</td>
-                  <td>King</td>
                   <td>6</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>washington</li>
                         <li>jAdams</li>
                      </ul>
@@ -276,13 +277,10 @@
                <tr>
                   <td>Samuel Seabury</td>
                   <td>seabury</td>
-                  <td>1729-11-30 - Groton, Connecticut</td>
-                  <td>1796-02-25 - New London, Connecticut</td>
-                  <td>Clergy</td>
                   <td>1</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>seabury</li>
                         <li>kingGeorge</li>
                      </ul>
@@ -296,13 +294,10 @@
                <tr>
                   <td>Charles Lee</td>
                   <td>lee</td>
-                  <td>1731-01-26 - Darnhall, Cheshire, England</td>
-                  <td>1782-10-02 - Christ Church, Philadelphia</td>
-                  <td>Military Officer</td>
                   <td>10</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lee</li>
                         <li>washington</li>
                      </ul>
@@ -319,13 +314,10 @@
                <tr>
                   <td>Elizabeth Schuyler Hamilton</td>
                   <td>eliza</td>
-                  <td>1757-08-09 - Albany, Province of New York</td>
-                  <td>1854-11-09 - Washington D.C., U.S.</td>
-                  <td>Philanthropist</td>
                   <td>31</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>eliza</li>
                         <li>angelica</li>
@@ -350,13 +342,10 @@
                <tr>
                   <td>Angelica Schuyler Church</td>
                   <td>angelica</td>
-                  <td>1756-02-20 - Albany, Province of New York</td>
-                  <td>1814-03-13 - New York City, New York, U.S.</td>
-                  <td></td>
                   <td>32</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>eliza</li>
                         <li>burr</li>
@@ -383,13 +372,10 @@
                <tr>
                   <td>Margarita Schuyler Van Rensselaer</td>
                   <td>peggy</td>
-                  <td>1758-09-24 - Albany, Province of New York</td>
-                  <td>1801-03-14 - Albany, New York, U.S.</td>
-                  <td></td>
                   <td>5</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>peggy</li>
                         <li>schuylerSis</li>
                      </ul>
@@ -405,13 +391,10 @@
                <tr>
                   <td>Thomas Jefferson</td>
                   <td>jefferson</td>
-                  <td>1743-04-13 - Shadwell, Virginia, British America</td>
-                  <td>1826-07-04 - Charlottesville, Virginia, U.S.</td>
-                  <td>Politician, Author, Diplomat, Lawyer, Plantation Owner</td>
                   <td>50</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>lafayette</li>
                         <li>washington</li>
                         <li>sally</li>
@@ -440,13 +423,10 @@
                <tr>
                   <td>James Madison</td>
                   <td>madison</td>
-                  <td>1700 - </td>
-                  <td>1800 - </td>
-                  <td>Politician</td>
                   <td>13</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>jefferson</li>
                         <li>hamilton</li>
                         <li>burr</li>
@@ -466,13 +446,10 @@
                <tr>
                   <td>Philip Hamilton</td>
                   <td>philipH</td>
-                  <td>1782-01-22 - Albany, New York</td>
-                  <td>1801-11-24 - Weehawken, New Jersey</td>
-                  <td></td>
                   <td>8</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>philipH</li>
                         <li>philipS</li>
                         <li>burr</li>
@@ -490,12 +467,9 @@
                <tr>
                   <td>Maria Lewis Reynolds</td>
                   <td>maria</td>
-                  <td>1768-03-30 - New York City, New York</td>
-                  <td>1828-03-25 - Unknown</td>
-                  <td></td>
                   <td>1</td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td>
                      <ul>
@@ -506,13 +480,10 @@
                <tr>
                   <td>James Reynolds</td>
                   <td>reynolds</td>
-                  <td>Unknown</td>
-                  <td>Unknown</td>
-                  <td></td>
                   <td>8</td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>reynolds</li>
                      </ul>
                   </td>
@@ -529,12 +500,9 @@
                <tr>
                   <td>George Eacker</td>
                   <td>eacker</td>
-                  <td>1774 - Unknown</td>
-                  <td>1804-01-04 - Unknown</td>
-                  <td></td>
                   <td>5</td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td>
                      <ul>
@@ -547,12 +515,9 @@
                   <td> Doctor</td>
                   <td>doctor</td>
                   <td></td>
-                  <td></td>
-                  <td>Doctor</td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                      </ul>
                   </td>
@@ -562,11 +527,8 @@
                   <td>Martha </td>
                   <td>martha</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
@@ -574,11 +536,8 @@
                   <td>Dolly </td>
                   <td>dolly</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
-                     
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
@@ -586,12 +545,9 @@
                   <td> Ensemble</td>
                   <td>ensemble</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>kingGeorge</li>
                         <li>washington</li>
                         <li>jefferson</li>
@@ -606,12 +562,9 @@
                   <td> Company</td>
                   <td>company</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>hamilton</li>
                         <li>schuylerSis</li>
                         <li>angelica</li>
@@ -633,12 +586,9 @@
                   <td> Men</td>
                   <td>men</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>hamilton</li>
                         <li>jAdams</li>
@@ -652,12 +602,9 @@
                   <td> Women</td>
                   <td>women</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
                      <ul>
-                        
+                        <li></li>
                         <li>angelica</li>
                         <li>hamilton</li>
                         <li>washington</li>
@@ -672,20 +619,14 @@
                   <td> Recording</td>
                   <td>recording</td>
                   <td></td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>
-                   
+                     <ul></ul>
                   </td>
                   <td></td>
                </tr>
                <tr>
                   <td>William P. Van Ness</td>
                   <td>ness</td>
-                  <td>1778-02-13 - Ghent, New York</td>
-                  <td>1826-09-06 - New York City, New York</td>
-                  <td>Lawyer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -697,9 +638,6 @@
                <tr>
                   <td>Nathaniel Pendleton</td>
                   <td>pendleton</td>
-                  <td>1756-10-27 - New Kent County, Virginia</td>
-                  <td>1821-10-20 - Hyde Park, Dutchess County, New York</td>
-                  <td>Lawyer, Judge</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -711,9 +649,6 @@
                <tr>
                   <td>Hugh Mercer, Jr. - Other names/titles: General</td>
                   <td>generalMercer</td>
-                  <td>1726-01-17 - Pitsligo Kirk, Rosehearty, Alberdeenshire, Scotdland</td>
-                  <td>1777-01-12 - Princeton, New Jersey</td>
-                  <td>Military Officer, Physician</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -723,11 +658,8 @@
                   </td>
                </tr>
                <tr>
-                  <td>Louis XVI  - Other names/titles: King</td>
+                  <td>Louis XVI - Other names/titles: King</td>
                   <td>kingLouis</td>
-                  <td>1754-08-23 - Palace of Versailles, France</td>
-                  <td>1793-01-21 - Place de la Revolution, Paris, France</td>
-                  <td>King of France and Navarre</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -739,9 +671,6 @@
                <tr>
                   <td>Elizabeth Griscom Ross</td>
                   <td>betsy</td>
-                  <td>1752-01-01 - Philadelphia, Pennsylvania</td>
-                  <td>1836-01-30 - Philadelphia, Pennsylvania</td>
-                  <td>Upholsterer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -753,9 +682,6 @@
                <tr>
                   <td>Jean-Baptist Donatien de Vimeur, comte de Rochambeau</td>
                   <td>rochambeau</td>
-                  <td>1725-07-01 - Vendome, Orleanais, France</td>
-                  <td>1807-05-30 - Thore, Loir-et-Cher, France</td>
-                  <td>Military Officer, Nobleman</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -767,9 +693,6 @@
                <tr>
                   <td>Levi Weeks</td>
                   <td>weeks</td>
-                  <td>1776 - Greenwich, Massachusetts</td>
-                  <td>1819 - Natchez, Mississippi</td>
-                  <td>Architect</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -781,9 +704,6 @@
                <tr>
                   <td>John Jay</td>
                   <td>jay</td>
-                  <td>1745-12-23 - New York City, New York, British America</td>
-                  <td>1829-05-17 - Bedford, New York, U.S.</td>
-                  <td>Lawyer, Diplomat, Politician</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -795,9 +715,6 @@
                <tr>
                   <td>Sarah Hemings</td>
                   <td>sally</td>
-                  <td>1773 - Charles City County, Virginia Colony</td>
-                  <td>1835 - Charlottesville, Virginia</td>
-                  <td>Slave</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -809,9 +726,6 @@
                <tr>
                   <td>Thomas Conway</td>
                   <td>conway</td>
-                  <td>1735-02-27 - Ireland</td>
-                  <td>1800 - </td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -823,9 +737,6 @@
                <tr>
                   <td>Theodosia Burr Alston</td>
                   <td>theodosiaDaughter</td>
-                  <td>1783-06-21 - Albany, New York, U.S.</td>
-                  <td>1813 - Off the coast of Georgetown, South Carolina</td>
-                  <td></td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -837,9 +748,6 @@
                <tr>
                   <td>Theodosia Bartow Prevost</td>
                   <td>theodosiaMother</td>
-                  <td>1746-11 - Shrewbury, New Jersey</td>
-                  <td>1794-05-28 - New York City, New York</td>
-                  <td></td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -851,9 +759,6 @@
                <tr>
                   <td>Philip John Schuyler</td>
                   <td>philipS</td>
-                  <td>1733-11-20 - Albanuy, New York</td>
-                  <td>1804-11-18 - Albany, New York</td>
-                  <td>Military Officer, Politician</td>
                   <td>3</td>
                   <td></td>
                   <td>
@@ -866,9 +771,6 @@
                <tr>
                   <td>Thomas Paine</td>
                   <td>paine</td>
-                  <td>1737-02-09 - Thetford, Norfolk, England</td>
-                  <td>1809-06-08 - Greenwich Village, New York City, U.S.</td>
-                  <td>Politician, Philosopher, Author</td>
                   <td>2</td>
                   <td></td>
                   <td>
@@ -880,9 +782,6 @@
                <tr>
                   <td>Samuel Adams</td>
                   <td>sAdams</td>
-                  <td>1722-09-27 - Boston, Massachusetts Bay</td>
-                  <td>1803-10-02 - Cambridge, Massachusetts, U.S.</td>
-                  <td>Politician, Tax Collector</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -894,9 +793,6 @@
                <tr>
                   <td>John Adams</td>
                   <td>jAdams</td>
-                  <td>1735-10-30 - Braintree, Province of Massachusetts Bay, British America</td>
-                  <td>1826-07-04 - Quincy, Massachusetts, U.S&gt;</td>
-                  <td>Lawyer, Politician</td>
                   <td>12</td>
                   <td></td>
                   <td>
@@ -916,9 +812,6 @@
                <tr>
                   <td>Richard Howe - Other names/titles: Admiral</td>
                   <td>admiralHowe</td>
-                  <td>1726-04-08 - London, England</td>
-                  <td>1799-08-05 - London England</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -930,9 +823,6 @@
                <tr>
                   <td>Richard Montgomery - Other names/titles: General</td>
                   <td>generalMontgomery</td>
-                  <td>1738-12-02 - Swords, Dublin, Kingdom of Ireland</td>
-                  <td>1775-12-31 - Quebec City, Province of Quebec</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -944,9 +834,6 @@
                <tr>
                   <td>Nathanael Greene</td>
                   <td>green</td>
-                  <td>1743-08-07 - Potowomut, Warwick, Rhode Island, British America</td>
-                  <td>1786-06-19 - Mulberry Grove Plantation, Chatham County, Gerogia, U.S.</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -958,9 +845,6 @@
                <tr>
                   <td>Henry Knox</td>
                   <td>knox</td>
-                  <td>1750-07-25 - Boston, Massachusetts Bay, British America</td>
-                  <td>1806-10-25 - Thomaston, Massachusetts, U.S.</td>
-                  <td>Military Officer</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -972,9 +856,6 @@
                <tr>
                   <td>Martha Dandridge Washington</td>
                   <td>marthaWashington</td>
-                  <td>1731-06-02 - Chestnut Grove, Virginia, British America</td>
-                  <td>1802-05-22 - Mount Vernon, Virginia, U.S.</td>
-                  <td>First Lady</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -986,9 +867,6 @@
                <tr>
                   <td>Angelica, Eliza and Peggy Schuyler</td>
                   <td>schuylerSis</td>
-                  <td></td>
-                  <td></td>
-                  <td></td>
                   <td>5</td>
                   <td></td>
                   <td>
@@ -1005,9 +883,6 @@
                <tr>
                   <td>Benjamin Franklin</td>
                   <td>franklin</td>
-                  <td>1706-01-17 - Boston, Massachusetts Bay, British America</td>
-                  <td>1790-04-17 - Philadelphia, Pennsylvania, U.S.</td>
-                  <td>Politician, Diplomat, Author, Inventor</td>
                   <td>1</td>
                   <td></td>
                   <td>
@@ -1017,28 +892,26 @@
                   </td>
                </tr>
             </table>
-           </div>
-                <div class="main2">
+         </div>
+         <div class="main2">
             <h2>Analysis</h2>
-            <p>
-                This network graph analyzes the speakers of <i>Hamilton</i> and the characters being referenced. The graph indicates who speaks the most throughout the whole musical and who references who within every song. 
-                
-            </p>
-            <p>
-                The size of the source node square represents the amount of time that character was referenced by other characters and/or themselves.
-                A larger square indicates that the character was referenced frequently while a smaller square indicates the character was referenced minimally or not at all.
-                The color of the source node square represents how often the speaker speaks throughout the whole musical.
-                A gold or darker colored square indicates that the character spoke often throughout the musical.
-                A white or lighter colored square indicates that the character did not speak often or did not speak at all throughout the musical. 
-                The arrows on the interactions between the nodes represents the references and the direction of the arrows indicate who was referencing who. Arrows pointing out from the source node show that particular character is doing the referencing of the character/source node that the arrows are pointing in toward. 
-                
-            </p>
-            <p>This network graph allows us to determine which characters play a pivotal part in the musical. From the network graph we can determine whether or not the character who spoke the most in the musical is also referenced the most. So, we can see Hamilton and Burr are represented as large, golden squares which indicates that they speak often and they are also referenced often. As Burr and Hamilton play crucial roles in the musical, Hamilton as the central character and Burr acting as the narrator often, the data reflects their importance and frequency. Burr and Hamilton also reference a lot of characters, Burr in particular references 10 characters who are referenced by only Burr. Both characters expand the cast of characters and often make historical references to Betsy Ross, John Jay, etc. As the central character of the musical, Hamilton also self references himself the most through introducing himself to other characters and talking about himself. Other notable characters who self reference themselves are Eliza, Angelica, and Burr. Eliza and Angelica are the two most prominent women in the musical and it is interesting to see that they often refer to themselves while being surrounded by all the men in the musical and while both of their plot points focus on their relationships with Hamilton. 
-               </p>
-                <p>
-                    To see more clear network graphs showing which characters reference who in each song, refer to the Song Index page and click on the link in a particular song that pulls up that song's network graph.
-                </p>
-        </div>
-        </div>
-    </body>
+            <p>This network graph allows us to determine which characters play a pivotal part in the
+               musical. From the network graph we can determine whether or not the character who
+               spoke the most in the musical is also referenced the most. So, we can see Hamilton
+               and Burr are represented as large, golden squares which indicates that they speak
+               often and they are also referenced often. As Burr and Hamilton play crucial roles in
+               the musical, Hamilton as the central character and Burr acting as the narrator often,
+               the data reflects their importance and frequency. Burr and Hamilton also reference a
+               lot of characters, Burr in particular references 10 characters who are referenced by
+               only Burr. Both characters expand the cast of characters and often make historical
+               references to Betsy Ross, John Jay, etc. As the central character of the musical,
+               Hamilton also self references himself the most through introducing himself to other
+               characters and talking about himself. Other notable characters who self reference
+               themselves are Eliza, Angelica, and Burr. Eliza and Angelica are the two most
+               prominent women in the musical and it is interesting to see that they often refer to
+               themselves while being surrounded by all the men in the musical and while both of
+               their plot points focus on their relationships with Hamilton. </p>
+         </div>
+      </div>
+   </body>
 </html>

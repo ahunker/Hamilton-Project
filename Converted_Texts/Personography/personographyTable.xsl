@@ -24,9 +24,9 @@
                             <tr>
                                 <th>Name</th>
                                 <th>xml:id</th>
-                                <th>Birth</th>
+                                <!--<th>Birth</th>
                                 <th>Death</th>
-                                <th>Occupation</th>
+                                <th>Occupation</th>-->
                                 <th>No. of Times Referenced</th>
                                 <th>People Referenced</th>
                                 <th>Referenced By</th>
@@ -46,7 +46,7 @@
                                     <td>
                                         <xsl:apply-templates select="@xml:id"/>
                                     </td>
-                                    <td>
+                                    <!--<td>
                                         <xsl:if test=".//birth">
                                             <xsl:if test=".//birth/@when">
                                                 <xsl:apply-templates select=".//birth/@when"/>
@@ -67,7 +67,7 @@
                                     <td>
                                         <xsl:apply-templates
                                             select=".//string-join(occupation, ', ')"/>
-                                    </td>
+                                    </td>-->
 
 
 

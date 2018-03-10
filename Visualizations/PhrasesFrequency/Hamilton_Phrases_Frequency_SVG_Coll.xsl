@@ -79,7 +79,7 @@
                     <circle cx="{$xPos}" cy="-{$wait}" r="3.5" fill="#006600"/>
                     <circle cx="{$xPos}" cy="-{$rise}" r="3.5" fill="#000099"/>
                     <circle cx="{$xPos}" cy="-{$time}" r="3.5" fill="#ff8000"/>
-                    <circle cx="{$xPos}" cy="-{$look}" r="3.5" fill="#00ff00"/>
+                    <circle cx="{$xPos}" cy="-{$look}" r="3.5" fill="#ff32a6"/>
                    <xsl:variable name="xPos" select="$pos * $xSpacer"/>
                     <xsl:variable name="xLine" select="($pos - 1) * $xSpacer"/>
                     <xsl:variable name="previousDoc" as="document-node()?" select="$hamiltonColl[$pos - 1]"/>

@@ -2,6 +2,8 @@ html{
    margin: 0px;
     padding: 0px;
     background-image:url("back2.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
     }
     
 body{
@@ -95,20 +97,25 @@ div.lyrics{
     padding-right: 10%;
     padding-top: 1%;
     padding-bottom: 1%;
-    background: #f2dca6;
+    font-size:18px;
 }
 
 div.song{
     font-family: georgia, serif;
     color: black;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-top:1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
     padding-bottom: 1%;
-}
-
-l{
-    font-size: 18px;
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float: left;
+    background: #f2dca6;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
 }
 
 div.sp{
@@ -133,9 +140,9 @@ fieldset {
     color: #705410;
     border-color: #705410;
 }
-span.placeName.on {color:#ffee6d;font-weight: bold;}
+span.placeName.on {color:#862d86;font-weight: bold;}
 span.persName.on {color:#bb0000;font-weight: bold;}
-span.date.on {color:#e6e6e6;font-weight: bold;}
+span.date.on {color:#669900;font-weight: bold;}
 span.phr.on {color:#0033cc; font-weight: bold;}
 
 h4.castList{

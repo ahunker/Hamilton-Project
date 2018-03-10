@@ -499,7 +499,7 @@
       <circle cx="51" cy="-70" r="3.5" fill="#006600"/>
       <circle cx="51" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="51" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="51" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="51" cy="-0" r="3.5" fill="#ff32a6"/>
       <circle cx="102" cy="-0" r="3.5" fill="#ff3300"/>
       <circle cx="102" cy="-0" r="3.5" fill="#6600cc"/>
       <circle cx="102" cy="-0" r="3.5" fill="#3399ff"/>
@@ -507,7 +507,7 @@
       <circle cx="102" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="102" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="102" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="102" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="102" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="51"
             y1="-0"
             x2="102"
@@ -571,7 +571,7 @@
       <circle cx="153" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="153" cy="-170" r="3.5" fill="#000099"/>
       <circle cx="153" cy="-100" r="3.5" fill="#ff8000"/>
-      <circle cx="153" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="153" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="102"
             y1="-0"
             x2="153"
@@ -635,7 +635,7 @@
       <circle cx="204" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="204" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="204" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="204" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="204" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="153"
             y1="-430"
             x2="204"
@@ -699,7 +699,7 @@
       <circle cx="255" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="255" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="255" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="255" cy="-160" r="3.5" fill="#00ff00"/>
+      <circle cx="255" cy="-160" r="3.5" fill="#ff32a6"/>
       <line x1="204"
             y1="-0"
             x2="255"
@@ -763,7 +763,7 @@
       <circle cx="306" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="306" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="306" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="306" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="306" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="255"
             y1="-0"
             x2="306"
@@ -827,7 +827,7 @@
       <circle cx="357" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="357" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="357" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="357" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="357" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="306"
             y1="-0"
             x2="357"
@@ -891,7 +891,7 @@
       <circle cx="408" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="408" cy="-80" r="3.5" fill="#000099"/>
       <circle cx="408" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="408" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="408" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="357"
             y1="-0"
             x2="408"
@@ -955,7 +955,7 @@
       <circle cx="459" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="459" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="459" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="459" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="459" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="408"
             y1="-30"
             x2="459"
@@ -1019,7 +1019,7 @@
       <circle cx="510" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="510" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="510" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="510" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="510" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="459"
             y1="-0"
             x2="510"
@@ -1083,7 +1083,7 @@
       <circle cx="561" cy="-10" r="3.5" fill="#006600"/>
       <circle cx="561" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="561" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="561" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="561" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="510"
             y1="-0"
             x2="561"
@@ -1147,7 +1147,7 @@
       <circle cx="612" cy="-10" r="3.5" fill="#006600"/>
       <circle cx="612" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="612" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="612" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="612" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="561"
             y1="-0"
             x2="612"
@@ -1211,7 +1211,7 @@
       <circle cx="663" cy="-390" r="3.5" fill="#006600"/>
       <circle cx="663" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="663" cy="-40" r="3.5" fill="#ff8000"/>
-      <circle cx="663" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="663" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="612"
             y1="-0"
             x2="663"
@@ -1275,7 +1275,7 @@
       <circle cx="714" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="714" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="714" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="714" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="714" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="663"
             y1="-0"
             x2="714"
@@ -1339,7 +1339,7 @@
       <circle cx="765" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="765" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="765" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="765" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="765" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="714"
             y1="-10"
             x2="765"
@@ -1403,7 +1403,7 @@
       <circle cx="816" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="816" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="816" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="816" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="816" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="765"
             y1="-0"
             x2="816"
@@ -1467,7 +1467,7 @@
       <circle cx="867" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="867" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="867" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="867" cy="-80" r="3.5" fill="#00ff00"/>
+      <circle cx="867" cy="-80" r="3.5" fill="#ff32a6"/>
       <line x1="816"
             y1="-0"
             x2="867"
@@ -1531,7 +1531,7 @@
       <circle cx="918" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="918" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="918" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="918" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="918" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="867"
             y1="-0"
             x2="918"
@@ -1595,7 +1595,7 @@
       <circle cx="969" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="969" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="969" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="969" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="969" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="918"
             y1="-0"
             x2="969"
@@ -1659,7 +1659,7 @@
       <circle cx="1020" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1020" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1020" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1020" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1020" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="969"
             y1="-0"
             x2="1020"
@@ -1723,7 +1723,7 @@
       <circle cx="1071" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1071" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1071" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1071" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1071" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1020"
             y1="-40"
             x2="1071"
@@ -1787,7 +1787,7 @@
       <circle cx="1122" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1122" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1122" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1122" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1122" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1071"
             y1="-0"
             x2="1122"
@@ -1851,7 +1851,7 @@
       <circle cx="1173" cy="-70" r="3.5" fill="#006600"/>
       <circle cx="1173" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1173" cy="-110" r="3.5" fill="#ff8000"/>
-      <circle cx="1173" cy="-100" r="3.5" fill="#00ff00"/>
+      <circle cx="1173" cy="-100" r="3.5" fill="#ff32a6"/>
       <line x1="1122"
             y1="-0"
             x2="1173"
@@ -1915,7 +1915,7 @@
       <circle cx="1224" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1224" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1224" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1224" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1224" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1173"
             y1="-30"
             x2="1224"
@@ -1979,7 +1979,7 @@
       <circle cx="1275" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1275" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1275" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1275" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1275" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1224"
             y1="-0"
             x2="1275"
@@ -2043,7 +2043,7 @@
       <circle cx="1326" cy="-30" r="3.5" fill="#006600"/>
       <circle cx="1326" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1326" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="1326" cy="-20" r="3.5" fill="#00ff00"/>
+      <circle cx="1326" cy="-20" r="3.5" fill="#ff32a6"/>
       <line x1="1275"
             y1="-0"
             x2="1326"
@@ -2107,7 +2107,7 @@
       <circle cx="1377" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1377" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1377" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1377" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1377" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1326"
             y1="-0"
             x2="1377"
@@ -2171,7 +2171,7 @@
       <circle cx="1428" cy="-30" r="3.5" fill="#006600"/>
       <circle cx="1428" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1428" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1428" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1428" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1377"
             y1="-0"
             x2="1428"
@@ -2235,7 +2235,7 @@
       <circle cx="1479" cy="-10" r="3.5" fill="#006600"/>
       <circle cx="1479" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1479" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1479" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1479" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1428"
             y1="-0"
             x2="1479"
@@ -2299,7 +2299,7 @@
       <circle cx="1530" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1530" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1530" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="1530" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1530" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1479"
             y1="-0"
             x2="1530"
@@ -2363,7 +2363,7 @@
       <circle cx="1581" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1581" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1581" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1581" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1581" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1530"
             y1="-0"
             x2="1581"
@@ -2427,7 +2427,7 @@
       <circle cx="1632" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1632" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1632" cy="-90" r="3.5" fill="#ff8000"/>
-      <circle cx="1632" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1632" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1581"
             y1="-0"
             x2="1632"
@@ -2491,7 +2491,7 @@
       <circle cx="1683" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1683" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1683" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1683" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1683" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1632"
             y1="-0"
             x2="1683"
@@ -2555,7 +2555,7 @@
       <circle cx="1734" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1734" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1734" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1734" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1734" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1683"
             y1="-0"
             x2="1734"
@@ -2619,7 +2619,7 @@
       <circle cx="1785" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1785" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1785" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="1785" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1785" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1734"
             y1="-0"
             x2="1785"
@@ -2683,7 +2683,7 @@
       <circle cx="1836" cy="-140" r="3.5" fill="#006600"/>
       <circle cx="1836" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1836" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1836" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1836" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1785"
             y1="-0"
             x2="1836"
@@ -2747,7 +2747,7 @@
       <circle cx="1887" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1887" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1887" cy="-20" r="3.5" fill="#ff8000"/>
-      <circle cx="1887" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1887" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1836"
             y1="-0"
             x2="1887"
@@ -2811,7 +2811,7 @@
       <circle cx="1938" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1938" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1938" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="1938" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1938" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1887"
             y1="-0"
             x2="1938"
@@ -2875,7 +2875,7 @@
       <circle cx="1989" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="1989" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="1989" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="1989" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="1989" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1938"
             y1="-0"
             x2="1989"
@@ -2939,7 +2939,7 @@
       <circle cx="2040" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2040" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2040" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="2040" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2040" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="1989"
             y1="-0"
             x2="2040"
@@ -3003,7 +3003,7 @@
       <circle cx="2091" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2091" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2091" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="2091" cy="-20" r="3.5" fill="#00ff00"/>
+      <circle cx="2091" cy="-20" r="3.5" fill="#ff32a6"/>
       <line x1="2040"
             y1="-0"
             x2="2091"
@@ -3067,7 +3067,7 @@
       <circle cx="2142" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2142" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2142" cy="-0" r="3.5" fill="#ff8000"/>
-      <circle cx="2142" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2142" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="2091"
             y1="-0"
             x2="2142"
@@ -3131,7 +3131,7 @@
       <circle cx="2193" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2193" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2193" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="2193" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2193" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="2142"
             y1="-0"
             x2="2193"
@@ -3195,7 +3195,7 @@
       <circle cx="2244" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2244" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2244" cy="-10" r="3.5" fill="#ff8000"/>
-      <circle cx="2244" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2244" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="2193"
             y1="-0"
             x2="2244"
@@ -3259,7 +3259,7 @@
       <circle cx="2295" cy="-10" r="3.5" fill="#006600"/>
       <circle cx="2295" cy="-30" r="3.5" fill="#000099"/>
       <circle cx="2295" cy="-30" r="3.5" fill="#ff8000"/>
-      <circle cx="2295" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2295" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="2244"
             y1="-0"
             x2="2295"
@@ -3323,7 +3323,7 @@
       <circle cx="2346" cy="-0" r="3.5" fill="#006600"/>
       <circle cx="2346" cy="-0" r="3.5" fill="#000099"/>
       <circle cx="2346" cy="-120" r="3.5" fill="#ff8000"/>
-      <circle cx="2346" cy="-0" r="3.5" fill="#00ff00"/>
+      <circle cx="2346" cy="-0" r="3.5" fill="#ff32a6"/>
       <line x1="2295"
             y1="-10"
             x2="2346"

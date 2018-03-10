@@ -1,6 +1,9 @@
 html{
    margin: 0px;
     padding: 0px;
+    background-image:url("back2.jpg");
+    background-repeat: repeat;
+    background-size: 100%;
     }
     
 body{
@@ -9,7 +12,6 @@ body{
     width:100%;
     margin: 0px;
     padding: 0px;
-    background-image:url("back2.jpg");
 }
 
 
@@ -63,6 +65,10 @@ hr {
 .topnav a.active{
     background-color: #f2dca6;
     color: black;
+}
+
+div.menu{
+    background-image:url("back2.jpg");
 }
 
 /*LINKS*/
