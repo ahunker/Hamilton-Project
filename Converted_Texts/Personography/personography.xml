@@ -31,7 +31,7 @@
                <occupation>Lawyer</occupation>
                <occupation>Author</occupation>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Lead</note>
             </person>
             <person xml:id="burr">
                <persName>
@@ -47,7 +47,7 @@
                <occupation>Politician</occupation>
                <occupation>Lawyer</occupation>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Lead</note>
             </person>
             <person xml:id="washington">
                <persName>
@@ -65,7 +65,7 @@
                <occupation>Politician</occupation>
                <occupation>Plantation Owner</occupation>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Lead</note>
             </person>
             <person xml:id="mulligan">
                <persName>
@@ -80,7 +80,7 @@
                </death>
                <occupation>Tailor</occupation>
                <occupation>Military Intelligence Officer</occupation>
-               <note>....</note>
+               <note>Lead - Act One</note>
             </person>
             <person xml:id="lafayette">
                <persName>
@@ -96,7 +96,7 @@
                </death>
                <occupation>Politician</occupation>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Lead - Act One</note>
             </person>
             <person xml:id="laurens">
                <persName>
@@ -110,7 +110,7 @@
                   <placeName>Combahee River, South Carolina, U.S.</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Lead Act One</note>
             </person>
             <person xml:id="kingGeorge">
                <persName>
@@ -124,7 +124,7 @@
                   <placeName>Windsor Castle, Windsor, Berkshire</placeName>
                </death>
                <occupation>King</occupation>
-               <note>....</note>
+               <note>Featured</note>
             </person>
             <person xml:id="seabury">
                <persName>
@@ -138,7 +138,7 @@
                   <placeName>New London, Connecticut</placeName>
                </death>
                <occupation>Clergy</occupation>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="lee">
                <persName>
@@ -152,7 +152,7 @@
                   <placeName>Christ Church, Philadelphia</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="eliza">
                <persName>
@@ -168,7 +168,7 @@
                   <placeName>Washington D.C., U.S.</placeName>
                </death>
                <occupation>Philanthropist</occupation>
-               <note>....</note>
+               <note>Lead</note>
             </person>
             <person xml:id="angelica">
                <persName>
@@ -181,7 +181,7 @@
                <death when="1814-03-13">
                   <placeName>New York City, New York, U.S.</placeName>
                </death>
-               <note>....</note>
+               <note>Lead</note>
             </person>
             <person xml:id="peggy">
                <persName>
@@ -195,7 +195,7 @@
                <death when="1801-03-14">
                   <placeName>Albany, New York, U.S.</placeName>
                </death>
-               <note>....</note>
+               <note>Supporting - Act One</note>
             </person>
             <person xml:id="jefferson">
                <persName>
@@ -213,7 +213,7 @@
                <occupation>Diplomat</occupation>
                <occupation>Lawyer</occupation>
                <occupation>Plantation Owner</occupation>
-               <note>....</note>
+               <note>Lead - Act Two</note>
             </person>
             <person xml:id="madison">
                <persName>
@@ -221,13 +221,13 @@
                   <forename>James</forename>
                </persName>
                <birth when="1700">
-                  <placeName/>
+                  <placeName>Unknown</placeName>
                </birth>
                <death when="1800">
-                  <placeName/>
+                  <placeName>Unknown</placeName>
                </death>
                <occupation>Politician</occupation>
-               <note>....</note>
+               <note>Lead -Act One</note>
             </person>
             <person xml:id="philipH">
                <persName>
@@ -240,7 +240,7 @@
                <death when="1801-11-24">
                   <placeName>Weehawken, New Jersey</placeName>
                </death>
-               <note>....</note>
+               <note>Lead - Act Two</note>
             </person>
             <person xml:id="maria">
                <persName>
@@ -253,7 +253,7 @@
                <death when="1828-03-25">
                   <placeName>Unknown</placeName>
                </death>
-               <note>....</note>
+               <note>Featuring - Act Two</note>
             </person>
             <person xml:id="reynolds">
                <persName>
@@ -261,12 +261,12 @@
                   <forename>James</forename>
                </persName>
                <birth>
-                  <placeName>Unknown</placeName>
+                  <placeName></placeName>
                </birth>
                <death>
-                  <placeName>Unknown</placeName>
+                  <placeName></placeName>
                </death>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="eacker">
                <persName>
@@ -279,57 +279,57 @@
                <death when="1804-01-04">
                   <placeName>Unknown</placeName>
                </death>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="doctor">
                <persName>
                   <surname>Doctor</surname>
                </persName>
                <occupation>Doctor</occupation>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="martha">
                <persName>
                   <surname></surname>
                   <forename>Martha</forename>
                </persName>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="dolly">
                <persName>
                   <surname/>
                   <forename>Dolly</forename>
                </persName>
-               <note>....</note>
+               <note>Supporting</note>
             </person>
             <person xml:id="ensemble">
                <persName>
                   <surname>Ensemble</surname>
                </persName>
-               <note>....</note>
+               <note>Ensemble</note>
             </person>
             <person xml:id="company">
                <persName>
                   <surname>Company</surname>
                </persName>
-               <note>....</note>
+               <note>Ensemble</note>
             </person>
             <person xml:id="men">
                <persName>
                   <surname>Men</surname>
-               </persName><note>....</note>
+               </persName><note>Ensemble</note>
             </person>
             <person xml:id="women">
                <persName>
                   <surname>Women</surname>
                </persName>
-               <note>....</note>
+               <note>Ensemble</note>
             </person>
             <person xml:id="recording">
                <persName>
                   <surname>Recording</surname>
                </persName>
-               <note>....</note>
+               <note>Ensemble</note>
             </person>
             <person xml:id="ness">
                <persName>
@@ -343,7 +343,7 @@
                   <placeName>New York City, New York</placeName>
                </death>
                <occupation>Lawyer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="pendleton">
                <persName>
@@ -358,7 +358,7 @@
                </death>
                <occupation>Lawyer</occupation>
                <occupation>Judge</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="generalMercer">
                <persName>
@@ -374,7 +374,7 @@
                </death>
                <occupation>Military Officer</occupation>
                <occupation>Physician</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="kingLouis">
                <persName>
@@ -389,7 +389,7 @@
                   <placeName>Place de la Revolution, Paris, France</placeName>
                </death>
                <occupation>King of France and Navarre</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="betsy">
                <persName>
@@ -404,7 +404,7 @@
                   <placeName>Philadelphia, Pennsylvania</placeName>
                </death>
                <occupation>Upholsterer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="rochambeau">
                <persName>
@@ -419,7 +419,7 @@
                </death>
                <occupation>Military Officer</occupation>
                <occupation>Nobleman</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="weeks">
                <persName>
@@ -433,7 +433,7 @@
                   <placeName>Natchez, Mississippi</placeName>
                </death>
                <occupation>Architect</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="jay">
                <persName>
@@ -449,7 +449,7 @@
                <occupation>Lawyer</occupation>
                <occupation>Diplomat</occupation>
                <occupation>Politician</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="sally">
                <persName>
@@ -464,7 +464,7 @@
                   <placeName>Charlottesville, Virginia</placeName>
                </death>
                <occupation>Slave</occupation>
-               <note>....</note>
+               <note>Non-speaking role.</note>
             </person>
             <person xml:id="conway">
                <persName>
@@ -475,10 +475,10 @@
                   <placeName>Ireland</placeName>
                </birth>
                <death when="1800">
-                  <placeName/>
+                  <placeName>Unknown</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="theodosiaDaughter">
                <persName>
@@ -491,7 +491,7 @@
                <death when="1813">
                   <placeName>Off the coast of Georgetown, South Carolina</placeName>
                </death>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="theodosiaMother">
                <persName>
@@ -504,7 +504,7 @@
                <death when="1794-05-28">
                   <placeName>New York City, New York</placeName>
                </death>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="philipS">
                <persName>
@@ -519,7 +519,7 @@
                </death>
                <occupation>Military Officer</occupation>
                <occupation>Politician</occupation>
-               <note>....</note>
+               <note>Non-speaking role.</note>
             </person>
             <person xml:id="paine">
                <persName>
@@ -535,7 +535,7 @@
                <occupation>Politician</occupation>
                <occupation>Philosopher</occupation>
                <occupation>Author</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="sAdams">
                <persName>
@@ -550,7 +550,7 @@
                </death>
                <occupation>Politician</occupation>
                <occupation>Tax Collector</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="jAdams">
                <persName>
@@ -565,7 +565,7 @@
                </death>
                <occupation>Lawyer</occupation>
                <occupation>Politician</occupation>
-               <note>....</note>
+               <note>Non-speaking role.</note>
             </person>
             <person xml:id="admiralHowe">
                <persName>
@@ -580,7 +580,7 @@
                   <placeName>London England</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="generalMontgomery">
                <persName>
@@ -595,7 +595,7 @@
                   <placeName>Quebec City, Province of Quebec</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="green">
                <persName>
@@ -609,7 +609,7 @@
                   <placeName>Mulberry Grove Plantation, Chatham County, Gerogia, U.S.</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="knox">
                <persName>
@@ -623,7 +623,7 @@
                   <placeName>Thomaston, Massachusetts, U.S.</placeName>
                </death>
                <occupation>Military Officer</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="marthaWashington">
                <persName>
@@ -637,14 +637,14 @@
                   <placeName>Mount Vernon, Virginia, U.S.</placeName>
                </death>
                <occupation>First Lady</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
             <person xml:id="schuylerSis">
                <persName>
                   <surname>Schuyler</surname>
                   <forename>Angelica, Eliza and Peggy</forename>
                </persName>
-               <note>....</note>
+               <note>Reference to Schuyler Sisters as a group, not the individual.</note>
             </person>
             <person xml:id="franklin">
                <persName>
@@ -661,7 +661,7 @@
                <occupation>Diplomat</occupation>
                <occupation>Author</occupation>
                <occupation>Inventor</occupation>
-               <note>....</note>
+               <note>Does not appear onstage.</note>
             </person>
          </listPerson>
       </body>

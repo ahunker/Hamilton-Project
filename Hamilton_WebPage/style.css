@@ -156,3 +156,32 @@ div#map{
     padding-top: 1%;
     padding-bottom: 1%;
 }
+
+div.person{
+   font-family: georgia, serif;
+    color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 80%;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    float: left;
+    background: #f2dca6;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black; 
+}
+
+div.person2{
+    text-align: left;
+   letter-spacing: 2px;
+   line-height: 1.5;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: #f2dca6;
+}
