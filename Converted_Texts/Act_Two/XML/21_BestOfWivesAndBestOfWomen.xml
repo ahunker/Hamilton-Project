@@ -43,7 +43,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I know. I just need to write something down</l>
+                    <l><seg type="#ambiguous">I know. I just need to write something down</seg></l>
                 </sp>
 
                 <sp who="#eliza">

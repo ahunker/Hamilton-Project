@@ -38,7 +38,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>We have the check stubs. From separate accounts…</l>
+                    <l><seg type="#ambiguous">We have the check stubs.</seg> From separate accounts…</l>
                 </sp>
 
 
@@ -69,7 +69,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Though ‘virtue’ is not a word I’d apply to this situation—</l>
+                    <l>Though 'virtue’ is not a word I’d apply to this situation—</l>
                 </sp>
 
 
@@ -180,7 +180,7 @@
                     <l>Escorted me to bed and when she had me in a corner</l>
                     <l>That’s when <persName ref="#reynolds">Reynolds</persName> extorted me</l>
                     <l>For a sordid fee</l>
-                    <l>I paid him quarterly</l>
+                    <l><seg type="#ambiguous">I paid him quarterly</seg></l>
                     <l>I may have mortally wounded my prospects</l>
                     <l>But my papers are orderly!</l>
                     <l>As you can see I kept a record of every check in my checkered</l>

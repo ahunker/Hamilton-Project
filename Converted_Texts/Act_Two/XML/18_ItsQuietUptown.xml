@@ -38,7 +38,7 @@
 
                 <sp who="#angelica #ensemble">
                     <speaker>ANGELICA/ENSEMBLE</speaker>
-                    <l>The Hamiltons move uptown</l>
+                    <l><seg type="#ambiguous">The Hamiltons move uptown</seg></l>
                     <l>And learn to live with the unimaginable</l>
                 </sp>
 
@@ -48,7 +48,7 @@
                     <l>I walk alone to the store</l>
                     <l>And it's quiet uptown</l>
                     <l>I never liked the quiet before</l>
-                    <l>I take the children to church on Sunday</l>
+                    <l><seg type="#ambiguous">I take the children to church on Sunday</seg></l>
                     <l>A sign of the cross at the door</l>
                     <l>And I pray</l>
                     <l>That never used to happen before</l>
@@ -159,7 +159,7 @@
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
                     <stage type="delivery">Except Hamilton and Eliza</stage>
-                    <l>Forgiveness. Can you imagine?</l>
+                    <l><seg type="#ambiguous">Forgiveness. Can you imagine?</seg></l>
                     <l>Forgiveness. Can you imagine?</l>
                     <l>If you see him in the street, walking by her</l>
                     <l>Side, talking by her side, have pity</l>

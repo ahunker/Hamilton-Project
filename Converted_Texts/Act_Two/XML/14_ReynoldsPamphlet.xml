@@ -42,7 +42,7 @@
                 <sp who="#burr #jefferson #madison">
                     <speaker>BURR/JEFFERSON/MADISON</speaker>
                     <l><persName ref="#hamilton">Alexander Hamilton</persName> had a torrid affair</l>
-                    <l>And he wrote it down right there</l>
+                    <l><seg type="#ambiguous">And he wrote it down right there</seg></l>
                 </sp>
 
 
@@ -55,7 +55,7 @@
                 <spGrp type="simultaneous">
                     <sp who="#hamilton #jefferson">
                         <speaker>HAMILTON/JEFFERSON</speaker>
-                        <l>“The charge against me</l>
+                        <l><seg type="#ambiguous">“The charge against me</seg></l>
                         <l>Is a connection with one</l>
                         <l><persName ref="#reynolds">James Reynolds</persName>!</l>
                         <l>For purposes of</l>

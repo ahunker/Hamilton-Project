@@ -30,8 +30,8 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>How does <persName ref="#hamilton">Hamilton</persName> the short-tempered</l>
-                    <l>Protean creator of the Coast Guard</l>
-                    <l>Founder of the <placeName>New York</placeName> Post</l>
+                    <l><seg type="#ambiguous">Protean creator of the Coast Guard</seg></l>
+                    <l><seg type="#ambiguous">Founder of the <placeName>New York</placeName> Post</seg></l>
                     <l>Ardently abuse his cab’net post</l>
                     <l>Destroy his reputation?</l>
                     <l>Welcome, folks, to</l>
@@ -46,7 +46,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><persName ref="#jefferson">Jefferson’s</persName> the runner-up, which makes him the Vice President</l>
+                    <l><seg type="#ambiguous"><persName ref="#jefferson">Jefferson’s</persName> the runner-up, which makes him the Vice President</seg></l>
                 </sp>
 
 
@@ -77,7 +77,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Sit down, <persName ref="#jAdams">John</persName>, you fat mother—<stage type="delivery">BLEEP</stage></l>
+                    <l><seg type="#ambiguous">Sit down, <persName ref="#jAdams">John</persName>, you fat mother—<stage type="delivery">BLEEP</stage></seg></l>
                 </sp>
 
 

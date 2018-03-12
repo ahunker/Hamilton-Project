@@ -29,29 +29,29 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>Theres nothing like summer in the city</l>
+                    <l>There's nothing like summer in the city</l>
                     <l>Someone under stress meets someone looking pretty</l>
-                    <l>Theres trouble in the air, you can smell it</l>
-                    <l>And <persName ref="#hamilton">Alexander's</persName> by himself. Ill let him tell it</l>
+                    <l>There's trouble in the air, you can smell it</l>
+                    <l>And <persName ref="#hamilton">Alexander's</persName> by himself. I'll let him tell it</l>
                 </sp>
 
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I hadnt slept in a week</l>
+                    <l>I hadn't slept in a week</l>
                     <l>I was weak, I was awake</l>
                     <l>You never seen a bastard orphan</l>
                     <l>More in need of a break</l>
                     <l>Longing for <persName ref="#angelica">Angelica</persName></l>
                     <l>Missing my wife</l>
-                    <l>That’s when <persName ref="#maria">Miss Maria Reynolds</persName> walked into my life, she said:</l>
+                    <l><seg type="#ambiguous">That’s when <persName ref="#maria">Miss Maria Reynolds</persName> walked into my life</seg>, she said:</l>
                 </sp>
 
 
                 <sp who="#maria">
                     <speaker>MARIA</speaker>
                     <l>I know you are a man of honor</l>
-                    <l>Im so sorry to bother you at home</l>
+                    <l>I'm so sorry to bother you at home</l>
                     <l>But I don’t know where to go, and I came here all alone</l>
                 </sp>
 
@@ -64,10 +64,10 @@
 
                 <sp who="#maria">
                     <speaker>MARIA</speaker>
-                    <l>My husband’s doin me wrong</l>
-                    <l>Beatin me, cheatin me, mistreatin me...</l>
+                    <l>My husband’s doin' me wrong</l>
+                    <l>Beatin' me, cheatin' me, mistreatin' me...</l>
                     <l>Suddenly he’s up and gone</l>
-                    <l>I dont have the means to go on</l>
+                    <l>I don't have the means to go on</l>
                 </sp>
 
 
@@ -85,7 +85,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>I gave her thirty bucks that I had socked away</l>
+                    <l><seg type="#ambiguous">I gave her thirty bucks that I had socked away</seg></l>
                     <l>She lived a block away, she said:</l>
                 </sp>
 
@@ -98,7 +98,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Then I said, well, I should head back home,</l>
+                    <l>Then I said, "well, I should head back home,"</l>
                     <l>She turned red, she led me to her bed</l>
                     <l>Let her legs spread and said:</l>
                 </sp>
@@ -130,7 +130,7 @@
                     <l>I don’t know how to</l>
                     <l>Say no to this</l>
                     <l>But my God, she looks so <phr type="#helpless">helpless</phr></l>
-                    <l>And her body’s saying, hell, yes</l>
+                    <l>And her body’s saying, "hell, yes"</l>
                 </sp>
 
 
@@ -198,7 +198,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I wish I could say that was the last time</l>
-                    <l>I said that last time. It became a pastime</l>
+                    <l><seg type="#ambiguous">I said that last time. It became a pastime</seg></l>
                     <l>A month into this endeavor I received a letter</l>
                     <l>From a <persName ref="#reynolds">Mr. James Reynolds</persName>, even better, it said:</l>
                 </sp>
@@ -206,7 +206,7 @@
 
                 <sp who="#reynolds">
                     <speaker>JAMES</speaker>
-                    <l>Dear Sir, I hope this letter finds you in good health</l>
+                    <l><seg type="#ambiguous">Dear Sir, I hope this letter finds you in good health</seg></l>
                     <l>And in a prosperous enough position to put wealth</l>
                     <l>In the pockets of people like me: down on their luck</l>
                     <l>You see, that was my wife who you decided to</l>
@@ -231,7 +231,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I hid the letter and I raced to her place</l>
-                    <l>Screamed How could you?! in her face</l>
+                    <l>Screamed "How could you?!" in her face</l>
                     <l>She said:</l>
                 </sp>
 
@@ -463,7 +463,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Nobody needs to know</l>
+                    <l><seg type="#ambiguous">Nobody needs to know</seg></l>
                 </sp>
             </div>
         </body>

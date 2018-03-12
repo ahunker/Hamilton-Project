@@ -35,13 +35,13 @@
                     <l>A yellow sky</l>
 
 
-                    <l>When I was seventeen a hurricane</l>
+                    <l><seg type="#ambiguous">When I was seventeen a hurricane</seg></l>
                     <l>Destroyed my town</l>
                     <l>I didn’t drown</l>
                     <l>I couldn’t seem to die</l>
 
 
-                    <l>I wrote my way out</l>
+                    <l><seg type="#ambiguous">I wrote my way out</seg></l>
                     <l>Wrote everything down far as I could see</l>
                     <l>I wrote my way out</l>
                     <l>I looked up and the town had its eyes on me</l>
@@ -71,7 +71,7 @@
                     <l>A yellow sky</l>
 
 
-                    <l>I was twelve when my mother died</l>
+                    <l><seg type="#ambiguous">I was twelve when my mother died</seg></l>
                     <l>She was holding me</l>
                     <l>We were sick and she was holding me</l>
                     <l>I couldn’t seem to die</l>
@@ -128,7 +128,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>The <persName ref="#reynolds">Reynolds</persName> Pamphlet</l>
+                    <l><seg type="#ambiguous">The <persName ref="#reynolds">Reynolds</persName> Pamphlet</seg></l>
                 </sp>
             </div>
         </body>

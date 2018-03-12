@@ -144,7 +144,7 @@
                         <l>And play piano with my mother</l>
 
 
-                        <l>I have a sister, but I want a little brother</l>
+                        <l><seg type="#ambiguous">I have a sister, but I want a little brother</seg></l>
 
 
                         <l>My daddy's trying to start <placeName>America's</placeName> bank</l>
@@ -235,7 +235,7 @@
                     <l>Your fav'rite older sister</l>
                     <l><persName ref="#angelica">Angelica</persName>, reminds you</l>
                     <l>There's someone in your corner all the way across the sea</l>
-                    <l>In a letter I received from you two weeks ago</l>
+                    <l><seg type="#ambiguous">In a letter I received from you two weeks ago</seg></l>
                     <l>I noticed a comma in the middle of a phrase</l>
                     <l>It changed the meaning. Did you intend this?</l>
                     <l>One stroke and you've consumed my waking days</l>
@@ -267,7 +267,7 @@
                     <l>If you make your way upstate</l>
                     <l>I know you're very busy</l>
                     <l>I know your works important</l>
-                    <l>But I'm crossing the ocean and <phr type="#wait">I just can't wait</phr></l>
+                    <l><seg type="#ambiguous">But I'm crossing the ocean and <phr type="#wait">I just can't wait</phr></seg></l>
                 </sp>
 
                 <sp who="#hamilton #angelica">
@@ -368,7 +368,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>You know I have to get my plan through Congress</l>
+                    <l><seg type="#ambiguous">You know I have to get my plan through Congress</seg></l>
                 </sp>
 
 

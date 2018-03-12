@@ -52,7 +52,7 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>I'll give him this: his financial system is a</l>
-                    <l>Work of genius. I couldn't undo it if I tried</l>
+                    <l>Work of genius. <seg type="#ambiguous">I couldn't undo it if I tried</seg></l>
                     <l>And I tried</l>
                 </sp>
 
@@ -138,7 +138,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I stop <phr type="#time">wasting time</phr> on tears</l>
-                    <l>I live another fifty years</l>
+                    <l><seg type="#ambiguous">I live another fifty years</seg></l>
                     <l>It's not enough</l>
                 </sp>
 
@@ -151,7 +151,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I interview every soldier who fought by your side</l>
+                    <l><seg type="#ambiguous">I interview every soldier who fought by your side</seg></l>
                 </sp>
 
 
@@ -164,7 +164,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I try to make sense of your thousands of pages of writings</l>
-                    <l>You really do write like you're running out of</l>
+                    <l>You really do write like you're running out of-</l>
                 </sp>
 
 
@@ -176,7 +176,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I rely on</l>
+                    <l>I rely on-</l>
                 </sp>
 
 
@@ -188,7 +188,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>While she's alive</l>
+                    <l>While she's alive-</l>
                 </sp>
 
 
@@ -200,7 +200,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>She is buried in <placeName>Trinity Church</placeName></l>
+                    <l><seg type="#ambiguous">She is buried in <placeName>Trinity Church</placeName></seg></l>
                 </sp>
 
 
@@ -212,7 +212,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>When I needed her most, she was right on</l>
+                    <l>When I needed her most, she was right on-</l>
                 </sp>
 
 
@@ -225,21 +225,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>And I'm still not through</l>
-                    <l>I ask myself, "What would you do if you had more</l>
-                </sp>
-
-
-                <sp who="#eliza #company">
-                    <speaker>ELIZA AND COMPANY</speaker>
-                    <l><phr type="#time">Time"</phr></l>
-                </sp>
-
-
-                <sp who="#eliza">
-                    <speaker>ELIZA</speaker>
-                    <l>The Lord, in his kindness</l>
-                    <l>He gives me what you always wanted</l>
-                    <l>He gives me more</l>
+                    <l>I ask myself, "What would you do if you had more-"</l>
                 </sp>
 
 
@@ -251,7 +237,21 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I raise funds in D.C. for the <persName ref="#washington">Washington</persName> Monument</l>
+                    <l>The Lord, in his kindness</l>
+                    <l>He gives me what you always wanted</l>
+                    <l>He gives me more-</l>
+                </sp>
+
+
+                <sp who="#eliza #company">
+                    <speaker>ELIZA AND COMPANY</speaker>
+                    <l><phr type="#time">Time</phr></l>
+                </sp>
+
+
+                <sp who="#eliza">
+                    <speaker>ELIZA</speaker>
+                    <l><seg type="#ambiguous">I raise funds in D.C. for the <persName ref="#washington">Washington</persName> Monument</seg></l>
                 </sp>
 
 
@@ -263,8 +263,8 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I speak out against slavery</l>
-                    <l>You could have done so much more if you only had</l>
+                    <l><seg type="#ambiguous">I speak out against slavery</seg></l>
+                    <l>You could have done so much more if you only had-</l>
                 </sp>
 
 
@@ -308,7 +308,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>I established the first private orphanage in New York City</l>
+                    <l><seg type="#ambiguous">I established the first private orphanage in New York City</seg></l>
                 </sp>
 
 
@@ -334,7 +334,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>In their eyes I see you, <persName ref="#hamilton">Alexander</persName></l>
-                    <l>I see you every</l>
+                    <l>I see you every-</l>
                 </sp>
 
 
@@ -362,8 +362,8 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l>Oh, I can't wait to see you again</l>
-                    <l>It's only a matter of</l>
+                    <l><seg type="#ambiguous">Oh, I can't wait to see you again</seg></l>
+                    <l>It's only a matter of-</l>
                 </sp>
 
 
@@ -382,7 +382,7 @@
                     <l>Will they tell your story?</l>
 
 
-                    <l>Who lives, who dies </l>
+                    <l>Who lives, who dies-</l>
                     <l><phr type="#time">Time</phr></l>
 
 

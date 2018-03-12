@@ -40,12 +40,12 @@
                     <l>Fight the other founding fathers til he has to forfeit?</l>
                     <l>Have it all, lose it all</l>
                     <l>You ready for more yet?</l>
-                    <l>Treasury Secretary. <persName ref="#washington">Washington's</persName> the President</l>
+                    <l>Treasury Secretary. <seg type="#ambiguous"><persName ref="#washington">Washington's</persName> the President</seg></l>
                     <l>Ev'ry American experiment sets a precedent</l>
                     <l>Not so fast. Someone came along to resist him</l>
-                    <l>Pissed him off until we had a two-party system</l>
+                    <l><seg type="#ambiguous">Pissed him off until we had a two-party system</seg></l>
                     <l>You haven't met him yet, you haven't had the chance</l>
-                    <l>'cause he's been kickin' ass as the ambassador to <placeName>France</placeName></l>
+                    <l><seg type="#ambiguous">cause he's been kickin' ass as the ambassador to <placeName>France</placeName></seg></l>
                     <l>But someone's gotta keep the American promise</l>
                     <l>You simply must meet <persName ref="#jefferson">Thomas</persName>. <persName ref="#jefferson">Thomas</persName>!</l>
                 </sp>
@@ -77,7 +77,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>I helped <persName ref="#lafayette">Lafayette</persName> draft a declaration</l>
+                    <l><seg type="#ambiguous">I helped <persName ref="#lafayette">Lafayette</persName> draft a declaration</seg></l>
                     <l>Then I said, 'I gotta go</l>
                     <l>I gotta be in <placeName>Monticello</placeName>.'</l>
                     <l>Now the work at home begins</l>
@@ -105,9 +105,9 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>There's a letter on my desk from the <persName ref="#washington">President</persName></l>
+                    <l><seg type="#ambiguous">There's a letter on my desk from the <persName ref="#washington">President</persName></seg></l>
                     <l>Haven't even put my bags down yet</l>
-                    <l><persName ref="#sally">Sally</persName> be a lamb, darlin', won'tcha open it?</l>
+                    <l><seg type="#ambiguous"><persName ref="#sally">Sally</persName> be a lamb</seg>, darlin', won'tcha open it?</l>
                     <l>It says the <persName ref="#washington">President's</persName> assembling a cabinet</l>
                     <l>And that I am to be the Secretary of State, great!</l>
                     <l>And that I'm already Senate-approved...</l>

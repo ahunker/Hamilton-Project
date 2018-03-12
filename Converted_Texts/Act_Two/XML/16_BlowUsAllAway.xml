@@ -29,7 +29,7 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Meet the latest graduate of King's College!</l>
+                    <l><seg type="#ambiguous">Meet the latest graduate of King's College!</seg></l>
                     <l>I probly shouldn't brag, but, dag, I amaze and astonish!</l>
                     <l>The scholars say I got the same virtuosity and brains as my pops!</l>
                     <l>The ladies say my brains not where the resemblance stops!</l>
@@ -52,7 +52,7 @@
 
                     <l>Ladies, I'm lookin for a <persName ref="#eacker">Mr. George Eacker</persName></l>
                     <l>Made a speech last week, our Fourth of July speaker</l>
-                    <l>He disparaged my father's <phr type="#legacy">legacy</phr> in front of a crowd</l>
+                    <l><seg type="#ambiguous">He disparaged my father's <phr type="#legacy">legacy</phr> in front of a crowd</seg></l>
                     <l>I can't have that, I'm making my father proud</l>
                 </sp>
 
@@ -213,7 +213,7 @@
                 <sp who="#hamilton #philipH">
                     <speaker>HAMILTON/PHILIP</speaker>
 
-                    <l>Everything is legal in <placeName>New Jersey</placeName></l>
+                    <l><seg type="#ambiguous">Everything is legal in <placeName>New Jersey</placeName></seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -262,7 +262,7 @@
                     <speaker>HAMILTON</speaker>
 
                     <l>Come back home when you're done</l>
-                    <l>Take my guns. Be smart. Make me proud, son</l>
+                    <l><seg type="#ambiguous">Take my guns. Be smart. Make me proud, son</seg></l>
                 </sp>
 
                 <sp who="#philipH">

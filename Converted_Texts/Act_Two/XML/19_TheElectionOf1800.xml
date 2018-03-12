@@ -44,8 +44,8 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>Yo. Ev'ry action has an equal, opposite reaction</l>
-                    <l><persName ref="#jAdams">John Adams</persName> shat the bed. I love the guy,
-                        but he's in traction</l>
+                    <l><seg type="#ambiguous"><persName ref="#jAdams">John Adams</persName> shat the bed. I love the guy,
+                        but he's in traction</seg></l>
                     <l>Poor <persName ref="#hamilton">Alexander Hamilton</persName>? He is missing
                         in action</l>
                     <l>So now I'm facing</l>
@@ -58,7 +58,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>With his own faction</l>
+                    <l><seg type="#ambiguous">With his own faction</seg></l>
                 </sp>
 
                 <sp who="#madison">
@@ -293,7 +293,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>You're openly campaigning?</l>
+                    <l><seg type="#ambiguous">You're openly campaigning?</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -372,7 +372,7 @@
 
                 <sp who="#jefferson #madison">
                     <speaker>JEFFERSON/MADISON</speaker>
-                    <l>It's up to <persName ref="#hamilton">Hamilton</persName>!</l>
+                    <l><seg type="#ambiguous">It's up to <persName ref="#hamilton">Hamilton</persName>!</seg></l>
                 </sp>
 
                 <spGrp type="simultaneous">
@@ -435,7 +435,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>And if you were to ask me who I'd promote</l>
+                    <l>And if you were to ask me who I'd promote-</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -445,7 +445,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><persName ref="#jefferson">Jefferson</persName> has my vote</l>
+                    <l><seg type="#ambiguous"><persName ref="#jefferson">-Jefferson</persName> has my vote</seg></l>
                 </sp>
 
                 <sp who="#jefferson #madison #ensemble">
@@ -552,7 +552,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>Yeah, you know what? We can change that. You know why?</l>
+                    <l><seg type="#ambiguous">Yeah, you know what? We can change that.</seg> You know why?</l>
                 </sp>
 
                 <sp who="#madison">

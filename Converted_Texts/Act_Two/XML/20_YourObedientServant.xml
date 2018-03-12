@@ -36,7 +36,7 @@
                     <l><persName ref="#jefferson">Thomas Jefferson</persName>, his enemy</l>
                     <l>A man he's despised since the beginning</l>
                     <l>Just to keep me from winning?</l>
-                    <l>I wanna be in the room where it happens</l>
+                    <l>I wanna be in the room where it happens-</l>
                 </sp>
 
                 <sp who="#burr #company">
@@ -47,7 +47,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>You've kept me from</l>
+                    <l>You've kept me from-</l>
                 </sp>
 
                 <sp who="#burr #company">
@@ -58,7 +58,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>For the last <phr type="#time">time</phr></l>
-                    <l>Dear <persName ref="#hamilton">Alexander</persName>:</l>
+                    <l><seg type="#ambiguous">Dear <persName ref="#hamilton">Alexander</persName>:</seg></l>
                     <l>I am slow to anger</l>
                     <l>But I toe the line</l>
                     <l>As I reckon with the effects</l>
@@ -66,12 +66,12 @@
                     <l>I look back on where I failed</l>
                     <l>And in every place I checked</l>
                     <l>The only common thread has been your disrespect</l>
-                    <l>Now you call me amoral,</l>
-                    <l>A dangerous disgrace,</l>
+                    <l>Now you call me "amoral,"</l>
+                    <l>"A dangerous disgrace,"</l>
                     <l>If you've got something to say</l>
                     <l>Name a time and place</l>
                     <l>Face to face</l>
-                    <l>I have the honor to be Your Obedient Servant</l>
+                    <l><seg type="#ambiguous">I have the honor to be Your Obedient Servant</seg></l>
                     <l><persName ref="#burr">A dot Burr</persName></l>
                 </sp>
 
@@ -84,7 +84,7 @@
                     <l>I have always worn it on my sleeve</l>
                     <l>Even if I said what you think I said</l>
                     <l>You would need to cite a more specific grievance</l>
-                    <l>Here's an itemized list of thirty years of disagreements</l>
+                    <l><seg type="#ambiguous">Here's an itemized list of thirty years of disagreements</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -123,7 +123,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Then stand, <persName ref="#hamilton">Alexander</persName></l>
-                    <l><placeName>Weehawken</placeName>. Dawn</l>
+                    <l><seg type="#ambiguous"><placeName>Weehawken</placeName>. Dawn</seg></l>
                     <l>Guns. Drawn</l>
                 </sp>
 

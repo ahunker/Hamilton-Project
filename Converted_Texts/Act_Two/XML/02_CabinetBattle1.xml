@@ -29,16 +29,16 @@
                     <l>Ladies and gentlemen, you coulda been anywhere in the world tonight, but
                         you're here with us in <placeName>New York City.</placeName> Are you ready
                         for a cabinet meeting???</l>
-                    <l>The issue on the table: <persName ref="#hamilton">Secretary
+                    <l>The issue on the table: <seg type="#ambiguous"><persName ref="#hamilton">Secretary
                             Hamilton's</persName> plan to assume state debt and establish a national
-                        bank. <persName ref="#jefferson">Secretary Jefferson</persName>, you have
+                        bank.</seg> <persName ref="#jefferson">Secretary Jefferson</persName>, you have
                         the floor, sir</l>
                 </sp>
 
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l>'Life, liberty and the pursuit of happiness.'</l>
+                    <l><seg type="#ambigous">'Life, liberty and the pursuit of happiness.'</seg></l>
                     <l>We fought for these ideals; we shouldn't settle for less</l>
                     <l>These are wise words, enterprising men quote 'em</l>
                     <l>Don't act surprised, you guys, cuz I wrote 'em</l>
@@ -56,7 +56,7 @@
                     <l>But <persName ref="#hamilton">Hamilton</persName> forgets</l>
                     <l>His plan would have the government assume state's debts</l>
                     <l>Now, place your bets as to who that benefits:</l>
-                    <l>The very seat of government where <persName ref="#hamilton">Hamilton</persName> sits</l>
+                    <l><seg type="#ambiguous">The very seat of government where <persName ref="#hamilton">Hamilton</persName> sits</seg></l>
                 </sp>
 
 
@@ -94,7 +94,7 @@
 
 
                     <sp who="#washington">
-                        <l>WASHINGTON</l>
+                        <speaker>WASHINGTON</speaker>
                         <l>Thank you, <persName ref="#jefferson">Secretary Jefferson</persName></l>
                         <l><persName ref="#hamilton">Secretary Hamilton</persName>, your
                             response</l>
@@ -105,13 +105,13 @@
                     <speaker>HAMILTON</speaker>
                     <l><persName ref="#jefferson">Thomas</persName>. That was a real nice
                         declaration</l>
-                    <l>Welcome to the present, were running a real nation</l>
+                    <l>Welcome to the present, we're running a real nation</l>
                     <l>Would you like to join us, or stay mellow</l>
                     <l>Doin' whatever the hell it is you do in
                         <placeName>Monticello</placeName>?</l>
                     <l>If we assume the debts, the union gets</l>
                     <l>A new line of credit, a financial diuretic</l>
-                    <l>How do you not get it? If were aggressive and competitive</l>
+                    <l>How do you not get it? If we're aggressive and competitive</l>
                     <l>The union gets a boost. You'd rather give it a sedative?</l>
                     <l>A civics lesson from a slaver. Hey neighbor</l>
                     <l>Your debts are paid cuz you don't pay for labor</l>
@@ -126,8 +126,8 @@
                     <l><persName ref="#jefferson">Thomas Jefferson</persName>, always hesitant with
                         the <persName ref="#washington">President</persName></l>
                     <l>Reticent there isn't a plan he doesn't jettison</l>
-                    <l><persName ref="#madison">Madison</persName>, you're mad as a hatter, son,
-                        take your medicine</l>
+                    <l><seg type="#ambiguous"><persName ref="#madison">Madison</persName>, you're mad as a hatter, son,
+                        take your medicine</seg></l>
                     <l>Damn, you're in worse shape than the national debt is in</l>
                     <l>Sittin' there useless as two shits</l>
                     <l>Hey, turn around, bend over, I'll show you</l>

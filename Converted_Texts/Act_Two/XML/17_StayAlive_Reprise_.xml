@@ -45,8 +45,8 @@
                     <sp who="#doctor">
                         <speaker>DOCTOR</speaker>
 
-                        <l><persName ref="#hamilton">Mr. Hamilton</persName>, come in. They brought him in a half an hour ago. He lost a
-                            lot of blood on the way over.</l>
+                        <l><seg type="#ambiguous"><persName ref="#hamilton">Mr. Hamilton</persName>, come in. They brought him in a half an hour ago. He lost a
+                            lot of blood on the way over.</seg></l>
                         <l>Yes. But you have to understand</l>
                         <l>The bullet entered just above his hip and</l>
                         <l>Lodged in his right arm</l>

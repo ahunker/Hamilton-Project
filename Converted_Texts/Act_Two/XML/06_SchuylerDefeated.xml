@@ -30,7 +30,7 @@
                     <speaker>PHILIP</speaker>
                     <l>Look!</l>
                     <l>Grandpa’s in the paper!</l>
-                    <l>“War hero <persName ref="#philipS">Philip Schuyler</persName> loses senate seat to young upstart <persName ref="#burr">Aaron Burr</persName>”</l>
+                    <l><seg type="#ambiguous">"War hero <persName ref="#philipS">Philip Schuyler</persName> loses senate seat to young upstart <persName ref="#burr">Aaron Burr</persName>"</seg></l>
                     <l>Grandpa just lost his seat in the senate</l>
                 </sp>
 
@@ -156,7 +156,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l>I changed parties to seize the opportunity I saw</l>
+                    <l><seg type="#ambiguous">I changed parties to seize the opportunity I saw</seg></l>
                     <l>I swear your pride will be the death of us all</l>
                     <l>Beware, it goeth before the fall</l>
                 </sp>
