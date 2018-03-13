@@ -1151,5 +1151,6 @@
 <g transform="matrix(0.7803956900733643, 0, 0, 0.7803956900733643, 1144.7402920535096, 513.5430068194032)">
 <text fill-opacity="1" font-style="normal" font-family="Georgia Bold" font-weight="normal" stroke="none" fill="#010000" font-size="16" x="0" y="0">admiralHowe</text>
 </g> <!-- transform -->
-</g> <!-- default stroke -->
+</g>
+  <!-- default stroke -->
 </svg> <!-- bounding box -->

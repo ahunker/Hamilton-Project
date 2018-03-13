@@ -104,6 +104,13 @@ img.vis{
     border-color: black;
     background:white;
     }
+
+img.vis2{
+    width: 60%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    background:white;}
     
 div.main{font-family: georgia, serif;
     font-family: georgia, serif;
