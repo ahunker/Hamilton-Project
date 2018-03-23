@@ -43,11 +43,11 @@
                             </xsl:if>
                         </fieldset>
                     </div>
-                    <!--<div class="castList">
+                    <div class="castList">
                         <h3>Cast List:</h3>
                         <ul>
                         <xsl:apply-templates select="descendant::body" mode="cast"/></ul>
-                    </div>-->
+                    </div>
                     <div class="lyrics">
                         <xsl:apply-templates select="//body"/>
                     </div>
@@ -56,11 +56,11 @@
             </body>
         </html>
     </xsl:template>
-<!--<xsl:template match="body" mode="cast">
-    <xsl:for-each select="distinct-values(descendant::sp/@who)">
+<xsl:template match="body" mode="cast">
+    <xsl:for-each select="distinct-values(descendant::sp[@who]/speaker/text())">
         <li><xsl:apply-templates select="."/></li>
     </xsl:for-each>
-</xsl:template>-->
+</xsl:template>
     <xsl:template match="spGrp[@type = 'simultaneous']">
         <div class="simulatneous">
             <xsl:apply-templates/>
@@ -121,6 +121,21 @@
 
     <xsl:template match="phr">
         <span class="phr">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="seg[@type='#ambiguous']">
+        <span class="segA">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="seg[@type='#fact']">
+        <span class="segFact">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="seg[@type='#fiction']">
+        <span class="segFict">
             <xsl:apply-templates/>
         </span>
     </xsl:template>

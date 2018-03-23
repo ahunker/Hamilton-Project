@@ -46,7 +46,7 @@
                     </text>
                     <line x1="30" x2="{$max_xValue + $xSpacer}" y1="{-$yAxis_HashLocator}" y2="{-$yAxis_HashLocator}" stroke="black" stroke-width=".5" stroke-dasharray="10"/>
  </xsl:for-each> 
-                <text x="1150" y="-550" text-anchor="middle" style="font-size:50px" font-family="georgia">Frequency of Phrases in Hamilton: An American Musical</text>
+                <text x="1150" y="-550" text-anchor="middle" style="font-size:50px" font-family="georgia">Frequency of Phrases in "Hamilton: An American Musical"</text>
                 <text x="-30" y="-250" text-anchor="middle" style="font-size:30px;writing-mode:tb;" font-family="georgia">Count of Repeated Phrase Per Song</text>
                 <text x="1150" y ="400" text-anchor="middle" style="font-size:45px" font-family="georgia">Song Titles</text>
                 <text x="25" y="300" style="font-size:30px" font-family="georgia">Legend:</text>

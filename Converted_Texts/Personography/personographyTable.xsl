@@ -27,12 +27,15 @@
                                 <!--<th>Birth</th>
                                 <th>Death</th>
                                 <th>Occupation</th>-->
-                                <th>No. of Times Referenced</th>
+                                <th>No. of Times Referenced </th>
                                 <th>People Referenced</th>
                                 <th>Referenced By</th>
                             </tr>
+                            
                             <xsl:for-each select="descendant::person">
+                                
                                 <tr>
+                                    
                                     <td>
                                         <xsl:apply-templates select=".//forename"/>
                                         <xsl:text> </xsl:text>
