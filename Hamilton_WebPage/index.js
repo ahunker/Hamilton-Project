@@ -1,7 +1,7 @@
 window.onload = init
 function init() {
     rotate();
-    rotate2();
+    /*rotate2();*/
 }
 
             
