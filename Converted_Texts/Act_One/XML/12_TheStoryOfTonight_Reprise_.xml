@@ -57,7 +57,7 @@
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l><seg type="#ambiguous">There’s hope for our ass, after all!</seg></l>
+                    <l><seg type="#fiction">There’s hope for our ass, after all!</seg></l>
                 </sp>
 
                 <sp who="#lafayette">
@@ -252,7 +252,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">She’s married to a British officer</seg></l>
+                    <l><seg type="#fact">She’s married to a British officer</seg></l>
                 </sp>
 
                 <sp who="#hamilton">

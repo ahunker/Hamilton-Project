@@ -31,12 +31,12 @@
                 
                 <sp who="#eliza">
                     <speaker>ELIZA HAMILTON</speaker>
-                    <l><seg type="#ambiguous"><persName ref="#hamilton">Alexander</persName>? There's a letter for you</seg></l>
+                    <l><seg type="#fiction"><persName ref="#hamilton">Alexander</persName>? There's a letter for you.</seg></l>
                 </sp>
                 
                 <sp who="#hamilton">
                     <speaker>ALEXANDER HAMILTON</speaker>
-                    <l>It's from <persName ref="#laurens">John Laurens</persName>. I'll read it later</l>
+                    <l>It's from <persName ref="#laurens">John Laurens</persName>. I'll read it later.</l>
                 </sp>
                 
                 <sp who="#laurens">
@@ -71,7 +71,7 @@
                 
                 <sp who="#eliza">
                     <speaker>ELIZA HAMILTON</speaker>
-                    <l><seg type="#ambiguous">"On Tuesday the 27th, my son was killed in a gunfight against British troops retreating from <placeName>South Carolina</placeName>. The war was already over. As you know, <persName ref="#laurens">John</persName> dreamed of emancipating and recruiting 3000 men for the first all-black military regiment.
+                    <l><seg type="#fact">"On Tuesday the 27th, my son was killed in a gunfight against British troops retreating from <placeName>South Carolina</placeName>. The war was already over. As you know, <persName ref="#laurens">John</persName> dreamed of emancipating and recruiting 3000 men for the first all-black military regiment.
                         His dream of freedom for these men dies with him."</seg></l>
                 </sp>
                 
@@ -87,7 +87,7 @@
                 
                 <sp who="#hamilton">
                     <speaker>ALEXANDER HAMILTON</speaker>
-                    <l>I have so much work to do</l>
+                    <l>I have so much work to do.</l>
                 </sp>
             </spGrp>
         </body>

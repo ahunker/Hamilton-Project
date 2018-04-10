@@ -31,14 +31,14 @@
                     <l>Hey yo, I’m just like my country</l>
                     <l>I’m young, scrappy and hungry</l>
                     <l>And <phr type="#shot">I’m not throwing away my shot!</phr></l>
-                    <l><seg type="#ambiguous">I’m ‘a get a scholarship to <placeName>King’s College</placeName></seg></l>
+                    <l><seg type="#fact">I’m ‘a get a scholarship to <placeName>King’s College</placeName></seg></l>
                     <l>I prob’ly shouldn’t brag, but dag, I amaze and astonish</l>
                     <l>The problem is I got a lot of brains but no polish</l>
                     <l>I gotta holler just to be heard</l>
                     <l>With every word, I drop knowledge!</l>
                     <l>I’m a diamond in the rough, a shiny piece of coal</l>
                     <l>Tryin’ to reach my goal. My power of speech: unimpeachable</l>
-                    <l><seg type="#ambiguous">Only nineteen</seg> but my mind is older</l>
+                    <l><seg type="#fact">Only nineteen</seg> but my mind is older</l>
                     <l>These <placeName>New York City</placeName> streets get colder, I shoulder</l>
                     <l>Ev’ry burden, ev’ry disadvantage</l>
                     <l>I have learned to manage, I don’t have a gun to brandish</l>
@@ -59,7 +59,7 @@
                     <l>A colony that runs independently</l>
                     <l>Meanwhile, <placeName>Britain</placeName> keeps shittin’ on us endlessly</l>
                     <l>Essentially, they tax us relentlessly</l>
-                    <l><seg type="#ambiguous">Then <persName ref="#kingGeorge">King George</persName> turns around, runs a
+                    <l><seg type="#fact">Then <persName ref="#kingGeorge">King George</persName> turns around, runs a
                         spending spree</seg></l>
                     <l>He ain’t ever gonna set his descendants free</l>
                     <l>So there will be a revolution in this century</l>
@@ -133,7 +133,7 @@
 
                 <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
-                    <l><seg type="#ambiguous">Yo, I’m a tailor’s apprentice</seg></l>
+                    <l><seg type="#fact">Yo, I’m a tailor’s apprentice</seg></l>
                     <l>And I got y’all knuckleheads in loco parentis</l>
                     <l>I’m joining the rebellion cuz I know it’s my chance</l>
                     <l>To socially advance, instead of sewin’ some pants!</l>

@@ -44,7 +44,7 @@
                     <l>Oh, well, sure, sir</l>
                     <l>I’m <persName ref="#hamilton">Alexander Hamilton</persName>, I’m at your
                         service, sir</l>
-                    <l><seg type="#ambiguous">I have been looking for you</seg></l>
+                    <l><seg type="#fiction">I have been looking for you</seg></l>
                 </sp>
 
                 <sp who="#burr">
@@ -62,13 +62,13 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">You punched the bursar</seg></l>
+                    <l><seg type="#fiction">You punched the bursar</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Yes!</l>
-                    <l><seg type="#ambiguous">I wanted to do what you did. Graduate in two, then join the revolution.</seg> He
+                    <l><seg type="#fact">I wanted to do what you did. Graduate in two, then join the revolution.</seg> He
                         looked at me like I was stupid, I’m not stupid</l>
                     <l>So how’d you do it? How’d you graduate so fast?</l>
                 </sp>

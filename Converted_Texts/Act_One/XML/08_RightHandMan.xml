@@ -29,7 +29,7 @@
 
                 <sp who="#company">
                     <speaker>COMPANY</speaker>
-                    <l><seg type="#ambiguous">British <persName ref="#admiralHowe">Admiral Howe’s</persName> got troops on
+                    <l><seg type="#fact">British <persName ref="#admiralHowe">Admiral Howe’s</persName> got troops on
                         the water</seg></l>
                     <l>Thirty-two thousand troops in <placeName>New York harbor</placeName></l>
                 </sp>
@@ -60,7 +60,7 @@
 
                 <sp who="#hamilton #burr #mulligan #lafayette #laurens">
                     <speaker>HAMILTON/BURR/MULLIGAN/LAFAYETTE/LAURENS</speaker>
-                    <l><seg type="#ambiguous"><phr type="#rise">Rise up!</phr></seg></l>
+                    <l><phr type="#rise">Rise up!</phr></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -192,9 +192,9 @@
                     <l>For just a millisecond?</l>
                     <l>Let down my guard and tell the people how I feel a second?</l>
                     <l>Now I’m the model of a modern major general</l>
-                    <l><seg type="#ambiguous">The venerated Virginian veteran</seg> whose men are all</l>
+                    <l><seg type="#fact">The venerated Virginian veteran</seg> whose men are all</l>
                     <l>Lining up, to put me up on a pedestal</l>
-                    <l><seg type="#ambiguous">Writin’ letters to relatives</seg></l>
+                    <l><seg type="#fact">Writin’ letters to relatives</seg></l>
                     <l>Embellishin’ my elegance and eloquence</l>
                     <l>But the elephant is in the room</l>
                     <l>The truth is in ya face when ya hear the British cannons go…</l>
@@ -209,7 +209,7 @@
                     <speaker>WASHINGTON</speaker>
                     <l>Any hope of success is fleeting</l>
                     <l>How can I keep leading when the people I’m</l>
-                    <l>Leading <seg type="#ambiguous">keep retreating?</seg></l>
+                    <l>Leading <seg type="#fact">keep retreating?</seg></l>
                     <l>We put a stop to the bleeding as the British take
                             <placeName>Brooklyn</placeName></l>
                     <l>Knight takes rook, but look</l>
@@ -282,7 +282,7 @@
                     <speaker>HAMILTON</speaker>
                     <l>Let’s take a stand with the stamina God has granted us</l>
                     <l><persName ref="#hamilton">Hamilton</persName> won’t abandon ship</l>
-                    <l><seg type="#ambiguous">Yo, let’s steal their cannons—</seg></l>
+                    <l><seg type="#fact">Yo, let’s steal their cannons—</seg></l>
                 </sp>
 
                 <sp who="#mulligan">
@@ -307,7 +307,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>Goes the cannon, <seg type="#ambiguous">we’re abandonin’ <placeName>Kips Bay</placeName></seg> and…</l>
+                    <l>Goes the cannon, <seg type="#fact">we’re abandonin’ <placeName>Kips Bay</placeName></seg> and…</l>
                 </sp>
 
                 <sp who="#company">
@@ -337,7 +337,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">We gotta run to <placeName>Harlem</placeName> quick</seg>, we can’t afford another
+                    <l><seg type="#fact">We gotta run to <placeName>Harlem</placeName> quick</seg>, we can’t afford another
                         slip</l>
                     <l>Guns and horses giddyup</l>
                     <l>I decide to divvy up</l>
@@ -377,7 +377,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Sir</l>
-                    <l><seg type="#ambiguous">I was a captain under <persName ref="#generalMontgomery">General
+                    <l><seg type="#fact">I was a captain under <persName ref="#generalMontgomery">General
                         Montgomery</persName></seg></l>
                     <l>Until he caught a bullet in the neck in <placeName>Quebec</placeName></l>
                     <l>And well, in summary</l>
@@ -409,7 +409,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">Your excellency, you wanted to see me?</seg></l>
+                    <l><seg type="#fact">Your excellency, you wanted to see me?</seg></l>
                 </sp>
 
                 <sp who="#washington">
@@ -482,7 +482,7 @@
                     <speaker>WASHINGTON</speaker>
                     <l>Don’t get me wrong, you’re a young man of great renown</l>
                     <l>I know you stole British cannons when we were still downtown</l>
-                    <l><seg type="#ambiguous"><persName ref="#green">Nathaniel Green</persName> and <persName ref="#knox">Henry Knox</persName> wanted to hire you…</seg></l>
+                    <l><seg type="#fact"><persName ref="#green">Nathaniel Green</persName> and <persName ref="#knox">Henry Knox</persName> wanted to hire you…</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -661,7 +661,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">And his right hand man!</seg></l>
+                    <l><seg type="#fact">And his right hand man!</seg></l>
                 </sp>
 
                 <sp who="#company">

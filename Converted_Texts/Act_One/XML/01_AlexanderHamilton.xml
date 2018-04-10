@@ -23,20 +23,20 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">How does a bastard, orphan, son of a whore</seg> and a</l>
+                    <l><seg type="#fact">How does a bastard, orphan, son of a whore</seg><note>Born out of wedlock to Rachel Faucette, a half-British and half-French married woman, and James A. Hamilton, a Scotsman.</note> and a</l>
                     <l>Scotsman, dropped in the middle of a forgotten</l>
-                    <l><seg type="#ambiguous">Spot in the <placeName>Caribbean</placeName></seg> by providence, impoverished, in
+                    <l><seg type="#fact">Spot in the <placeName>Caribbean</placeName></seg><note>Alexander Hamilton was born in Charleston, Nevis located in the Leeward Islands, which were a part of the British West Indies.</note> by providence, impoverished, in
                         squalor</l>
                     <l>Grow up to be a hero and a scholar?</l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l><seg type="#ambiguous">The ten-dollar Founding Father without a father</seg></l>
+                    <l><seg type="#fact">The ten-dollar Founding Father without a father</seg><note>Hamilton's portrait appears on the ten-dollar note.</note></l>
                     <l>Got a lot farther by working a lot harder</l>
                     <l>By being a lot smarter</l>
                     <l>By being a self-starter</l>
-                    <l><seg type="#ambiguous">By fourteen, they placed him in charge of a trading charter</seg></l>
+                    <l><seg type="#fact">By fourteen, they placed him in charge of a trading charter</seg><note>Hamilton worked as a clerk at a local import-export firm Beekman and Cruger. When the owner was a sea for five months in 1771, Hamilton was left in charge of the firm.</note></l>
                 </sp>
 
                 <sp who="#jefferson">
@@ -49,16 +49,16 @@
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l><seg type="#ambiguous">Then a hurricane came, and devastation reigned</seg></l>
+                    <l><seg type="#fact">Then a hurricane came, and devastation reigned</seg></l>
                     <l>Our man saw his future drip, dripping down the drain</l>
                     <l>Put a pencil to his temple, connected it to his brain</l>
-                    <l><seg type="#ambiguous">And he wrote his first refrain</seg>, a testament to his pain</l>
+                    <l><seg type="#fact">And he wrote his first refrain</seg>, a testament to his pain</l>
                 </sp>
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Well, the word got around, they said, “This kid is insane, man”</l>
-                    <l><seg type="#ambiguous">Took up a collection just to send him to the mainland</seg></l>
+                    <l><seg type="#fact">Took up a collection just to send him to the mainland</seg></l>
                     <l>“Get your education, don’t forget from whence you came, and</l>
                     <l>The world's gonna know your name. What’s your name, man?”</l>
                 </sp>
@@ -73,7 +73,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">When he was ten his father split, full of it, debt-ridden</seg></l>
+                    <l><seg type="#fact">When he was ten his father split, full of it, debt-ridden</seg></l>
                     <l>Two years later, see <persName ref="#hamilton">Alex</persName> and his mother
                         bed-ridden</l>
                     <l>Half-dead sittin' in their own sick, the scent thick</l>
@@ -83,13 +83,13 @@
                     <speaker>COMPANY</speaker>
                     <stage type="delivery">Except Hamilton</stage>
                     <stage type="delivery">whispering</stage>
-                    <l>And <seg type="#ambiguous"><persName ref="#hamilton">Alex</persName> got better but his mother went
+                    <l>And <persName ref="#hamilton">Alex</persName> got better <seg type="#fact">but his mother went
                         quick</seg></l>
                 </sp>
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">Moved in with a cousin, the cousin committed suicide</seg></l>
+                    <l><seg type="#fact">Moved in with a cousin, the cousin committed suicide</seg><note>Hamilton and his brother, James Jr., were taken in by their cousin Peter Lytton, but Lytton later committed suicide.</note></l>
                     <l>Left him with nothin’ but ruined pride, something new inside</l>
                     <l>A voice saying</l>
                 </sp>
@@ -141,7 +141,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">The bow of a ship headed for a new land</seg></l>
+                    <l><seg type="#fact">The bow of a ship headed for a new land</seg></l>
                     <l>In <placeName>New York</placeName> you can be a new man </l>
                 </sp>
 

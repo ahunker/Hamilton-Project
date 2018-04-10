@@ -27,11 +27,11 @@
                 <sp who="#kingGeorge">
                     <speaker>KING GEORGE</speaker>
                     <l>You say</l>
-                    <l><seg type="#ambiguous">The price of my love’s not a price that you’re willing to pay</seg></l>
+                    <l><seg type="#fact">The price of my love’s not a price that you’re willing to pay</seg></l>
                     <l>You cry</l>
-                    <l><seg type="#ambiguous">In your tea which you hurl in the sea when you see me go by</seg></l>
+                    <l><seg type="#fact">In your tea which you hurl in the sea when you see me go by</seg></l>
                     <l>Why so sad?</l>
-                    <l><seg type="#ambiguous">Remember we made an arrangement when you went away</seg></l>
+                    <l><seg type="#fact">Remember we made an arrangement when you went away</seg></l>
                     <l>Now you’re making me mad</l>
                     <l>Remember, despite our estrangement, I’m your man</l>
                     <l>You’ll be back, soon you’ll see</l>
@@ -41,7 +41,7 @@
                     <l>Oceans rise, empires fall</l>
                     <l>We have seen each other through it all</l>
                     <l>And when push comes to shove</l>
-                    <l><seg type="#ambiguous">I will send a fully armed battalion to remind you of my love!</seg></l>
+                    <l><seg type="#fact">I will send a fully armed battalion to remind you of my love!</seg></l>
                     <l>Da da da dat da dat da da da da ya da</l>
                     <l>Da da dat dat da ya da!</l>
                     <l>Da da da dat da dat da da da da ya da</l>
