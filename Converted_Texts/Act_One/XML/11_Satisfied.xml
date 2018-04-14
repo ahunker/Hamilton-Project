@@ -28,7 +28,7 @@
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
                     <l>Alright, alright. That’s what I’m talkin’ about!</l>
-                    <l><seg type="#ambiguous">Now everyone give it up for the maid of honor</seg></l>
+                    <l><seg type="#fiction">Now everyone give it up for the maid of honor</seg></l>
                     <l><persName ref="#angelica">Angelica Schuyler</persName>!</l>
                 </sp>
 
@@ -235,8 +235,8 @@
                     <l>So this is what it feels like to match wits</l>
                     <l>With someone at your level! What the hell is the catch? It’s</l>
                     <l>The feeling of freedom, of seein’ the light</l>
-                    <l><seg type="#ambiguous">It’s <persName ref="#franklin">Ben Franklin</persName> with a key and a kite!
-                        You see it, right?</seg></l>
+                    <l>It’s <persName ref="#franklin">Ben Franklin</persName> with a key and a kite!
+                        You see it, right?</l>
                     <l>The conversation lasted two minutes, maybe three minutes</l>
                     <l>Ev’rything we said in total agreement, it’s</l>
                     <l>A dream and it’s a bit of a dance</l>
@@ -373,7 +373,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l><seg type="#ambiguous">I know my sister like I know my own mind</seg></l>
+                    <l><seg type="#fact">I know my sister like I know my own mind</seg></l>
                     <l>You will never find anyone as trusting or as kind</l>
                     <l>If I tell her that I love him she’d be silently resigned</l>
                     <l>He’d be mine</l>

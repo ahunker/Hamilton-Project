@@ -158,7 +158,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Ignore them. <seg type="#ambiguous">Congrats to you, Lieutenant Colonel</seg></l>
+                    <l>Ignore them. <seg type="#fact">Congrats to you, Lieutenant Colonel</seg></l>
                     <l>I wish I had your command instead of manning <persName ref="#washington">George’s</persName> journal</l>
                 </sp>
 

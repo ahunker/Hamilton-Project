@@ -176,7 +176,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>Sure</l>
-                    <l><seg type="#ambiguous">But your man has to answer for his words, <persName ref="#burr">Burr</persName></seg></l>
+                    <l><seg type="#fact">But your man has to answer for his words, <persName ref="#burr">Burr</persName></seg></l>
                 </sp>
 
                 <sp who="#burr">

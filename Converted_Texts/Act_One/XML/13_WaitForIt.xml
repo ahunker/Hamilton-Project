@@ -30,7 +30,7 @@
                     <l><seg type="#ambiguous"><persName ref="#theodosiaMother">Theodosia</persName> writes me a letter
                         every day</seg></l>
                     <l>I'm keeping the bed warm while her husband is away</l>
-                    <l><seg type="#ambiguous">He's on the British side in <placeName>Georgia</placeName></seg></l>
+                    <l><seg type="#fact">He's on the British side in <placeName>Georgia</placeName></seg></l>
                     <l>He's trying to keep the colonies in line</l>
                     <l>But he can keep all of <placeName>Georgia</placeName></l>
                     <l><persName ref="#theodosiaMother">Theodosia</persName>, she's mine</l>
@@ -89,7 +89,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>When they died they left no instructions</l>
-                    <l><seg type="#ambiguous">Just a <phr type="#legacy">legacy</phr> to protect</seg></l>
+                    <l><seg type="#fact">Just a <phr type="#legacy">legacy</phr> to protect</seg></l>
                 </sp>
 
                 <sp who="#burr #ensemble">
