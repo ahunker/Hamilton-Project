@@ -53,8 +53,8 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I have never been the type to try and grab the spotlight</l>
-                    <l><seg type="#ambiguous">We were at a revel with some rebels on a hot night</seg></l>
-                    <l><seg type="#ambiguous">Laughin’ at my sister as she’s dazzling the room</seg></l>
+                    <l><seg type="#fiction">We were at a revel with some rebels on a hot night</seg></l>
+                    <l><seg type="#fiction">Laughin’ at my sister as she’s dazzling the room</seg></l>
                     <l>Then you walked in and my heart went “Boom!”</l>
                     <l>Tryin’ to catch your eye from the side of the ballroom</l>
                     <l>Everybody’s dancin’ and the band’s top volume</l>
@@ -146,7 +146,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l><seg type="#ambiguous">I’m about to change your life</seg></l>
+                    <l><seg type="#fiction">I’m about to change your life</seg></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -192,9 +192,9 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">I’m writin’ a letter nightly</seg></l>
+                    <l><seg type="#fact">I’m writin’ a letter nightly</seg></l>
                     <l>Now my life gets better, every letter that you write me</l>
-                    <l><seg type="#ambiguous">Laughin’ at my sister, cuz she wants to form a harem</seg></l>
+                    <l><seg type="#fact">Laughin’ at my sister, cuz she wants to form a harem</seg></l>
                 </sp>
 
                 <sp who="#angelica">
@@ -217,7 +217,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>My father’s stone-faced</l>
-                    <l><seg type="#ambiguous">While you’re asking for his blessin’</seg></l>
+                    <l><seg type="#fact">While you’re asking for his blessin’</seg></l>
                 </sp>
 
                 <sp who="#women">
@@ -308,14 +308,14 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous"><persName ref="#eliza">Eliza</persName>, I don’t have a dollar to my name</seg></l>
+                    <l><seg type="#fact"><persName ref="#eliza">Eliza</persName>, I don’t have a dollar to my name</seg></l>
                     <l>An acre of land, a troop to command, a dollop of fame</l>
                     <l>All I have’s my honor, a tolerance for pain</l>
                     <l>A couple of college credits and my top-notch brain</l>
                     <l>Insane, your family brings out a different side of me</l>
-                    <l><seg type="#ambiguous"><persName ref="#peggy">Peggy</persName> confides in me,</seg> <persName ref="#angelica">Angelica</persName> tried to take a bite of me</l>
+                    <l><seg type="#fact"><persName ref="#peggy">Peggy</persName> confides in me,</seg> <persName ref="#angelica">Angelica</persName> tried to take a bite of me</l>
                     <l>No stress, my love for you is never in doubt</l>
-                    <l><seg type="#ambiguous">We’ll get a little place in <placeName>Harlem</placeName></seg> and we’ll figure it
+                    <l><seg type="#fiction">We’ll get a little place in <placeName>Harlem</placeName></seg> and we’ll figure it
                         out</l>
                     <l>I’ve been livin’ without a family since I was a child</l>
                     <l>My father left, my mother died, I grew up buckwild</l>

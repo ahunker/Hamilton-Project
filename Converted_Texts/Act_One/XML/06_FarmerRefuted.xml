@@ -152,7 +152,7 @@
 
                 <sp who="#ensemble">
                     <speaker>ENSEMBLE</speaker>
-                    <l>Silence! <seg type="#ambiguous">A message from the <persName ref="#kingGeorge">King</persName>!</seg></l>
+                    <l>Silence! <seg type="#fiction">A message from the <persName ref="#kingGeorge">King</persName>!</seg></l>
                     <l>A message from the <persName ref="#kingGeorge">King</persName>!</l>
                 </sp>
 

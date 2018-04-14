@@ -235,7 +235,7 @@
 
                 <sp who="#angelica">
                     <speaker>ANGELICA</speaker>
-                    <l><seg type="#ambiguous">I’ve been reading Common Sense by <persName ref="#paine">Thomas
+                    <l>I’ve been reading <seg type="#fact">Common Sense by <persName ref="#paine">Thomas
                         Paine</persName></seg></l>
                     <l>So men say that I’m intense or I’m insane</l>
                     <l>You want a revolution? I want a revelation</l>

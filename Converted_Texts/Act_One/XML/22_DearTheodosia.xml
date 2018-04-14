@@ -29,7 +29,7 @@
                     <speaker>BURR</speaker>
                     <l>Dear <persName ref="#theodosiaDaughter">Theodosia</persName>, what to say to
                         you?</l>
-                    <l><seg type="#fact">You have my eyes. You have your mother’s name</seg></l>
+                    <l>You have my eyes. <seg type="#fact">You have your mother’s name</seg></l>
                     <l>When you came into the world, you cried and it broke my heart</l>
                     <l>I’m dedicating every day to you</l>
                     <l>Domestic life was never quite my style</l>
@@ -47,8 +47,8 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#fact">Oh <persName ref="#philipH">Philip</persName>, when you smile I am undone</seg></l>
-                    <l>My son</l>
+                    <l>Oh <persName ref="#philipH">Philip</persName>, when you smile I am undone</l>
+                    <l><seg type="#fact">My son</seg></l>
                     <l>Look at my son. Pride is not the word I’m looking for</l>
                     <l>There is so much more inside me now</l>
                     <l>Oh <persName ref="#philipH">Philip</persName>, you outshine the morning

@@ -46,7 +46,7 @@
                     <l>When so many have tried</l>
                     <l><phr type="#wait">Then I'm willing to wait for it</phr></l>
                     <l><phr type="#wait">I'm willing to wait for it</phr></l>
-                    <l><seg type="#ambiguous">My grandfather was a fire and brimstone preacher</seg></l>
+                    <l><seg type="#fact">My grandfather was a fire and brimstone preacher</seg></l>
                 </sp>
 
                 <sp who="#men">
@@ -68,7 +68,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">My mother was a genius</seg></l>
+                    <l><seg type="#fiction">My mother was a genius</seg></l>
                 </sp>
 
                 <sp who="#women">
@@ -78,7 +78,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">My father commanded respect</seg></l>
+                    <l><seg type="#fact">My father commanded respect</seg></l>
                 </sp>
 
                 <sp who="#men">

@@ -68,7 +68,7 @@
 
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
-                    <l><seg type="#ambiguous">I go back to <placeName>France</placeName></seg></l>
+                    <l><seg type="#fact">I go back to <placeName>France</placeName></seg></l>
                     <l>I bring freedom to my people if I’m given the chance</l>
                 </sp>
 
@@ -124,7 +124,7 @@
                     <l>Not only that, my <persName ref="#eliza">Eliza’s</persName> expecting</l>
                     <l>We gotta go, gotta get the job done</l>
                     <l>Gotta start a new nation, gotta meet my son!</l>
-                    <l><seg type="#ambiguous">Take the bullets out your gun!</seg></l>
+                    <l><seg type="#fact">Take the bullets out your gun!</seg></l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -149,7 +149,7 @@
                     <l>We cannot let a stray gunshot give us away</l>
                     <l>We will fight up close, seize the moment and stay in it</l>
                     <l>It’s either that or meet the business end of a bayonet</l>
-                    <l><seg type="#ambiguous">The code word is ‘Rochambeau,’</seg> dig me?</l>
+                    <l><seg type="#fact">The code word is ‘Rochambeau,’</seg> dig me?</l>
                 </sp>
 
                 <sp who="#ensemble">
@@ -162,7 +162,7 @@
                     <l>You have your orders now, go, man, go!</l>
                     <l>And so the American experiment begins</l>
                     <l>With my friends all scattered to the winds</l>
-                    <l><seg type="#ambiguous"><persName ref="#laurens">Laurens</persName> is in <placeName>South
+                    <l><seg type="#fiction"><persName ref="#laurens">Laurens</persName> is in <placeName>South
                         Carolina</placeName>, redefining brav’ry</seg></l>
                 </sp>
 
@@ -174,7 +174,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>When we finally drive the British away</l>
-                    <l><seg type="#ambiguous"></seg><persName ref="#lafayette">Lafayette</persName> is there waiting—</l>
+                    <l><seg type="#fact"><persName ref="#lafayette">Lafayette</persName> is there waiting—</seg></l>
                 </sp>
 
                 <sp who="#hamilton #lafayette">
@@ -195,7 +195,7 @@
 
                 <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
-                    <l><seg type="#ambiguous">A tailor spyin’ on the British government!</seg></l>
+                    <l><seg type="#fact">A tailor spyin’ on the British government!</seg></l>
                     <l>I take their measurements, information and then I smuggle it</l>
                 </sp>
 
@@ -207,7 +207,7 @@
                 <sp who="#mulligan">
                     <speaker>MULLIGAN</speaker>
                     <l>To my brother's revolutionary covenant</l>
-                    <l><seg type="#ambiguous">I’m runnin’ with the Sons of Liberty</seg> and I am lovin’ it!</l>
+                    <l><seg type="#fact">I’m runnin’ with the Sons of Liberty</seg> and I am lovin’ it!</l>
                     <l>See, that’s what happens when you up against the ruffians</l>
                     <l>We in the shit now, somebody gotta shovel it!</l>
                     <l><persName ref="#mulligan">Hercules Mulligan</persName>, I need no
@@ -224,12 +224,12 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">After a week of fighting, a young man in a red coat stands on a parapet</seg></l>
+                    <l><seg type="#fiction">After a week of fighting</seg>, a young man in a red coat stands on a parapet</l>
                 </sp>
 
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
-                    <l>We lower our guns as he frantically waves a white handkerchief</l>
+                    <l><seg type="#fact">We lower our guns as he frantically waves a white handkerchief</seg></l>
                 </sp>
 
                 <sp who="#mulligan">
@@ -249,7 +249,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">We negotiate the terms of surrender</seg></l>
+                    <l><seg type="#fact">We negotiate the terms of surrender</seg></l>
                     <l>I see <persName ref="#washington">George Washington</persName> smile</l>
                     <l>We escort their men out of <placeName>Yorktown</placeName></l>
                     <l>They stagger home single file</l>

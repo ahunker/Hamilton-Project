@@ -99,7 +99,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>While we’re talking, let me offer you some free advice</l>
-                    <l><seg type="#ambiguous">Talk less</seg></l>
+                    <l>Talk less</l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -171,7 +171,7 @@
                 <sp who="#lafayette">
                     <speaker>LAFAYETTE</speaker>
                     <l>Oui oui, mon ami, je m’appelle <persName ref="#lafayette">Lafayette</persName>!</l>
-                    <l><seg type="#ambiguous">The Lancelot of the revolutionary set!</seg></l>
+                    <l>The Lancelot of the revolutionary set!</l>
                     <l>I came from afar just to say “Bonsoir!”</l>
                     <l>Tell the King “Casse toi!” Who’s the best?</l>
                     <l>C’est moi!</l>

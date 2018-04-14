@@ -525,7 +525,7 @@
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
                     <l>I’m being honest</l>
-                    <l><seg type="#ambiguous">I’m working with a third of what our Congress has promised</seg></l>
+                    <l><seg type="#fact">I’m working with a third of what our Congress has promised</seg></l>
                     <l>We are a powder keg about to explode</l>
                     <l>I need someone like you to lighten the load. So?</l>
                 </sp>
@@ -584,7 +584,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">I’ll write to Congress and tell ‘em we need supplies,</seg> you rally the guys,</l>
+                    <l><seg type="#fact">I’ll write to Congress and tell ‘em we need supplies,</seg> you rally the guys,</l>
                     <l>Master the element of surprise</l>
                 </sp>
 

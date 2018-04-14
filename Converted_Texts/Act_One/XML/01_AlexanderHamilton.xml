@@ -23,20 +23,20 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#fact">How does a bastard, orphan, son of a whore</seg><note>Born out of wedlock to Rachel Faucette, a half-British and half-French married woman, and James A. Hamilton, a Scotsman.</note> and a</l>
+                    <l><seg type="#fact">How does a bastard, orphan, son of a whore</seg> and a</l>
                     <l>Scotsman, dropped in the middle of a forgotten</l>
-                    <l><seg type="#fact">Spot in the <placeName>Caribbean</placeName></seg><note>Alexander Hamilton was born in Charleston, Nevis located in the Leeward Islands, which were a part of the British West Indies.</note> by providence, impoverished, in
+                    <l><seg type="#fact">Spot in the <placeName>Caribbean</placeName></seg> by providence, impoverished, in
                         squalor</l>
                     <l>Grow up to be a hero and a scholar?</l>
                 </sp>
 
                 <sp who="#laurens">
                     <speaker>LAURENS</speaker>
-                    <l><seg type="#fact">The ten-dollar Founding Father without a father</seg><note>Hamilton's portrait appears on the ten-dollar note.</note></l>
+                    <l><seg type="#fact">The ten-dollar Founding Father without a father</seg></l>
                     <l>Got a lot farther by working a lot harder</l>
                     <l>By being a lot smarter</l>
                     <l>By being a self-starter</l>
-                    <l><seg type="#fact">By fourteen, they placed him in charge of a trading charter</seg><note>Hamilton worked as a clerk at a local import-export firm Beekman and Cruger. When the owner was a sea for five months in 1771, Hamilton was left in charge of the firm.</note></l>
+                    <l><seg type="#fact">By fourteen, they placed him in charge of a trading charter</seg></l>
                 </sp>
 
                 <sp who="#jefferson">
@@ -89,7 +89,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#fact">Moved in with a cousin, the cousin committed suicide</seg><note>Hamilton and his brother, James Jr., were taken in by their cousin Peter Lytton, but Lytton later committed suicide.</note></l>
+                    <l><seg type="#fact">Moved in with a cousin, the cousin committed suicide</seg></l>
                     <l>Left him with nothin’ but ruined pride, something new inside</l>
                     <l>A voice saying</l>
                 </sp>
