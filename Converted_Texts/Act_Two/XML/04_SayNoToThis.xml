@@ -44,7 +44,7 @@
                     <l>More in need of a break</l>
                     <l>Longing for <persName ref="#angelica">Angelica</persName></l>
                     <l>Missing my wife</l>
-                    <l><seg type="#ambiguous">That’s when <persName ref="#maria">Miss Maria Reynolds</persName> walked into my life</seg>, she said:</l>
+                    <l><seg type="#fact">That’s when <persName ref="#maria">Miss Maria Reynolds</persName> walked into my life</seg>, she said:</l>
                 </sp>
 
 
@@ -85,7 +85,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">I gave her thirty bucks that I had socked away</seg></l>
+                    <l><seg type="#fact">I gave her thirty bucks that I had socked away</seg></l>
                     <l>She lived a block away, she said:</l>
                 </sp>
 
@@ -198,7 +198,7 @@
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
                     <l>I wish I could say that was the last time</l>
-                    <l><seg type="#ambiguous">I said that last time. It became a pastime</seg></l>
+                    <l><seg type="#fact">I said that last time. It became a pastime</seg></l>
                     <l>A month into this endeavor I received a letter</l>
                     <l>From a <persName ref="#reynolds">Mr. James Reynolds</persName>, even better, it said:</l>
                 </sp>
@@ -206,7 +206,7 @@
 
                 <sp who="#reynolds">
                     <speaker>JAMES</speaker>
-                    <l><seg type="#ambiguous">Dear Sir, I hope this letter finds you in good health</seg></l>
+                    <l><seg type="#fact">Dear Sir, I hope this letter finds you in good health</seg></l>
                     <l>And in a prosperous enough position to put wealth</l>
                     <l>In the pockets of people like me: down on their luck</l>
                     <l>You see, that was my wife who you decided to</l>
@@ -463,7 +463,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">Nobody needs to know</seg></l>
+                    <l><seg type="#fact">Nobody needs to know</seg></l>
                 </sp>
             </div>
         </body>

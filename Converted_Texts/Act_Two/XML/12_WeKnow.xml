@@ -38,7 +38,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l><seg type="#ambiguous">We have the check stubs.</seg> From separate accounts…</l>
+                    <l><seg type="#fiction">We have the check stubs.</seg> From separate accounts…</l>
                 </sp>
 
 
@@ -178,9 +178,9 @@
                     <speaker>HAMILTON</speaker>
                     <l>She courted me</l>
                     <l>Escorted me to bed and when she had me in a corner</l>
-                    <l>That’s when <persName ref="#reynolds">Reynolds</persName> extorted me</l>
+                    <l>That’s when <seg type="#fact"><persName ref="#reynolds">Reynolds</persName> extorted me</seg></l>
                     <l>For a sordid fee</l>
-                    <l><seg type="#ambiguous">I paid him quarterly</seg></l>
+                    <l>I paid him quarterly</l>
                     <l>I may have mortally wounded my prospects</l>
                     <l>But my papers are orderly!</l>
                     <l>As you can see I kept a record of every check in my checkered</l>

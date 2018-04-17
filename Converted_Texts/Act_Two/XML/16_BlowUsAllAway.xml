@@ -29,7 +29,7 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l><seg type="#ambiguous">Meet the latest graduate of King's College!</seg></l>
+                    <l><seg type="#fact">Meet the latest graduate of King's College!</seg></l>
                     <l>I probly shouldn't brag, but, dag, I amaze and astonish!</l>
                     <l>The scholars say I got the same virtuosity and brains as my pops!</l>
                     <l>The ladies say my brains not where the resemblance stops!</l>
@@ -52,7 +52,7 @@
 
                     <l>Ladies, I'm lookin for a <persName ref="#eacker">Mr. George Eacker</persName></l>
                     <l>Made a speech last week, our Fourth of July speaker</l>
-                    <l><seg type="#ambiguous">He disparaged my father's <phr type="#legacy">legacy</phr> in front of a crowd</seg></l>
+                    <l><seg type="#fact">He disparaged my father's <phr type="#legacy">legacy</phr> in front of a crowd</seg></l>
                     <l>I can't have that, I'm making my father proud</l>
                 </sp>
 
@@ -207,13 +207,13 @@
                 <sp who="#philipH">
                     <speaker>PHILIP</speaker>
 
-                    <l>Across the river, in <placeName>Jersey</placeName></l>
+                    <l><seg type="#fact">Across the river, in <placeName>Jersey</placeName></seg></l>
                 </sp>
 
                 <sp who="#hamilton #philipH">
                     <speaker>HAMILTON/PHILIP</speaker>
 
-                    <l><seg type="#ambiguous">Everything is legal in <placeName>New Jersey</placeName></seg></l>
+                    <l>Everything is legal in <placeName>New Jersey</placeName></l>
                 </sp>
 
                 <sp who="#hamilton">
@@ -221,7 +221,7 @@
 
                     <l>Alright. So this is what youre gonna do:</l>
                     <l>Stand there like a man until <persName ref="#eacker">Eacker</persName> is in front of you</l>
-                    <l>When the <phr type="#time">time</phr> comes, fire your weapon in the air</l>
+                    <l><seg type="#fact">When the <phr type="#time">time</phr> comes, fire your weapon in the air</seg></l>
                     <l>This will put an end to the whole affair</l>
                 </sp>
 
@@ -262,7 +262,7 @@
                     <speaker>HAMILTON</speaker>
 
                     <l>Come back home when you're done</l>
-                    <l><seg type="#ambiguous">Take my guns. Be smart. Make me proud, son</seg></l>
+                    <l><seg type="#fiction">Take my guns. Be smart. Make me proud, son</seg></l>
                 </sp>
 
                 <sp who="#philipH">

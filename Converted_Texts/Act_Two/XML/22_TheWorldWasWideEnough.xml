@@ -55,7 +55,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>We rowed across the <placeName>Hudson</placeName> at dawn</l>
-                    <l><seg type="#ambiguous">My friend, <persName ref="#ness">William P. Van Ness</persName> signed on as my—</seg></l>
+                    <l><seg type="#fact">My friend, <persName ref="#ness">William P. Van Ness</persName> signed on as my—</seg></l>
                 </sp>
 
 
@@ -68,7 +68,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l><persName ref="#hamilton">Hamilton</persName> arrived with his crew:</l>
-                    <l><seg type="#ambiguous"><persName ref="#pendleton">Nathaniel Pendleton</persName> and a doctor that he knew</seg></l>
+                    <l><seg type="#fact"><persName ref="#pendleton">Nathaniel Pendleton</persName> and a doctor that he knew</seg></l>
                 </sp>
 
 
@@ -118,7 +118,7 @@
                 <spGrp type="simultaneous">
                     <sp who="#burr #philipH">
                         <speaker>BURR AND PHILIP</speaker>
-                        <l><seg type="#ambiguous">Near the same spot</seg></l>
+                        <l>Near the same spot</l>
                         <l>Your son died, is that</l>
                         <l>Why— </l>
                     </sp>
@@ -155,7 +155,7 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>Confession time? Here’s what I got:</l>
-                    <l><seg type="#ambiguous">My fellow soldiers’ll tell you I’m a terrible shot</seg></l>
+                    <l><seg type="#fiction">My fellow soldiers’ll tell you I’m a terrible shot</seg></l>
                 </sp>
 
 
@@ -175,11 +175,11 @@
                 <sp who="#burr">
                     <speaker>BURR</speaker>
                     <l>They won’t teach you this in your classes</l>
-                    <l>But look it up, <seg type="#ambiguous"><persName ref="#hamilton">Hamilton</persName> was wearing his glasses</seg></l>
+                    <l>But look it up, <seg type="#fact"><persName ref="#hamilton">Hamilton</persName> was wearing his glasses</seg></l>
                     <l>Why? If not to take deadly aim?</l>
                     <l>It’s him or me, the world will never be the same</l>
                     <l>I had only one thought before the slaughter:</l>
-                    <l><seg type="#ambiguous">This man will not make an orphan of my daughter</seg></l>
+                    <l>This man will not make an orphan of my daughter</l>
                 </sp>
 
 
@@ -247,7 +247,7 @@
 
                 <sp who="#burr #company">
                     <speaker>BURR AND COMPANY</speaker>
-                    <l><seg type="#ambiguous">He aims his pistol at the sky—</seg></l>
+                    <l><seg type="#fiction">He aims his pistol at the sky—</seg></l>
                 </sp>
 
 
@@ -259,10 +259,10 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">I strike him right between his ribs</seg></l>
-                    <l>I walk towards him, but I am ushered away</l>
+                    <l><seg type="#fact">I strike him right between his ribs</seg></l>
+                    <l><seg type="#fact">I walk towards him, but I am ushered away</seg></l>
                     <l>They row him back across the <placeName>Hudson</placeName></l>
-                    <l><seg type="#ambiguous">I get a drink</seg></l>
+                    <l>I get a drink</l>
                 </sp>
 
 
@@ -316,7 +316,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">Were both at his side when he died</seg></l>
+                    <l><seg type="#fact">Were both at his side when he died</seg></l>
                     <l>Death doesn’t discriminate</l>
                     <l>Between the sinners and the saints</l>
                     <l>It takes and it takes and it takes</l>
@@ -332,7 +332,7 @@
                     <l>I survived, but I paid for it</l>
 
 
-                    <l><seg type="#ambiguous">Now I’m the villain in your history</seg></l>
+                    <l><seg type="#fact">Now I’m the villain in your history</seg></l>
                     <l>I was too young and blind to see...</l>
                     <l>I should’ve known</l>
                     <l>I should’ve known</l>

@@ -1,106 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="18.0">
+<project version="20.0">
     <meta>
         <filters directoryPatterns="" filePatterns="Act_Two.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
-            <serialized version="18.0" xml:space="preserve">
-                <map>
+            <serialized version="20.0" xml:space="preserve">
+                <serializableOrderedMap>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/23_WhoLivesWhoDiesWhoTellsYourStory.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/22_TheWorldWasWideEnough.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/21_BestOfWivesAndBestOfWomen.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/20_YourObedientServant.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/19_TheElectionOf1800.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/18_ItsQuietUptown.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/17_StayAlive_Reprise_.xml</String>
+                                    <String>XML/03_TakeABreak.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -130,7 +40,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/15_Burn.xml</String>
+                                    <String>XML/10_IKnowHim.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -145,7 +55,82 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/14_ReynoldsPamphlet.xml</String>
+                                    <String>XML/17_StayAlive_Reprise_.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/01_WhatdIMiss.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/21_BestOfWivesAndBestOfWomen.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/22_TheWorldWasWideEnough.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/20_YourObedientServant.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/18_ItsQuietUptown.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -205,21 +190,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/10_IKnowHim.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>XML/09_OneLastTime.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -235,7 +205,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/08_WashingtonOnYourSide.xml</String>
+                                    <String>XML/15_Burn.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -250,37 +220,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/07_CabinetBattle2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/06_SchuylerDefeated.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>01_WhatdIMiss</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>XML/05_RoomWhereItHappens.xml</String>
+                                    <String>XML/14_ReynoldsPamphlet.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -310,7 +250,22 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/03_TakeABreak.xml</String>
+                                    <String>XML/08_WashingtonOnYourSide.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/06_SchuylerDefeated.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -340,7 +295,52 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>XML/01_WhatdIMiss.xml</String>
+                                    <String>XML/05_RoomWhereItHappens.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/07_CabinetBattle2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/23_WhoLivesWhoDiesWhoTellsYourStory.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>01_WhatdIMiss</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>XML/19_TheElectionOf1800.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -446,7 +446,7 @@
                             </scenario>
                         </scenario-array>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>

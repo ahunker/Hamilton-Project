@@ -36,14 +36,14 @@
                     <l>I’m perplexed</l>
                     <l>Are they gonna keep on replacing whoever’s in charge?</l>
                     <l>If so, who’s next?</l>
-                    <l><seg type="#ambiguous">There’s nobody else in their country who looms quite as large…</seg></l>
+                    <l>There’s nobody else in their country who looms quite as large…</l>
 
 
                     <stage type="mixed">A sentinel whispers in King George’s ear</stage>
 
 
                     <l><persName ref="#jAdams">John Adams</persName>?!</l>
-                    <l><seg type="#ambiguous">I know him</seg></l>
+                    <l><seg type="#fact">I know him</seg></l>
                     <l>That can’t be</l>
                     <l>That’s that little guy who spoke to me</l>
                     <l>All those years ago</l>

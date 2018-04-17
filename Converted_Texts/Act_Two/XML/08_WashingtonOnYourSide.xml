@@ -39,7 +39,7 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>Ev’ry action has its equal, opposite reactions</l>
-                    <l><seg type="#ambiguous">Thanks to <persName ref="#hamilton">Hamilton</persName>, our cab’net’s fractured into factions</seg></l>
+                    <l><seg type="#fact">Thanks to <persName ref="#hamilton">Hamilton</persName>, our cab’net’s fractured into factions</seg></l>
                     <l>Try not to crack under the stress, we’re breaking down like fractions</l>
                     <l>We smack each other in the press, and we don’t print retractions</l>
                     <l>I get no satisfaction witnessing his fits of passion</l>
@@ -62,13 +62,13 @@
                     <l><persName ref="#washington">Washington</persName> on your side</l>
 
 
-                    <l><seg type="#ambiguous">Look back at the Bill of Rights</seg></l>
+                    <l>Look back at the Bill of Rights</l>
                 </sp>
 
 
                 <sp who="#madison">
                     <speaker>MADISON</speaker>
-                    <l>Which I wrote</l>
+                    <l><seg type="#fact">Which I wrote</seg></l>
                 </sp>
 
 
@@ -120,7 +120,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l><seg type="#ambiguous">I have to resign</seg></l>
+                    <l><seg type="#fact">I have to resign</seg></l>
                 </sp>
 
 
@@ -214,7 +214,7 @@
 
                 <sp who="#jefferson #madison #burr">
                     <speaker>JEFFERSON/MADISON/BURR</speaker>
-                    <l><seg type="#ambiguous">If we follow the money and see where it leads</seg></l>
+                    <l><seg type="#fiction">If we follow the money and see where it leads</seg></l>
                     <l>Get in the weeds, look for the seeds of</l>
                     <l><persName ref="#hamilton">Hamilton’s</persName> misdeeds</l>
                 </sp>

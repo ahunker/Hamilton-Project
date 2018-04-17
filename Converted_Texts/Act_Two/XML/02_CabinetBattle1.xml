@@ -29,7 +29,7 @@
                     <l>Ladies and gentlemen, you coulda been anywhere in the world tonight, but
                         you're here with us in <placeName>New York City.</placeName> Are you ready
                         for a cabinet meeting???</l>
-                    <l>The issue on the table: <seg type="#ambiguous"><persName ref="#hamilton">Secretary
+                    <l>The issue on the table: <seg type="#fact"><persName ref="#hamilton">Secretary
                             Hamilton's</persName> plan to assume state debt and establish a national
                         bank.</seg> <persName ref="#jefferson">Secretary Jefferson</persName>, you have
                         the floor, sir</l>
@@ -56,7 +56,7 @@
                     <l>But <persName ref="#hamilton">Hamilton</persName> forgets</l>
                     <l>His plan would have the government assume state's debts</l>
                     <l>Now, place your bets as to who that benefits:</l>
-                    <l><seg type="#ambiguous">The very seat of government where <persName ref="#hamilton">Hamilton</persName> sits</seg></l>
+                    <l>The very seat of government where <persName ref="#hamilton">Hamilton</persName> sits</l>
                 </sp>
 
 
@@ -126,7 +126,7 @@
                     <l><persName ref="#jefferson">Thomas Jefferson</persName>, always hesitant with
                         the <persName ref="#washington">President</persName></l>
                     <l>Reticent there isn't a plan he doesn't jettison</l>
-                    <l><seg type="#ambiguous"><persName ref="#madison">Madison</persName>, you're mad as a hatter, son,
+                    <l><seg type="#fact"><persName ref="#madison">Madison</persName>, you're mad as a hatter, son,
                         take your medicine</seg></l>
                     <l>Damn, you're in worse shape than the national debt is in</l>
                     <l>Sittin' there useless as two shits</l>

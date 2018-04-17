@@ -64,7 +64,7 @@
 
                 <sp who="#burr">
                     <speaker>BURR</speaker>
-                    <l><seg type="#ambiguous">They renamed it after him. The <persName ref="#generalMercer">Mercer</persName> <phr type="#legacy">legacy</phr> is secure</seg></l>
+                    <l><seg type="#fact">They renamed it after him. The <persName ref="#generalMercer">Mercer</persName> <phr type="#legacy">legacy</phr> is secure</seg></l>
                 </sp>
 
 
@@ -166,7 +166,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l>Decisions are happening over dinner</l>
+                    <l><seg type="#fact">Decisions are happening over dinner</seg></l>
                 </sp>
 
 
@@ -213,7 +213,7 @@
                     <sp who="#burr">
                         <speaker>BURR</speaker>
                         <l>No one else was in</l>
-                        <l><seg type="#ambiguous">The room where it happened</seg></l>
+                        <l><seg type="#fact">The room where it happened</seg></l>
                         <l>The room where it happened</l>
                         <l>The room where it happened</l>
                         <l>No one else was in</l>

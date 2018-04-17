@@ -29,7 +29,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l>The issue on the table: <seg type="#ambiguous"><placeName>France</placeName> is on the verge of war
+                    <l>The issue on the table: <seg type="#fact"><placeName>France</placeName> is on the verge of war
                         with <placeName>England</placeName></seg></l>
                     <l>And do we provide aid and our troops to our French allies or do we stay out
                         of it?</l>
@@ -44,7 +44,7 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>When we were on death’s door, when we were needy</l>
-                    <l>We made a promise, <seg type="#ambiguous">we signed a treaty</seg></l>
+                    <l>We made a promise, <seg type="#fact">we signed a treaty</seg></l>
                     <l>We needed money and guns and half a chance</l>
                     <l>Who provided those funds?</l>
                 </sp>
@@ -101,7 +101,7 @@
                     <l>The <persName ref="#washington">President</persName> is gonna bring the nation to the brink</l>
                     <l>Of meddling in the middle of a military mess</l>
                     <l>A game of chess, where <placeName>France</placeName> is Queen and Kingless</l>
-                    <l><seg type="#ambiguous">We signed a treaty with a King whose head is now in a basket</seg></l>
+                    <l><seg type="#fact">We signed a treaty with a King whose head is now in a basket</seg></l>
                     <l>Would you like to take it out and ask it?</l>
                     <l>“Should we honor our treaty, <persName ref="#kingLouis">King Louis’</persName> head?”</l>
                     <l>"Uh… do whatever you want, I’m super dead."</l>
@@ -161,7 +161,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">Draft a statement of neutrality</seg></l>
+                    <l><seg type="#fact">Draft a statement of neutrality</seg></l>
                 </sp>
 
 

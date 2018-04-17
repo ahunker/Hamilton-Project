@@ -45,10 +45,10 @@
                     <sp who="#doctor">
                         <speaker>DOCTOR</speaker>
 
-                        <l><seg type="#ambiguous"><persName ref="#hamilton">Mr. Hamilton</persName>, come in. They brought him in a half an hour ago. He lost a
+                        <l><seg type="#fact"><persName ref="#hamilton">Mr. Hamilton</persName>, come in. They brought him in a half an hour ago. He lost a
                             lot of blood on the way over.</seg></l>
                         <l>Yes. But you have to understand</l>
-                        <l>The bullet entered just above his hip and</l>
+                        <l><seg type="#fact">The bullet entered just above his hip</seg> and</l>
                         <l>Lodged in his right arm</l>
                     </sp>
                 </spGrp>

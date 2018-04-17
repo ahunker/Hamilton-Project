@@ -52,7 +52,7 @@
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
                     <l>I'll give him this: his financial system is a</l>
-                    <l>Work of genius. <seg type="#ambiguous">I couldn't undo it if I tried</seg></l>
+                    <l>Work of genius. <seg type="#fact">I couldn't undo it if I tried</seg></l>
                     <l>And I tried</l>
                 </sp>
 
@@ -138,7 +138,7 @@
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
                     <l>I stop <phr type="#time">wasting time</phr> on tears</l>
-                    <l><seg type="#ambiguous">I live another fifty years</seg></l>
+                    <l><seg type="#fact">I live another fifty years</seg></l>
                     <l>It's not enough</l>
                 </sp>
 
@@ -151,7 +151,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">I interview every soldier who fought by your side</seg></l>
+                    <l><seg type="#fiction">I interview every soldier who fought by your side</seg></l>
                 </sp>
 
 
@@ -200,7 +200,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">She is buried in <placeName>Trinity Church</placeName></seg></l>
+                    <l><seg type="#fact">She is buried in <placeName>Trinity Church</placeName></seg></l>
                 </sp>
 
 
@@ -251,7 +251,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">I raise funds in D.C. for the <persName ref="#washington">Washington</persName> Monument</seg></l>
+                    <l><seg type="#fact">I raise funds in D.C. for the <persName ref="#washington">Washington</persName> Monument</seg></l>
                 </sp>
 
 
@@ -263,7 +263,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">I speak out against slavery</seg></l>
+                    <l><seg type="#fiction">I speak out against slavery</seg></l>
                     <l>You could have done so much more if you only had-</l>
                 </sp>
 
@@ -308,7 +308,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">I established the first private orphanage in New York City</seg></l>
+                    <l><seg type="#fact">I established the first private orphanage in New York City</seg></l>
                 </sp>
 
 
@@ -362,7 +362,7 @@
 
                 <sp who="#eliza">
                     <speaker>ELIZA</speaker>
-                    <l><seg type="#ambiguous">Oh, I can't wait to see you again</seg></l>
+                    <l><seg type="#fact">Oh, I can't wait to see you again</seg></l>
                     <l>It's only a matter of-</l>
                 </sp>
 

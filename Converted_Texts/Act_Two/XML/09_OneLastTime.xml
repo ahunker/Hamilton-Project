@@ -109,7 +109,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">No, he’s stepping down so he can run for President</seg></l>
+                    <l><seg type="#fiction">No, he’s stepping down so he can run for President</seg></l>
                 </sp>
 
 
@@ -121,7 +121,7 @@
 
                 <sp who="#washington">
                     <speaker>WASHINGTON</speaker>
-                    <l><seg type="#ambiguous">I’m stepping down. I’m not running for President</seg></l>
+                    <l><seg type="#fact">I’m stepping down. I’m not running for President</seg></l>
                 </sp>
 
 
@@ -253,7 +253,7 @@
 
                 <sp who="#hamilton">
                     <speaker>HAMILTON</speaker>
-                    <l><seg type="#ambiguous">Though, in reviewing the incidents of my administration, I am unconscious of
+                    <l><seg type="#fact">Though, in reviewing the incidents of my administration, I am unconscious of
                         intentional error, I am nevertheless too sensible of my defects not to think
                         it probable that I may have committed many errors. I shall also carry with
                         me</seg></l>
