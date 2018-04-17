@@ -112,6 +112,16 @@ img.vis2{
     border-color: black;
     background:white;}
     
+img.vis3{
+    width: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    background:white;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+    
 div.main{font-family: georgia, serif;
     font-family: georgia, serif;
     color: black;
