@@ -15,6 +15,8 @@
                     <xsl:apply-templates select="./title/text()"/>
                 </head>
                 <event xml:id="event" when="0000-00-00"/>
+                <xsl:comment>OR USE THE FOLLOWING</xsl:comment>
+                <event xml:id="event" from="0000-00-00" to="0000-00-00"/>
                 <label></label>
                 <desc></desc>
             </listEvent>

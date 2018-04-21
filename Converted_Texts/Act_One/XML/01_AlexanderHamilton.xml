@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../../ODD/out/hamiltonODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader xml:lang="en">
         <fileDesc>
             <titleStmt>
@@ -15,10 +14,7 @@
     </teiHeader>
     <text xml:lang="en">
         <body>
-            <head>
-                <title>Alexander Hamilton</title>
-                
-            </head>
+            <head><title>Alexander Hamilton</title><listEvent><head>Alexander Hamilton</head><event xml:id="event" when="1757-01-11"/><label>Hamilton Birthday</label><desc>Ham was born.</desc></listEvent></head>
             <div type="song">
                 <stage type="business">Lights up on Aaron Burr and the Company.</stage>
 
