@@ -27,40 +27,21 @@
       <body>
          <schemaSpec ident="starterODD" start="TEI" prefix="tei">
             <moduleRef key="tei"/>
-            <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name rs date desc head lg l lb note num p q ref resp respStmt sp speaker stage textLang otherLangs foreign"/>
+            <moduleRef key="core" include="listBibl bibl title author editor publisher pubPlace biblScope name rs date desc head lg l lb note num p q ref resp respStmt sp speaker stage textLang otherLangs foreign label"/>
             <moduleRef key="analysis" include="s cl phr w"/>
             <moduleRef key="drama" except="actor camera caption sound tech view prologue epilogue move performance"/>
             <moduleRef key="header"/> 
             <moduleRef key="linking" include="seg"/>
-            <moduleRef key="namesdates" include="persName placeName roleName geo place listPlace"/>
+            <moduleRef key="namesdates" include="persName placeName roleName geo place listPlace listEvent event"/>
             <moduleRef key="textstructure" include="TEI back body div front floatingText text"/>
             
-            <constraintSpec scheme="isoschematron" ident="emotion-in-rs_ana">
-               <constraint>
-                  <sch:pattern>
-                     <sch:rule context="*[@type eq 'emotion']">
-                     <sch:report test="not(@ana)">
-                        When you use the @type attribute to signal emotion, you must code its part of speech in @ana!</sch:report>
-                  </sch:rule>
-                  </sch:pattern>
-               </constraint>
-            </constraintSpec>	   
-            <constraintSpec ident="checking-ref-who-atts" scheme="isoschematron">
-               <constraint>  
-                  <sch:pattern>
-                     <sch:let name="siFile" value="doc('../../Converted_Texts/Personography/personography.xml')"/>
-                    <sch:let name="si" value="doc('../../Converted_Texts/Personography/personography.xml')//@xml:id"/>
-                       <sch:rule context="@who"> 
-                          <sch:let name="tokens" value="for $i in tokenize(., '\s+') return substring-after($i,'#')"/>
-                          <sch:assert test="every $token in $tokens satisfies $token = $si">The @who attribute (after the hashtag, #) must match a defined @xml:id in the personography file!</sch:assert></sch:rule>
-                     
-                  </sch:pattern></constraint></constraintSpec>
+            
       
             <elementSpec ident="seg" module="linking" mode="change">
                <attList>
                   <attDef ident="type" mode="replace" usage="req">
                      <datatype><rng:text/></datatype>
-                     <valList type="semi">
+                     <valList type="closed">
                         <valItem ident="#fiction"/>
                         <valItem ident="#fact"/>
                         <valItem ident="#ambiguous"/>

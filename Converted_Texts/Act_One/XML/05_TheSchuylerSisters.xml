@@ -35,7 +35,7 @@
                     <l><seg type="#fact">Take <persName ref="#philipS">Philip Schuyler</persName>: the man is
                         loaded</seg></l>
                     <l>Uh-oh, but little does he know that</l>
-                    <l><seg type="#fiction">His daughters, <persName ref="#peggy">Peggy</persName>, <persName ref="#angelica">Angelica</persName>, <persName ref="#eliza">Eliza</persName></seg></l>
+                    <l><seg type="#ambiguous">His daughters, <persName ref="#peggy">Peggy</persName>, <persName ref="#angelica">Angelica</persName>, <persName ref="#eliza">Eliza</persName></seg></l>
                     <l>Sneak into the city just to watch all the guys at—</l>
                 </sp>
 
