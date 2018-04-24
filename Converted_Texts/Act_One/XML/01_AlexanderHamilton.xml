@@ -14,7 +14,7 @@
     </teiHeader>
     <text xml:lang="en">
         <body>
-            <head><title>Alexander Hamilton</title><listEvent><head>Alexander Hamilton</head><event xml:id="event" when="1757-01-11"/><label>Hamilton Birthday</label><desc>Ham was born.</desc></listEvent></head>
+            <head><title>Alexander Hamilton</title></head>
             <div type="song">
                 <stage type="business">Lights up on Aaron Burr and the Company.</stage>
 
@@ -271,5 +271,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+        </back>
     </text>
-</TEI>
+</TEI>-->
