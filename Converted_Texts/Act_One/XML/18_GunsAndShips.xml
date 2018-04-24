@@ -234,5 +234,11 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Guns and Ships</head>
+                <event xml:id="event31" when="1779-08-01"> <label>Lafayette Returns to France</label> <desc>Lafayette expressed desire to return to his homeland for awhile during this time period.</desc></event>
+            <event xml:id="event32" when="1780-03-19"><label>Lafayette Returns to America with Supplies and Aid from France</label><desc>Lafayette sailed into Boston on March 19, 1780 after his period in France.</desc></event>
+            </listEvent>
+        </back>
     </text>
 </TEI>

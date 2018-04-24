@@ -284,5 +284,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>The Story of Tonight (Reprise)</head><event xml:id="event25" when="1780-12-20"><label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is attended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
+       
+        </back>
     </text>
 </TEI>

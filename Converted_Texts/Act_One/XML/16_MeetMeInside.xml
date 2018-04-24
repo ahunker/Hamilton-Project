@@ -223,5 +223,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Meet Me Inside</head><event xml:id="event29" when="1781-03-15"><label>Hamilton Goes Home</label><desc>After a dispute with Washington, Hamilton leaves his staff for a few months.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

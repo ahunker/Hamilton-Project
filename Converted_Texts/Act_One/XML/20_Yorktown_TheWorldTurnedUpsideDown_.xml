@@ -321,5 +321,10 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Yorktown (The World Turned Upside Down)</head>
+                <event xml:id="event34" from="1781-09-28" to="1781-10-19"> <label>The Battle of Yorktown</label><desc>This battle occured in Yorktown, Virginia from September 28th to October 19th in 1781. This battle essentially ended the fighting in the revolution and assured success to the American cause.</desc></event>
+            </listEvent>
+        </back>
     </text>
 </TEI>

@@ -38,7 +38,7 @@
 
                 <sp who="#jefferson">
                     <speaker>JEFFERSON</speaker>
-                    <l><seg type="#ambigous">'Life, liberty and the pursuit of happiness.'</seg></l>
+                    <l>'Life, liberty and the pursuit of happiness.'</l>
                     <l>We fought for these ideals; we shouldn't settle for less</l>
                     <l>These are wise words, enterprising men quote 'em</l>
                     <l>Don't act surprised, you guys, cuz I wrote 'em</l>
@@ -292,5 +292,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+        </back>
     </text>
 </TEI>

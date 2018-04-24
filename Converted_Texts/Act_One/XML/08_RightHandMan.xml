@@ -670,5 +670,13 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Right Hand Man</head><event xml:id="event17" when="1775-06-15"> <label>George Washington Becomes Commander in Chief of the Continental Army</label><desc>In 1775, Washington was unanimously selected as Commander in Chief of the Contintental Army.</desc></event>
+                <event xml:id="event18" when="1775-08-25"> <label>Hamilton Captures British Canons</label><desc>Hamilton and volunteers from a musket drill unit at King’s College captured twenty-one cannons at a British stockade on the tip of Manhattan Island in New York.</desc></event>
+                <event xml:id="event19" when="1776-09-15"> <label>The Battle of Kip's Bay</label><desc>The British won over the unexperienced American troops during this battle when the heavy fire from British ships caused the American troops to flee. This battle gave the British control of New York City on the lower half of the island. Washington estbalished strong positions in Harlem, though.</desc></event>
+                <event xml:id="event20" when="1775-09-13"> <label>Burr in Quebec</label> <desc> At this point of time, Aaron Burr was in Quebec with Benedict Arnold and General Richard Montgomery.</desc></event>
+                <event xml:id="event21" when="1777-01-25"> <label>Washington Invites Hamilton to his Military Staff</label> <desc>Hamilton becomes a lieutetant colonel under Washington.</desc></event>
+            </listEvent>
+        </back>
     </text>
 </TEI>

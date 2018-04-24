@@ -318,5 +318,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Stay Alive</head><event xml:id="event27" when="1778-06-28"> <label>The Battle of Monmouth</label> <desc>Charles Lee and George Washington came into a confrontation during this battle which led to Lee's permanent dismissal from the army.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

@@ -98,5 +98,11 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Dear Theodosia</head>
+                <event xml:id="event36" when="1782-01-22"> <label>Birth of Philip</label><desc>Alexander Hamilton's son, Philip, was born.</desc></event>
+                <event xml:id="event37" when="1783-06-21"> <label>Birth of Theodosia</label><desc>Aaron Burr's daughter, Theodosia, was born.</desc></event>
+            </listEvent>
+        </back>
     </text>
 </TEI>

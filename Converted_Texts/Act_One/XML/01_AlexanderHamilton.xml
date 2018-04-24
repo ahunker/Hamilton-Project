@@ -272,7 +272,14 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Alexander Hamilton</head><event xml:id="event01" when="1757-01-11"><label>Alexander Hamilton's Birth</label><desc>Alexander Hamilton was born in Charlestown, St. Kitts and Nevis. There is a debate that he was born two years earlier in 1755, but 1757 matches closer to ages listed in the musical.</desc></event>
+                <event xml:id="event02" when="1767-01-16"><label>Hamilton's Father Left</label><desc>James Hamilton, Alexander Hamilton's father and a Scottish Laird, left Hamilton and his family, most likely due to the fact Alexander was his illegitimate son. This date is estimated from the song lyrics describing Alexander Hamilton as ten when his father left.</desc></event>
+                <event xml:id="event03" when="1768-02-19"><label>Hamilton's Mother Dies</label><desc>Rachel Faucette Buck, Hamilton's mother, died on February 19, 1768. After her death, Hamilton and his brother, James, moved to live with their cousin.</desc></event>
+                <event xml:id="event04" when="1771-01-16"><label>Hamilton In Charge of a Trading Charter</label><desc>The lyrics in "Alexander Hamilton" describe Hamilton being in charge of a trading charter when he was fourteen. This is an estimated date to show when he would be in this position.</desc></event>
+                <event xml:id="event05" when="1772-08-31"><label>Hurricane Maria Hits</label><desc>Hurricane Maria hit St.Croix, where Hamilton was currently working, in 1772.</desc></event>
+                <event xml:id="event06" when="1772-09-06"><label>Hamilton Writes Letter About Hurricane Maria</label><desc>Hamilton wrote a letter describing the storm to his father which gained the attention of the island's elite. The letter was how he "wrote his way out" and got to travel to New York.</desc></event>
+                <event xml:id="event07" when="1772-12-01"><label>Hamilton Arrives in New York</label><desc>Near the end of 1772, Alexander Hamilton arrives in New York City. The month and day are estimated based off other dates.</desc></event>
+            </listEvent>
         </back>
     </text>
-</TEI>-->
+</TEI>

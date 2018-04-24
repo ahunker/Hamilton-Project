@@ -375,5 +375,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Helpless</head><event xml:id="event23" when="1780-12-14"> <label>Eliza and Hamilton Get Married</label><desc>Eliza Schuyler gets married to Alexander Hamilton on December, 14 1780.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

@@ -104,5 +104,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>History Has Its Eyes On You</head><event xml:id="event33" when="1780-04-15"> <label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is attended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

@@ -105,5 +105,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>A Winter's Ball</head><event xml:id="event22" when="1780-12-01"> <label>A Winter's Ball</label><desc>The lyrics date the Winter's Ball occurring during 1780. This event is where Eliza and Hamilton meet according to the musical, so the date falls before they were married.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

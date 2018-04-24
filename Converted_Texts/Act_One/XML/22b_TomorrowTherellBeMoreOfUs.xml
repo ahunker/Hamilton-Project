@@ -91,5 +91,9 @@
                 </sp>
             </spGrp>
         </body>
+        <back>
+            <listEvent><head>Tomorrow There'll Be More of Us</head>
+                <event xml:id="event38" when="1782-08-27"> <label>The Death of John Laurens</label> <desc>In the musical, Alexander Hamilton receives a letter from John's father telling him that John Laurnes had died on August 27, 1782.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

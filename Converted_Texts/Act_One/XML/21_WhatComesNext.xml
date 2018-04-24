@@ -54,5 +54,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>What Comes Next</head> 
+                <event xml:id="event35" when="1783-09-03"> <label>The End of the Revolution</label><desc>The Treaty of Paris was finally signed which negotiated between American and Great Britain, ended the revolution, and recognized America as independent. </desc></event></listEvent>
+        </back>
     </text>
 </TEI>

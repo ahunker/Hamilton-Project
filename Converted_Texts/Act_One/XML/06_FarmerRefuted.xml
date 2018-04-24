@@ -162,5 +162,12 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Farmer Refuted</head>
+                <event xml:id="event13" when="1774-09-05"> <label>Free Thoughts on the Precedings of the Continental Congress is Published</label><desc>Samuel Seabury under the pseudonym A.W. Farmer published Free Thoughts on the Precedings of the Continental Congress in 1774.</desc></event>
+                <event xml:id="event14" when="1775-02-23"><label>Farmer Refuted is Published</label><desc>Hamilton responds with his own piece, Farmer Refuted. He signs the piece as "A sincere Friend to America" rather than using his name. </desc></event>
+            </listEvent>
+           
+        </back>
     </text>
 </TEI>

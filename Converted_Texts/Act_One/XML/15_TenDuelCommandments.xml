@@ -233,5 +233,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Ten Duel Commandments</head>
+                <event xml:id="event28" when="1778-12-23"> <label>John Laurens and Charles Lee Duel</label><desc>On December 23, 1778 John Laurens and Charles Lee have a duel.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

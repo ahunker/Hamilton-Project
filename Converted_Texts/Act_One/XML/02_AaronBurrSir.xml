@@ -259,5 +259,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>Aaron Burr, Sir</head><event xml:id="event08" when="1773-01-01"><label>Hamilton Interested in Attending Princeton</label><desc>In 1773, Hamilton was applying for Princeton.</desc></event>
+                <event xml:id="event09" when="1776-01-01"><label>Hamilton meets Burr, Laurens, Lafayette, and Mulligan</label><desc>The lyrics at the very beginning of the song mark 1776 as the year. The song introduces Hamilton to Aaron Burr, and three other prominent characters in the musical and history, John Laurens, Marquis de Lafayette, and Hercules Mulligan. This date is not historically accurate though as these men all met Hamilton at different times prior to 1776.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

@@ -77,5 +77,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>You'll Be Back</head><event xml:id="event15" when="1773-12-16"> <label>The Boston Tea Party</label><desc>King George mentions the Boston Tea Party during this song.</desc></event>
+                <event xml:id="event16" when="1776-08-22"> <label>The Battle of Brooklyn</label><desc>Based off the lyrics in this song, it appears King George was planning on using force to retaliate against the colonies. If applying the musical's chronology, this song should fall around 1776, and in 1776 the British captured New York City during the Battle of Brooklyn.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

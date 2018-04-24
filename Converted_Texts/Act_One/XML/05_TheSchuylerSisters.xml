@@ -459,5 +459,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>The Schuyler Sisters</head><event xml:id="event12" when="1776-01-10"> <label>Common Sense by Thomas Paine is Published</label><desc>In January of 1776, Thomas Paine published Common Sense.</desc></event>
+              </listEvent>
+        </back>
     </text>
 </TEI>

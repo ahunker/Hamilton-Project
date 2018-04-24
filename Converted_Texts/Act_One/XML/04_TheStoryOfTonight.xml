@@ -169,5 +169,8 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>The Story of Tonight</head><event xml:id="event11" when="1776-01-01"> <label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is attended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
+        </back>
     </text>
 </TEI>

@@ -424,5 +424,9 @@
                 </sp>
             </div>
         </body>
+        <back>
+            <listEvent><head>My Shot</head>
+                <event xml:id="event10" when="1773-09-01"><label>Hamilton Attends King's College</label><desc>In the fall of 1773, Alexander Hamilton attends King's College</desc></event></listEvent>
+        </back>
     </text>
 </TEI>
