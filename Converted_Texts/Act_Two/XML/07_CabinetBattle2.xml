@@ -249,7 +249,10 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Cabinet Battle 2</head>
+                <event xml:id="event57" when="1793-01-21"> <label>King Louis XVI Dies</label><desc>King Louis XVI dies on January 21, 1793.</desc></event>
+                <event xml:id="event58" when="1793-04-22"> <label>Proclamation of Neutrality</label><desc>The Proclamation of Neutrality is created on April 22, 1793.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

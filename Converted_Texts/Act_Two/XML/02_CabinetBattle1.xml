@@ -293,7 +293,8 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Cabinet Battle 1</head>
+                <event xml:id="event50" when="1793-02-25"> <label>First Cabinet Meeting</label><desc>Washington held the first cabinet meeting on February 25, 1793.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

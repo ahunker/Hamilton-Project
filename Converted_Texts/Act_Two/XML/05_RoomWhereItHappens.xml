@@ -719,7 +719,10 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Room Where It Happens</head>
+                <event xml:id="event55" when="1790-06-20"> <label>The Date of the Dinner</label><desc>June 20, 1790 was the date Jefferson claimed the dinner between himself, Hamilton, Madison, and a few others took place.</desc></event>
+                
+            </listEvent>
         </back>
     </text>
 </TEI>

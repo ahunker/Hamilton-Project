@@ -127,7 +127,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>That Would Be Enough</head><event xml:id="event30" when="1781-04-15"> <label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is attended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
+            <listEvent><head>That Would Be Enough</head><event xml:id="event30" when="1781-04-15"> <label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is intended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

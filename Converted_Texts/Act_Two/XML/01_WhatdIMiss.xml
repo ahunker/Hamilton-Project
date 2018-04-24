@@ -243,7 +243,11 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>What'd I Miss</head>
+                <event xml:id="event47" when="1789-10-01"> <label>Jefferson Returns from France</label><desc>Thomas Jefferson returns to America from Paris in October of 1789.</desc></event>
+                <event xml:id="event48" when="1789-07-14"> <label>French Revolution Begins</label><desc>The French Revolution started in July of 1789.</desc></event>
+                <event xml:id="event49" when="1790-03-22"> <label>Jefferson Becomes Secretary of State</label><desc>Thomas Jefferson starts his term as Secretary of State in 1790.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

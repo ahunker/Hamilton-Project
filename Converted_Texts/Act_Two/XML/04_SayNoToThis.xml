@@ -468,7 +468,10 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Say No To This</head>
+                <event xml:id="event53" when="1791-07-01"> <label>Start of Hamilton's Affair</label><desc>In the summer of 1791, Hamilton begins to have an affair with Maria Reynolds.</desc></event>
+                <event xml:id="event54" when="1791-12-12"> <label>James Reynolds Sends Hamilton the Letter</label><desc>James Reynolds sent Hamilton a letter about his discovery of his wife's affair with Hamilton. Reynolds told Hamilton that if Hamilton wanted to keep seeing Maria and wanted to keep the affair secret he had to pay him.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

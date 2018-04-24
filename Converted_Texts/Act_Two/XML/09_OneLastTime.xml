@@ -381,7 +381,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>One Last Time</head><event xml:id="event60" when="1796-07-30"> <label>Hamilton Drafts Washington's Farewell Address</label><desc>Hamilton helps draft Washington's Farewell Address in 1796.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

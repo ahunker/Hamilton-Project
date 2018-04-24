@@ -445,7 +445,10 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Take a Break</head>
+                <event xml:id="event51" from="1787-10-02" to="1787-12-06"> <label>Angelica and Hamilton's Letters</label><desc>Hamilton and Angelica wrote letters during this time frame featuring the punctuation of the comma described in the lyrics.</desc></event>
+            <event xml:id="event52" when="1791-01-22"> <label>Philip is Nine</label><desc>Philip Hamilton turned nine in this song, making the song take place in 1791.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

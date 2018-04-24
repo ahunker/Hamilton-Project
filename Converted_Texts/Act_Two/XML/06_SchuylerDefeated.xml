@@ -165,7 +165,9 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Schuyler Defeated</head>
+                <event xml:id="event56" when="1791-01-01"> <label>Philip Schuyler Loses Seat in the Senate to Aaron Burr</label><desc>in 1790, Aaron Burr takes over Philip Schuyler's, Hamilton's father-in-law, seat in the senate. </desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

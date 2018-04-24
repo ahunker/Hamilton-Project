@@ -102,7 +102,11 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>The Adams Administration</head>
+                <event xml:id="event62" when="1790-08-04"><label>Founding of the Coast Guard</label><desc>Hamilton founded the Coast Guard in 1790.</desc></event>
+                <event xml:id="event63" when="1795-01-31"><label>Hamilton Resigns from Treasurer</label><desc>Hamilton resigned from his position as treasurer in 1795.</desc></event>
+                <event xml:id="event64" when="1801-11-16"><label>Founding of the New York Post</label><desc>Hamilton founded the New York Post in 1801.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>
