@@ -759,11 +759,11 @@
                 <event xml:id="event39" when="1782-09-01"> <label>Hamilton Returns to New York</label><desc>Sometime during 1782, Hamilton returns to New York and becomes a lawyer alongside Burr.</desc></event>
                 <event xml:id="event40" when="1783-01-01"> <label>The Churches Go to England</label><desc>Angelica and her family go to England in 1783.</desc></event>
                 <event xml:id="event41" when="1787-05-25"> <label>Hamilton at the Constitutional Convention</label><desc>Hamilton arrives at the Constitutional Convention on May 25, 1787.</desc></event>
-                <event xml:id="event42" from="1787-01-01" to="1788-01-01"> <label>The Federalist Papers</label><desc>John Jay, James Madison, and Alexander Hamilton wrote a series of 85 essays titled The Federalist Papers which encouraged ratification to the constitution.</desc></event>
+                <event xml:id="event42" when="1787-01-01"> <label>The Federalist Papers</label><desc>John Jay, James Madison, and Alexander Hamilton wrote a series of 85 essays titled The Federalist Papers in the span of a year which encouraged ratification to the constitution.</desc></event>
                 <event xml:id="event43" when="1789-02-04"> <label>Washington Becomes the Preisdent</label><desc>On February 4, 1789, George Washington becomes the first president of the United States of America.</desc></event>
                 <event xml:id="event44" when="1789-09-02"> <label>US Treasury is Founded</label><desc>The Treasury was founded on September 9, 1789.</desc></event>
                 <event xml:id="event45" when="1789-09-11"> <label>Hamilton becomes Secretary of the Treasury</label><desc>Hamilton takes office on September 11, 1789.</desc></event>
-                <event xml:id="event46" from="1800-03-31" to="1800-04-01"> <label>First Murder Trial in the United States</label><desc>The trial involving Levi Weekes took place from March 31st to April 1st in 1800 and was the first murder trial in the United States. Weekes had Aaron Burr, Alexander Hamilton, and Henry Brockholst Livingston representing him at the trial.</desc></event>
+                <event xml:id="event46" when="1800-03-31"> <label>First Murder Trial in the United States</label><desc>The trial involving Levi Weekes took place from March 31st to April 1st in 1800 and was the first murder trial in the United States. Weekes had Aaron Burr, Alexander Hamilton, and Henry Brockholst Livingston representing him at the trial.</desc></event>
             </listEvent>
         </back>
     </text>
