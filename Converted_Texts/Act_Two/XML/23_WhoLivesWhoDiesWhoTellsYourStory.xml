@@ -403,7 +403,12 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Who Lives, Who Dies, Who Tells Your Story</head>
+                <event xml:id="event80" when="1806-01-01"> <label>Graham Windham Orphanage Founded</label><desc>Eliza helped found the first prviate orphanage in New York in 1806.</desc></event>
+            <event xml:id="event81" when="1814-03-14"> <label>Angelica Dies</label><desc>On March 14, 1814, Angelica died. She was buried in the same cemetery, Trinity Church, as Alexander Hamilton and Philip Hamilton.</desc></event>
+            <event xml:id="event82" when="1848-01-01"> <label>Construction for Washington Monument Begins</label><desc>The Washington Monument started construction in the year 1848.</desc></event>
+            <event xml:id="event83" when="1854-11-09"> <label>Eliza Dies</label><desc>On November 11, 1854, Eliza died. She was also buried in Trinity Church cememtery.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

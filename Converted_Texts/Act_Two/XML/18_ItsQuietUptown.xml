@@ -168,7 +168,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>It's Quiet Uptown</head><event xml:id="event74" when="1802-01-01"> <label>The Hamilton Family Moves to Harlem</label><desc>After Philip's death, the Hamiltons move to Harlem, New York in 1802.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

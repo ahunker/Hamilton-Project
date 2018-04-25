@@ -226,7 +226,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Stay Alive (Reprise)</head><event xml:id="event73" when="1801-11-24"><label>Philip Hamilton Dies</label><desc>Philip Hamilton died on November 24, 1801 after being shot in a duel by George Eacker.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

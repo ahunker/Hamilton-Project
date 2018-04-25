@@ -569,7 +569,9 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>The Election of 1800</head><event xml:id="event75" from="1800-10-31" to="1800-12-03"> <label>The Election of 1800</label><desc>The election of 1800 was held. It was primarily between John Adams and Thomas Jefferson, but Aaron Burr (Jefferson's running mate) received the same amount of electoral votes as Jefferson. Thomas Jefferson won the election and became president due to the decision of the old Federalist Congress and Alexander Hamilton.</desc></event>
+                <event xml:id="event76" when="1800-03-04"><label>Thomas Jefferson Becomes President of the United State</label><desc>On March 4, 1801, Thomas Jefferson becomes the third preisdent of the United States with Aaron Burr (and later, George Clinton) as his vice president.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

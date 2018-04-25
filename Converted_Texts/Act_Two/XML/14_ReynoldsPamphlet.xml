@@ -322,7 +322,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Reynolds Pamphlet</head><event xml:id="event67" when="1797-07-30"><label>Hamilton Publishes the Reynolds Pamphlet</label><desc>To prove he was not embezzling government funds, Hamilton publishsed the Reynolds Pamphlet in July of 1797. In the pamphlet, he admitted to his affair with Maria Reynolds and explained the money he spent was involved with the affair.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

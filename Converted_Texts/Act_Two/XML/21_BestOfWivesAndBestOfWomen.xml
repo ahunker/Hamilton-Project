@@ -88,7 +88,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Best of Wives and Best of Women</head><event xml:id="event78" when="1804-07-04"><label>Hamilton Writes Eliza the Letter</label><desc>Hamilton wrote Eliza a letter for if he should die in the upcoming duel with Aaron Burr. He ends the letter addressing Eliza as "best of wives and best of women."</desc></event></listEvent>
         </back>
     </text>
 </TEI>

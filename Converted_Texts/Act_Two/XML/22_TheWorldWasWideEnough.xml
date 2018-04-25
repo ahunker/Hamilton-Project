@@ -344,7 +344,10 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>The World Was Wide Enough</head>
+                <event xml:id="event79" when="1804-07-11"><label>Hamilton and Burr Duel</label><desc>On July 11, 1804, Alexander Hamilton and Aaron Burr dueled in Weehawken, New Jersey.</desc></event>
+                <event xml:id="event80" when="1804-07-12"> <label>Hamilton Dies</label><desc>After being shot by Burr, Alexander Hamilton died on July 12, 1804.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

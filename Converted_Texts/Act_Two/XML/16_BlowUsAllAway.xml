@@ -319,7 +319,11 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Blow Us All Away</head><event xml:id="event69" when="1800-01-01"><label>Philip Hamilton Graduates from King's College</label><desc>In 1800, Philip graduated from King's College.</desc></event>
+                <event xml:id="event70" when="1801-07-04"><label>George Eacker Gives Speech</label><desc>On July 4, 1801, George Eacker criticized Alexander Hamilton in a speech.</desc></event>
+                <event xml:id="event71" when="1801-11-20"><label>Philip Hamilton Confronts Eacker</label><desc>Philip and his friend Richard Price confronted Eacker about the speech at a social event on November 20, 1801.</desc></event>
+                <event xml:id="event72" when="1801-11-23"><label>Philip Hamilton and George Eacker Duel</label><desc>Philip and Eacker duel in Weehawken, New Jersey in November of 1801.</desc></event>
+            </listEvent>
         </back>
     </text>
 </TEI>

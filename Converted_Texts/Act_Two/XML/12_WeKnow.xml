@@ -236,7 +236,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>We Know</head><event xml:id="event65" when="1797-01-01"> <label>No Distinct Dates</label><desc>This song has no distinct dates, but since the musical is intended to be in chronological order, this song would follow the established dates from the previous songs.</desc></event></listEvent>
         </back>
     </text>
 </TEI>

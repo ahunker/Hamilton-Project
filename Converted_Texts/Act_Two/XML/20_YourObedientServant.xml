@@ -149,7 +149,7 @@
             </div>
         </body>
         <back>
-            <listEvent><head>TITLE</head><event xml:id="event"<!--when="0000-00-00" OR from="0000-00-00" to="000-00-00"-->><label></label><desc></desc></event></listEvent>
+            <listEvent><head>Your Obedient Servant</head><event xml:id="event77" when="1804-06-01"><label>Hamilton and Burr Plan Duel</label><desc>In June of 1804, Hamilton and Burr plan to duel each other in Weehawken, New Jersey.</desc></event></listEvent>
         </back>
     </text>
 </TEI>
