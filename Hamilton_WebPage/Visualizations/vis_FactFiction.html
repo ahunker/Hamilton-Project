@@ -1,28 +1,333 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-        <title>Visualizations: Frequency of Phrases</title>
-        <link rel="stylesheet" type="text/css" href="vis.css" />
-    </head>
-    <body>
-        <div class="menu">
-            <!--#include virtual="menu.html"-->
-        </div>
-        <div class="img">
-            <h2>Bar Graph of Fact, Fiction, and Ambiguity:</h2>
 
-            <h3>Click to zoom in on graph.</h3>
-            <a href="FactFictionGraph.svg" title="Bar Graph of Fact, Fictino, and Ambiguity"
-                target="_blank">
-                <img alt="svg_ref" src="FactFictionGraph.svg" class="vis3" />
-            </a>
-
-        </div>
-        <div class="main">
-            <div class="main2">
-                <h2>Description</h2>
-            </div>
-        </div>
-    </body>
+<!DOCTYPE html
+  SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>Hamilton Project: Fact, Fiction, or Ambiguous</title>
+      <link rel="stylesheet" type="text/css" href="vis.css" />
+      
+   </head>
+   <body>
+      <div class="menu">
+         <!--#include virtual="menu.html"-->
+      </div>
+      <div class="img">
+         <h2>Bar Graph of Fact, Fiction, and Ambiguity:</h2>
+         <h3>Click to zoom in on graph.</h3>
+         <a href="FactFictionGraph.svg" title="Bar Graph of Fact, Fiction, and Ambiguity"
+            target="_blank"><img alt="svg_ref" src="FactFictionGraph.svg" class="vis3" /></a>
+      </div>
+      <div class="main">
+         <div class="main2">
+            <h2>Description:</h2>
+            <p>The bar graph above shows the division of factual, fictional, and ambiguous lyrics as
+               percentages. In the musical, we tagged a total of 208 lyrics; 160 were factual, 36
+               were fictional, and 12 were ambiguous. The lyrics were chosen by team members as
+               lines that suggested further research or raised questions of authenticity. </p>
+            <h2>Table:</h2>
+            <table>
+               <tr>
+                  <th></th>
+                  <th>Fact</th>
+                  <th>Fiction</th>
+                  <th>Ambiguous</th>
+               </tr>
+               <tr>
+                  <th>Alexander Hamilton</th>
+                  <td>11</td>
+                  <td>0</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Aaron Burr, Sir</th>
+                  <td>1</td>
+                  <td>2</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>My Shot</th>
+                  <td>4</td>
+                  <td>0</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>The Story of Tonight</th>
+                  <td>1</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The Schuyler Sisters</th>
+                  <td>3</td>
+                  <td>0</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Farmer Refuted</th>
+                  <td>2</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>You'll Be Back</th>
+                  <td>4</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Right Hand Man</th>
+                  <td>13</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>A Winter's Ball</th>
+                  <td>4</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Helpless</th>
+                  <td>5</td>
+                  <td>3</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Satisfied</th>
+                  <td>1</td>
+                  <td>2</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>The Story of Tonight (Reprise)</th>
+                  <td>2</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Wait for It</th>
+                  <td>4</td>
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Stay Alive</th>
+                  <td>11</td>
+                  <td>0</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Ten Duel Commandments</th>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Meet Me Inside</th>
+                  <td>1</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>That Would Be Enough</th>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Guns and Ships</th>
+                  <td>4</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>History has its Eyes on You</th>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Yorktown (The World Turned Upside Down)</th>
+                  <td>8</td>
+                  <td>2</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>What Comes Next?</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Dear Theodosia</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Tomorrow There'll Be More Of Us</th>
+                  <td>1</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Non-Stop</th>
+                  <td>8</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>What'd I Miss</th>
+                  <td>6</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Cabinet Battle #1</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Take A Break</th>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Say No to This</th>
+                  <td>5</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The Room Where it Happens</th>
+                  <td>3</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Schuyler Defeated</th>
+                  <td>1</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Cabinet Battle #2</th>
+                  <td>4</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Washington On Your Side</th>
+                  <td>3</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>One Last Time</th>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>I Know Him</th>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The Adams Administration</th>
+                  <td>4</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>We Know</th>
+                  <td>1</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Hurricane</th>
+                  <td>2</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The Reynolds Pamphlet</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Burn</th>
+                  <td>0</td>
+                  <td>1</td>
+                  <td>1</td>
+               </tr>
+               <tr>
+                  <th>Blow Us All Away</th>
+                  <td>4</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Stay Alive (Reprise)</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>It's Quiet Uptown</th>
+                  <td>2</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The Election of 1800</th>
+                  <td>4</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Your Obedient Servant</th>
+                  <td>2</td>
+                  <td>1</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Best of Wives and Best of Women</th>
+                  <td>1</td>
+                  <td>0</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>The World Was Wide Enough</th>
+                  <td>7</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Who Lives, Who Dies, Who Tells Your Story</th>
+                  <td>6</td>
+                  <td>2</td>
+                  <td>0</td>
+               </tr>
+               <tr>
+                  <th>Total:</th>
+                  <td>160</td>
+                  <td>36</td>
+                  <td>12</td>
+               </tr>
+            </table>
+            <h2>Looking at the Lyrics</h2>
+            <p>Want to see the lyrics we grabbed to investigate? Click on the links below to see the lists!</p>
+            <p>- <a href="fact.html">Fact</a> - <a href="fiction.html">Fiction</a> - <a href="ambiguous.html">Ambiguous</a> -</p>
+            <h2>Analysis:</h2>
+            <p></p>
+         </div>
+      </div>
+   </body>
 </html>
