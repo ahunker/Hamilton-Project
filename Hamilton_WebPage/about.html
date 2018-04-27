@@ -36,12 +36,16 @@
                 present throughout the musical. We will look at where these phrases appear and track
                 when they appear the most or don't appear at all in regards to the overall
                 story.</p>
+            <p class="about">Along with the musical's characters and themes, we decided to investigate 
+                the historical accuracy of the musical by researching specific lyrics. We were interested 
+                in finding out if the musical was more factual or more fictional, so we selected over 100 
+                lyrics to research to determine the historical accuracy of <i>Hamilton: An American Musical</i>.</p>
             <p class="about">Other elements we're interested in include dates and places. We've
                 created an interactive Google Map which features all the places mentioned in
                     <i>Hamilton</i> and in the description of each waypoint is a list of the songs
-                that particular place is referenced. A future goal of this project is to create a
-                timeline on which to place the songs, births, and deaths that appear during the
-                timeline of the musical. </p>
+                that particular place is referenced. We've also created a timeline which has each song's events dated by year. 
+            We've also included a more in-depth description of the events with exact or estimated dates to establish a specific time frame
+            for the musical.</p>
         </div>
         <div class="main" id="aboutopt1">
             <h2 class="about">MEET THE TEAM</h2>
@@ -53,7 +57,7 @@
                     Certficate. She is an original member of <a href="http://lope.newtfire.org"
                         class="about">The Lope de Vega Project</a> team and a founding member and
                     leader of The Hamilton Project team. Her go-to song from <i>Hamilton</i> to
-                    perform in the car is "You'll Be Back".</p>
+                    perform in the car is "You'll Be Back."</p>
             </div>
             <div class="person">
                 <h3>BRI FILER</h3>
@@ -61,7 +65,7 @@
                     is a student at the University of Pittsburgh at Greensburgh, majoring in
                     Creative and Professional Writing, minoring in English Literature, and pursuing
                     a Digital Studies Certificate. She is a founding member of the Hamilton Project
-                    team. Her great love of <i>Hamilton</i> is slowly driving her parents insane.
+                    team. Her go-to song from <i>Hamilton</i> to rap along to is "My Shot." 
                 </p>
             </div>
         </div>
@@ -117,7 +121,25 @@
                 of songs that place appeared in. From there, an XSLT transformation combined the two
                 KML files into one, which was uploaded onto Google Maps and embedded on our
                 page.</p>
+            
+            <h3>Bar Graph of Fact, Fiction, and Ambiguity in the Lyrics</h3>
+            <p class="about">In order to determine the historical accuracy of the musical, we first had 
+            to select lyrics to investigate. We selected certain lines that raised questions of authenticity
+            or suggested further research. After selecting the lyrics, we primarily referred to Ron Chernow's biography 
+            on Alexander Hamilton that the musical's creator, Lin Manuel Miranda, used when writing the musical. After our 
+            research, the data was formed into a bar graph created using SVG to show the percentage of factual, fictional, or ambiguous 
+            lyrics.</p>
+            
+            <h3>Timeline of <i>Hamilton: An American Musical</i></h3>
+            <p class="about">As we were interested in the historical accuracy of the musical, we decided to look into the specific dates
+            mentioned in the songs. From the dates already supplied in the song lyrics, each song was looked over and had relevant events 
+            mentioned within the lyrics researched. After finding dates or estimations for the dates of events, we added a list event element 
+            into the XML for each song marking up the specific events, dates, and descriptions. Once every song had a list event element added, the 
+            songs were uploaded to XQuery to create a timeline through SVG. We only grabbed the years in XQuery and created our timeline to represent the
+            repeating years as larger circles on the timeline. </p>
+            
         </div>
+        
         <div class="main" id="aboutopt3">
             <h2>WANT TO LEARN MORE?</h2>
             <p class="about">For our project we resourced the lyrics from <a
