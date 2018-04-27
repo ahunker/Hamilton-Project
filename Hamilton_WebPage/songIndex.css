@@ -136,3 +136,11 @@ div.description {
     color: black;
     text-align:center;
 }
+
+img{
+    width: 30%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    background:white;
+}
