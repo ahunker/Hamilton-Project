@@ -3,6 +3,11 @@
 
             <svg xmlns="http://www.w3.org/2000/svg" width="5000" height="500" viewBox="0 0 39000 10">
                 <g transform="translate(200, 100)">
+                    <text x="2200"
+                        y="-1000"
+                        text-anchor="middle"
+                        style="font-size:200px"
+                        font-family="Georgia">Timeline of "Hamilton: An American Musical"</text>
                     <rect x="0" y="0" width="36865" height="500" style="fill:tan;stroke:black;stroke-width:25"/>
                     <g>
                         <circle cx="0" cy="-250" r="0" stroke="black" fill="goldenrod" stroke-width="2" opacity="0.8"/>
